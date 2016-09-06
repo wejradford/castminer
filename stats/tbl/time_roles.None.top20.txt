@@ -1,0 +1,11 @@
+1900--1920	c	1920--1940	c	1940--1960	c	1960--1980	c	1980--2000	c	2000--2020	c
+undetermined role	986	minor role	2644	newsreader	24263	host	43138	host	158634	host	260382
+the wife	437	henchman	2026	host	15325	model	21813	hostess	46924	contestant	51844
+the husband	432	reporter	1597	reporter	13017	announcer	13085	newsreader	38797	narrator	45927
+mary	351	dancer	1287	narrator	6758	presenter	11216	presenter	29547	guest	43748
+the father	322	policeman	1098	panelist	6392	various	10699	announcer	26694	presenter	42871
+the girl	319	townsman	1038	townsman	6129	narrator	9693	narrator	23151	judge	30823
+jack	313	undetermined role	931	announcer	6058	singer	9046	guest	22153	panelist	25220
+the sheriff	300	detective	899	sports newsreader	5617	guest	6652	various	16113	various characters	22766
+the maid	280	party guest	857	singer	4810	reporter	5198	reporter	14594	co-host	21098
+the mother	280	waiter	835	weather forecaster	3176	various characters	5014	additional voices	14582	hostess	20137

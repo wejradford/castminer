@@ -1,0 +1,1213 @@
+background assistant	21	13	0.619
+dutch vote presenter	21	13	0.619
+8	21	13	0.619
+mall walker	21	13	0.619
+bajoran	21	13	0.619
+farmer's market patron	21	13	0.619
+function extra	21	13	0.619
+el tropico dancer	21	13	0.619
+christmas choir member	21	13	0.619
+jim foley	21	13	0.619
+private orgy	21	15	0.714
+nursing home resident	21	15	0.714
+asensi	21	15	0.714
+babka	21	15	0.714
+bibliotekar	21	15	0.714
+iida	21	15	0.714
+lorien	21	15	0.714
+mary's friend	21	15	0.714
+naka	21	15	0.714
+florida	21	15	0.714
+negoziante	21	13	0.619
+noir	21	13	0.619
+sado	21	13	0.619
+a fairy	21	16	0.762
+abra	21	16	0.762
+cheer leader	21	16	0.762
+innocence	21	16	0.762
+joan crawford	21	16	0.762
+kore	21	16	0.762
+liddy	21	16	0.762
+oh	21	16	0.762
+toyo	21	16	0.762
+village gossip	21	16	0.762
+white witch	21	16	0.762
+yor	21	16	0.762
+zouzou	21	16	0.762
+baby rosey	21	15	0.762
+jazz dancer	21	12	0.619
+heritage foundation	21	12	0.619
+yomi	21	13	0.619
+teres	21	13	0.619
+shibuya	21	13	0.619
+osato	21	15	0.714
+tola	21	15	0.714
+5 years old	21	15	0.714
+angel of mercy	21	14	0.667
+keli	21	14	0.667
+sergeant dawkins	21	14	0.667
+business reporter	21	14	0.667
+gucci	21	14	0.667
+malli	21	14	0.667
+masajista	21	14	0.667
+amateur	21	14	0.667
+weather report	21	15	0.714
+wicked	21	14	0.667
+mother's friend	21	14	0.667
+nezumi	21	14	0.667
+otti	21	14	0.667
+red wing	21	14	0.667
+selva	21	14	0.667
+jazz club guest	21	13	0.667
+tenko kugen	21	14	0.667
+tech manager	21	14	0.667
+hodge podge	21	14	0.667
+club sin patron	21	14	0.667
+lone star chuck wagon	21	14	0.667
+receptionisten	22	17	0.773
+simmi	22	17	0.773
+dr. meadows	22	17	0.773
+jasper jones	22	17	0.773
+madi	22	17	0.773
+pips	22	17	0.773
+police receptionist	22	17	0.773
+rinat	22	17	0.773
+team 'elefant'	22	13	0.636
+winner: best make-up and hairstyles	22	13	0.636
+nyhetsuppläsare	22	14	0.636
+nosey neighbour	22	14	0.636
+sophie's baby	22	14	0.636
+secret	22	17	0.773
+elderly neighbor	22	14	0.636
+cadence	22	14	0.636
+adoption agent	22	14	0.636
+child extra	22	14	0.636
+producer's assistant	22	14	0.636
+former student	22	14	0.636
+mutti	22	16	0.727
+fashion reporter	22	16	0.727
+baby logan	22	15	0.682
+zombie vampire	22	15	0.682
+student teacher	22	15	0.682
+walking girl	22	15	0.682
+admissions clerk	22	15	0.682
+coki	22	15	0.682
+neon	22	15	0.682
+presenter: american theatre wing	22	15	0.682
+yleisö	22	17	0.773
+sira	22	15	0.682
+yang yang	22	15	0.682
+conservator	22	14	0.682
+hr manager	22	14	0.682
+core nurse	22	15	0.727
+league of girl gamers	22	15	0.727
+gabrielle montgomery	22	15	0.727
+background artiste	22	15	0.727
+video vixen	22	15	0.727
+chris cross	22	15	0.727
+dimples	22	16	0.727
+cowley's office	22	17	0.773
+hayami	22	14	0.636
+shy	23	16	0.696
+fluff	23	15	0.696
+chorus of eaters	23	15	0.696
+dancer: grupo cobo de la peña	23	15	0.696
+judge of you too could be an absolute genius	23	15	0.696
+member, cwmtawe community school choir	23	15	0.696
+rumeurs médiatiques	23	15	0.696
+hooters girl	23	18	0.783
+supervisor, zoological operations	23	15	0.696
+tío josé de paula	23	15	0.696
+dyke	23	18	0.783
+the queen mother	23	14	0.609
+kid fish	23	14	0.609
+dilly	23	18	0.783
+benzinkutas	23	18	0.783
+alesha	23	18	0.783
+nae	23	15	0.652
+muslim evacuee	23	14	0.652
+paul's mom	23	18	0.783
+young caroline	23	18	0.783
+teagan	23	18	0.783
+townsfolk member	23	14	0.609
+officer monroe	23	18	0.783
+joe deneley	23	18	0.783
+cooking segment	23	14	0.609
+dragon kid	23	18	0.783
+pub crowd	23	14	0.609
+kanchan	23	18	0.783
+dutch entry	23	14	0.609
+mia's friend	23	17	0.739
+chili fan	23	14	0.652
+marilyne	23	17	0.739
+on-set choir member	23	14	0.609
+huntress	23	17	0.739
+flea market goer	23	14	0.609
+member of the choir	23	17	0.739
+stace	23	17	0.739
+franki	23	17	0.739
+multishow correspondent	23	14	0.609
+shabo	23	15	0.652
+sa	23	14	0.609
+apis	23	16	0.696
+lally	23	18	0.783
+former prosecutor	23	14	0.609
+barbara bush	23	17	0.739
+freshmen student	24	16	0.667
+s club juniors	24	15	0.625
+park fan	24	15	0.625
+u.s. national team	24	19	0.792
+parisian art world	24	15	0.625
+fashion editor	24	19	0.792
+hecate	24	19	0.792
+wardrobe assistant	24	18	0.750
+philadelphia	24	19	0.792
+le modèle	24	15	0.625
+merryweather	24	15	0.625
+oko	24	15	0.625
+token	24	17	0.750
+blaire	24	19	0.792
+kura	24	16	0.667
+at	24	14	0.625
+st bernadette parent	24	15	0.625
+operator & clerk vo	24	16	0.667
+condoleezza rice	24	18	0.750
+gunda	24	16	0.708
+speech therapist	24	17	0.708
+dobby	24	18	0.750
+ship computer	24	17	0.708
+garnet	24	17	0.708
+gusta	24	17	0.708
+rufi	24	19	0.792
+pop star	24	16	0.667
+teen partygoer	24	15	0.625
+valli	24	15	0.625
+dr. schiller	24	15	0.625
+spacey	24	19	0.792
+sunday school teacher	24	19	0.792
+bonbon	24	18	0.750
+kickstarter backer	24	15	0.625
+cassie sunday	24	18	0.750
+junjun	24	18	0.750
+kallen	24	18	0.750
+young patient	24	15	0.625
+zahn	24	15	0.625
+singer in bar	24	15	0.625
+juicy	25	17	0.680
+native dancer	25	17	0.680
+ballet instructor	25	19	0.760
+kase	25	19	0.760
+previous winner	25	17	0.680
+school dancer	25	17	0.680
+t'pau	25	17	0.680
+scenester	25	16	0.680
+gil ra im	25	19	0.760
+red cross worker	25	17	0.680
+african dancer	25	18	0.720
+contest winner	25	17	0.680
+actor in a supporting role in a series, mini-series or motion picture made for tv	25	16	0.640
+dillion	25	16	0.640
+ekspert	25	16	0.640
+skate fan	25	16	0.640
+background dancer	25	15	0.640
+the doll	25	18	0.720
+sexologist	25	18	0.720
+brazilian dancer	25	15	0.600
+surrogate	25	17	0.680
+netta	25	18	0.720
+fia	25	19	0.800
+champagne	25	18	0.720
+script	25	18	0.720
+corresponden	25	15	0.600
+japanese diplomat	25	18	0.720
+halle	25	18	0.720
+katie's friend	26	18	0.692
+portrait stand customer	26	15	0.615
+fetish club guest	26	15	0.615
+carer	26	16	0.615
+french singer	26	16	0.615
+lindsay lohan	26	16	0.615
+ladybug	26	19	0.731
+kagari	26	19	0.731
+keely	26	19	0.731
+dolls voices	26	15	0.615
+choir of miskolk national theatre	26	15	0.615
+dancer at gala	26	15	0.615
+guest model	26	18	0.692
+bedelia	26	16	0.615
+ghetto victim	26	15	0.615
+assistant funeral director	26	18	0.692
+seventh juror	26	15	0.615
+the medium	26	15	0.615
+shine	26	16	0.615
+children's church choir	26	19	0.769
+the white witch	26	20	0.769
+stasi	26	20	0.769
+naja	26	20	0.769
+janni	26	20	0.769
+6 years old	26	20	0.769
+personal chef	26	16	0.654
+event coordinator	26	20	0.769
+ez way angel	26	17	0.654
+terapeuten	26	16	0.654
+laura's friend	26	16	0.654
+audience leader	26	17	0.692
+people magazine	26	17	0.654
+sunflower	26	17	0.654
+fado singer	26	17	0.692
+sonny and cher	26	17	0.654
+caramel	26	17	0.654
+phuong	26	18	0.692
+no. 2	26	17	0.692
+noni	26	18	0.692
+guest audience	26	17	0.654
+squirrels	27	17	0.630
+juraci	27	20	0.741
+koululainen	27	18	0.667
+finola	27	18	0.667
+alex monroe	27	18	0.667
+school psychologist	27	20	0.741
+Élève	27	20	0.741
+person in club	27	17	0.630
+baptism attendee	27	19	0.741
+mi	27	18	0.667
+cashmere	27	19	0.704
+sparkles	27	18	0.667
+sam mitchell	27	18	0.667
+siggy	27	17	0.630
+sam robinson	27	21	0.778
+ngozi	27	21	0.778
+joan rivers	27	21	0.778
+cayenne	27	21	0.778
+library assistant	27	19	0.704
+bulla	27	21	0.778
+salesclerk	27	19	0.704
+sales associate	27	17	0.667
+featured model	27	19	0.704
+palm reader	27	19	0.704
+titta	27	18	0.667
+sura	27	18	0.667
+eka	27	21	0.778
+saïda	28	19	0.714
+yi	28	20	0.714
+chari	28	22	0.786
+lilja	28	22	0.786
+patricia 'peppermint patty' reichardt	28	22	0.786
+funeral singer	28	21	0.786
+school choir member	28	19	0.679
+presenter: best art direction	28	19	0.679
+gul	28	19	0.679
+presenter: best featured actor in a musical	28	19	0.679
+salli	28	19	0.679
+uchi	28	19	0.679
+stage dancer	28	18	0.679
+green earth first employee	28	18	0.679
+moravian delaware	28	18	0.679
+dancing ensemble	28	22	0.786
+chata	28	22	0.786
+singing	28	16	0.607
+un chino	28	16	0.607
+canaan	28	21	0.750
+angeli	28	21	0.750
+virgo	28	17	0.643
+waif	28	18	0.643
+tete	28	18	0.643
+subaru	28	18	0.643
+motel receptionist	28	18	0.643
+guest correspondent	28	16	0.607
+memory	28	17	0.607
+cantina extra	28	16	0.607
+t.a.	28	17	0.607
+school choir	28	16	0.607
+cocktail party attendee	28	18	0.643
+tiffy	28	18	0.643
+shanahan estate well wisher	28	18	0.643
+carro	28	21	0.750
+caseworker	28	21	0.750
+ekdahlska huset	28	18	0.643
+presenter: best featured actor in a play	28	17	0.607
+tek	28	17	0.607
+mouche	28	17	0.607
+talk show audience	29	19	0.655
+mayor's staff	29	17	0.621
+sunday scoop presenter	29	20	0.690
+fancy	29	21	0.724
+teammate, mmsu laoag city	29	18	0.655
+atari	29	18	0.621
+leman	29	21	0.724
+kouhen	29	22	0.793
+simple	29	21	0.724
+as an adult	29	18	0.621
+tootsie	29	21	0.724
+danila	29	20	0.690
+millet	29	20	0.690
+bhavani	29	23	0.793
+mombie	29	19	0.655
+casting associate	29	19	0.655
+lory	29	22	0.759
+tribal dancer	29	18	0.621
+upscale restaurant patron	29	18	0.621
+alex stone	29	23	0.793
+dispatcher vo	29	18	0.621
+walter's tap class	29	22	0.793
+ronni	29	18	0.621
+cree	29	17	0.621
+holiday	29	18	0.621
+park mom	29	22	0.793
+glad	29	23	0.793
+contestant applicant	30	18	0.633
+the orphan	30	18	0.633
+libra	30	18	0.633
+guest celebrity	30	18	0.600
+juncal	30	19	0.633
+cabaret performer	30	20	0.667
+grocery customer	30	19	0.633
+ji	30	20	0.667
+caregiver	30	20	0.700
+kuu	30	20	0.667
+nihal	30	22	0.733
+borka	30	21	0.700
+ember	30	23	0.767
+techno dancer	30	21	0.700
+night club singer	30	21	0.700
+wedding dancer	30	20	0.667
+muiden rooli	31	22	0.710
+the fortune teller	31	22	0.710
+the school teacher	31	21	0.710
+wednesday	31	21	0.710
+kuni	31	20	0.645
+gnocchi	31	21	0.710
+gps	31	19	0.645
+50s malt shop patron	31	19	0.645
+unclean	31	19	0.645
+showbiz reporter	31	19	0.645
+pageant director	31	24	0.774
+yuli	31	19	0.613
+mísa	31	21	0.677
+january	31	21	0.677
+floor	31	18	0.613
+miskolk bartók choir	31	18	0.613
+animal care specialist	31	23	0.742
+angela's friend	31	24	0.774
+pebbles	31	21	0.677
+special investigator	31	23	0.742
+sex therapist	31	24	0.774
+hill's little angel	31	19	0.613
+psychic medium	31	19	0.613
+zenpen	31	23	0.774
+aly	31	24	0.774
+valencia	31	24	0.774
+candy cane	31	24	0.774
+rodeo	31	21	0.677
+next door neighbor	32	20	0.625
+tina turner	32	20	0.656
+spanish teacher	32	20	0.625
+the old maid	32	23	0.750
+lyndsay	32	24	0.750
+sanda	32	23	0.750
+door	32	24	0.750
+case worker	32	24	0.750
+presenter: best supporting actor	32	22	0.688
+flight nurse	32	24	0.750
+mei mei	32	24	0.750
+whoopi goldberg	32	20	0.625
+juda	32	23	0.719
+the sweetheart	32	19	0.625
+bunwa kaku	32	20	0.625
+jayme	32	20	0.625
+hedi	32	24	0.781
+baby april	32	25	0.781
+mickie	32	19	0.625
+choir soloist	32	19	0.625
+guest investigator	32	20	0.625
+wiggy	32	21	0.656
+kimba	32	20	0.625
+teeth	32	21	0.656
+former fbi profiler	33	23	0.697
+seventeen magazine player	33	23	0.697
+coffeehouse patron	33	23	0.697
+diet expert	33	23	0.697
+night club goers	33	19	0.606
+apex	33	26	0.788
+road warrior	33	22	0.667
+garden party extra	33	20	0.636
+vintazh	33	22	0.667
+backbeats singer	33	22	0.667
+nour	33	22	0.667
+verges	33	22	0.667
+church patrons	33	20	0.636
+angele	33	25	0.758
+car shopper	33	20	0.606
+nyu student	33	21	0.636
+president's secretary	33	21	0.636
+ballet student	33	23	0.727
+folklorist	33	20	0.636
+nuori	33	20	0.606
+security director	33	23	0.697
+st. matthew's choir & band member	33	23	0.727
+sancha	33	20	0.606
+taipan	33	23	0.727
+terry martin	34	22	0.647
+nebula	34	27	0.794
+homura	34	27	0.794
+discord	34	22	0.647
+kanna	34	27	0.794
+team fortune	34	22	0.647
+kommunalka	34	23	0.706
+acrobatic dancer	34	23	0.706
+plain springs church goer	34	22	0.676
+chachi	34	23	0.676
+upa dance	34	23	0.676
+tig	34	25	0.735
+boubou	34	21	0.618
+barbra streisand	34	21	0.618
+bingo parlor patron	34	22	0.647
+mitsui	34	24	0.706
+preet	34	26	0.765
+yoshii	34	26	0.765
+custard	34	23	0.676
+pussy	34	24	0.706
+nancy reagan	35	26	0.743
+gate agent	35	24	0.714
+avis llar d'avis	35	26	0.743
+florista	35	26	0.743
+cómplices	35	25	0.714
+improvisor	35	27	0.771
+findus	35	27	0.771
+izzie	35	27	0.771
+judy garland	35	24	0.686
+vegfarendur	35	23	0.686
+dewi	35	23	0.657
+chairperson	35	23	0.657
+tandy	35	23	0.657
+club fit kid	36	28	0.778
+school bus kid	36	22	0.611
+gussie	36	28	0.778
+simi	36	24	0.667
+aubrey's friend	36	24	0.667
+sunday	36	22	0.611
+trafficked girl	36	26	0.750
+divine	36	23	0.667
+child obesity participant	36	24	0.667
+nance	36	22	0.611
+divisional scene examiner	36	25	0.722
+senka	36	23	0.639
+jackie fisher	36	23	0.639
+chou	36	23	0.639
+mutsumi	36	25	0.722
+sampaloc manila and university	36	21	0.611
+presenter: best lead actor	36	26	0.722
+911 dispatcher	36	26	0.722
+la cubana	36	21	0.611
+file clerk	37	24	0.649
+saloon singer	37	23	0.649
+airline ticket agent	37	24	0.649
+broer	37	26	0.703
+iga	37	25	0.676
+juniper	37	25	0.676
+legal assistant	37	25	0.676
+semi-finalist	37	26	0.703
+fiddlefest student performer	37	22	0.622
+jenn's house party goer	37	24	0.649
+'the music man'	37	24	0.649
+nachtigall	37	26	0.703
+blues singer	37	26	0.703
+yahiko	37	26	0.703
+kelly's friend	37	25	0.703
+chorus dancer	37	27	0.757
+eliza ryan	37	28	0.757
+dao	37	28	0.757
+the muse	37	27	0.730
+little red	37	27	0.730
+the pretenders	38	22	0.605
+presenter: best actor	38	26	0.684
+owen child	38	24	0.632
+women's army of revolt	38	27	0.711
+citizens of oz	38	27	0.711
+the flirt	38	26	0.711
+gotenks	38	29	0.763
+lisa hayes	38	23	0.605
+la	38	25	0.658
+siamese twin	38	23	0.605
+xhakúm tribe	38	22	0.605
+tutu	38	23	0.605
+detective mccarthy	38	30	0.789
+maple	38	30	0.789
+baby twin	39	26	0.667
+chiqui	39	23	0.615
+gate attendant	39	25	0.641
+seraphim	39	28	0.744
+balboa tribe	39	25	0.641
+gogo dancer	39	25	0.641
+topaz	39	27	0.692
+sports host	39	25	0.641
+knowledge student	39	26	0.667
+officer bailey	39	27	0.718
+hagar	39	28	0.718
+sexy dancer	39	27	0.718
+party planner	39	26	0.667
+uchida	39	29	0.744
+alinta tribe	39	29	0.769
+mel b	39	30	0.769
+nike	39	28	0.718
+mignon	39	28	0.718
+concerned parent	39	24	0.641
+tsubaki	39	28	0.718
+dance winner	39	30	0.769
+clinic patron	40	24	0.600
+moza	40	29	0.725
+eddie gordon	40	26	0.650
+news tv host	40	26	0.650
+back up singer	40	26	0.675
+benten	40	25	0.625
+fortuneteller	40	28	0.725
+wave	40	31	0.800
+wannabe	40	30	0.775
+murasaki	40	28	0.700
+confradia	40	28	0.700
+micki	40	28	0.700
+whopper	41	27	0.659
+sweets	41	25	0.610
+sarah's friend	41	31	0.756
+punky	41	24	0.610
+orgy participant	41	24	0.610
+model mentor	41	26	0.634
+member of ruby flipper	41	26	0.634
+working woman	41	31	0.756
+temp	41	29	0.707
+wassi the vast	42	26	0.619
+shiina	42	31	0.738
+hazuki	42	31	0.762
+bombshell	42	33	0.786
+louison	42	33	0.786
+2º. ballet	42	32	0.786
+mayor's office employee	42	29	0.690
+lotus land dancer	42	26	0.619
+riva	42	26	0.619
+charlie ashby	42	26	0.619
+tippy	42	31	0.738
+student dancer	42	30	0.738
+disc golf spectator	42	28	0.667
+oyster	42	30	0.738
+milliner	42	26	0.643
+aspca special agent for humane law enforcement	42	26	0.643
+miyabi	42	31	0.738
+olé olé	43	27	0.651
+junie	43	28	0.651
+bandstand dancer	43	34	0.791
+fashion stylist	43	30	0.698
+blond	43	27	0.628
+tonka	43	29	0.674
+pat casey	43	33	0.767
+cqtest	43	26	0.605
+schoolchildren	43	26	0.605
+principle dancer	43	27	0.651
+kenya	43	34	0.791
+middle east correspondent	44	34	0.795
+3+	44	27	0.614
+nakai	44	29	0.682
+seiko	44	31	0.705
+shiloh	44	32	0.727
+hospital clerk	44	29	0.659
+paradise	44	28	0.636
+pari	44	31	0.705
+hilly	44	35	0.795
+avalon	44	35	0.795
+the outsider	44	34	0.773
+eight	44	27	0.636
+bex	44	33	0.773
+toy soldier	44	27	0.636
+jazzy	45	35	0.778
+pta parent	45	33	0.756
+salon customer	45	34	0.756
+talent coordinator	45	35	0.778
+system voice	45	34	0.756
+bill porter	45	35	0.778
+the dancers	45	27	0.600
+deputy head of section	45	31	0.711
+chorus of townspeople	45	32	0.733
+vania	45	31	0.689
+assistant principal	45	31	0.711
+band vocalist	45	27	0.622
+demeter	45	28	0.622
+f.m.e.	45	28	0.644
+other student	45	35	0.778
+trix	45	29	0.644
+unnamed part	45	28	0.644
+myyjä	46	30	0.674
+paisley	46	32	0.717
+guren	46	34	0.739
+miss education panelist	46	29	0.630
+körmedlem	46	30	0.652
+lisa's friend	46	33	0.739
+moso tribe	46	36	0.783
+tora	46	32	0.696
+tana	46	36	0.783
+team eventus	46	35	0.761
+tash	46	34	0.739
+kimber	46	32	0.696
+sammy lee	47	37	0.787
+isla purgatoryo	47	36	0.787
+sweeny	47	31	0.660
+lien	47	36	0.766
+band'eros	47	36	0.766
+hanae	48	34	0.708
+bounce	48	35	0.729
+chickie	48	29	0.604
+carli	48	32	0.667
+guest at funeral	48	30	0.625
+opening credits	48	33	0.688
+teal	48	33	0.688
+vanity	48	38	0.792
+pretty	48	33	0.688
+vet tech	48	34	0.708
+health expert	49	36	0.735
+uvi	49	31	0.653
+member: boney m.	49	35	0.735
+wasp	49	31	0.653
+fred smith	49	30	0.612
+chris connor	49	38	0.776
+parade	49	34	0.694
+kiri	49	39	0.796
+tádé	49	31	0.633
+gal	49	34	0.694
+woim	50	32	0.640
+voodoo dancer	50	31	0.640
+school counselor	50	31	0.640
+hanan	50	37	0.740
+mii	50	34	0.700
+fritzi	50	35	0.700
+kidnap victim	50	36	0.720
+mikki	50	35	0.700
+plantation soul	50	33	0.660
+char	50	32	0.640
+lexa	50	32	0.660
+uk studio presenter	50	34	0.680
+flirt	50	34	0.680
+university of makati	50	34	0.680
+clairvoyant	50	36	0.720
+communion congregant	50	36	0.720
+orla	51	38	0.745
+beanie	51	34	0.667
+presley	51	32	0.627
+chili das schaf	51	33	0.647
+police secretary	51	33	0.647
+lei	51	39	0.765
+stem	51	36	0.725
+replacement housemate	51	39	0.784
+bubble	51	39	0.784
+santa's helper	51	37	0.725
+boutique owner	52	39	0.750
+oshima	52	33	0.635
+tomomi	52	39	0.750
+bri	52	39	0.750
+bonny	52	33	0.635
+prs member	52	35	0.673
+shell	52	36	0.692
+boy b	52	36	0.692
+pizza	52	35	0.673
+strobe	53	41	0.774
+liberty	53	41	0.774
+katelyn	53	41	0.774
+december	53	37	0.698
+núria	53	33	0.623
+asistente social	53	40	0.774
+les lepic	53	39	0.736
+mata	53	33	0.642
+nair	53	35	0.660
+runaway	53	35	0.679
+screaming fan	54	36	0.685
+cat owner	54	35	0.667
+corphish	54	40	0.759
+the librarian	54	35	0.648
+fashion show model	54	43	0.796
+cheetah	54	33	0.611
+riko	54	39	0.741
+nude model	54	41	0.759
+slightly	54	41	0.759
+heaven	54	37	0.685
+alto	54	38	0.704
+giggles	55	39	0.709
+shelley godfrey	55	38	0.691
+dr. k	55	38	0.691
+hema	55	41	0.745
+ale	56	36	0.643
+bliss	56	36	0.643
+dreamgirl	56	43	0.768
+cica	56	42	0.750
+the stripper	56	42	0.750
+church congregant	56	37	0.679
+carue	56	35	0.625
+sweet	56	33	0.607
+trophy presenter	57	35	0.614
+boy a	57	35	0.632
+resident judge	58	45	0.776
+wardrobe	58	37	0.638
+repoter	58	35	0.603
+sammie	58	36	0.621
+night club dancer	58	39	0.672
+adolescente	58	39	0.672
+berci	58	39	0.672
+sade	58	42	0.724
+osaki	58	46	0.793
+rosalyn	58	42	0.724
+fiancee	59	44	0.763
+natsume	59	43	0.729
+arashi	59	37	0.627
+fate	59	39	0.661
+nevin	59	38	0.661
+cancer patient	59	36	0.627
+shima	59	43	0.729
+back-up singer	60	41	0.683
+steps	60	36	0.600
+kym	60	40	0.667
+fedora	60	43	0.717
+nosey neighbor	60	40	0.683
+deputy district attorney	60	39	0.650
+airline attendant	60	40	0.683
+galang tribe	61	37	0.623
+augustine	61	45	0.738
+banshee	61	38	0.623
+gunn	61	40	0.672
+gun	61	43	0.705
+lan	62	44	0.710
+plum	62	37	0.613
+voice artist	63	41	0.651
+maire	63	38	0.619
+child at party	63	39	0.619
+rarotonga tribe	63	37	0.603
+nosy neighbor	63	37	0.603
+lian	63	49	0.794
+mayor's secretary	63	48	0.762
+highschool student	64	38	0.609
+ling-ling	64	50	0.781
+magi	64	46	0.734
+food fighter	64	39	0.609
+kazumi	64	44	0.688
+criminal defense attorney	64	40	0.641
+s.o.c.o.	64	44	0.688
+yoga participant	64	46	0.719
+postie	64	42	0.656
+wedding coordinator	64	48	0.766
+the gypsy	64	42	0.656
+tae	65	51	0.785
+physiotherapist	65	48	0.738
+french teacher	65	44	0.677
+vaso	65	40	0.615
+music video dancer	65	40	0.615
+c.c.	65	51	0.785
+shige	66	40	0.606
+background vocals	66	44	0.667
+fundraiser guest	67	43	0.642
+luba	67	47	0.701
+timi	67	53	0.791
+boran tribe	67	40	0.612
+casaya tribe	67	44	0.657
+maris	67	52	0.776
+zombie dancer	68	47	0.691
+the corrs	68	52	0.779
+white tiger	68	45	0.662
+tikiano tribe	68	45	0.676
+hellcat	68	42	0.632
+w	69	42	0.623
+mini	69	51	0.739
+saga	69	46	0.667
+britney spears	69	46	0.681
+presenter: best costume design	70	55	0.786
+calypso	70	48	0.686
+rada	70	49	0.700
+resident tech	70	54	0.786
+love interest	70	43	0.614
+kaoru koganei	70	43	0.614
+matija	71	45	0.634
+missing person	71	44	0.634
+stix	71	46	0.648
+co presenter	71	49	0.690
+one of the children	71	46	0.662
+fenner	72	44	0.611
+backup dancer	72	48	0.667
+root	73	47	0.644
+chaperone	73	54	0.740
+elite dancer	73	46	0.630
+daca	74	48	0.649
+di	74	51	0.703
+team ignite	74	57	0.784
+bar dancer	74	58	0.784
+executive assistant	75	57	0.760
+pochi	75	52	0.693
+ricki	76	54	0.711
+yuma	76	57	0.750
+drum	76	54	0.711
+terra	76	53	0.697
+sidonie	76	52	0.684
+ducky	76	46	0.605
+jing	76	47	0.632
+verma	76	58	0.763
+clinical psychologist	76	50	0.671
+miri	77	55	0.714
+personal assistant	77	47	0.623
+tala	77	51	0.675
+hande	77	50	0.649
+tanssija	78	50	0.641
+pixel	78	51	0.654
+celebrity partner	78	48	0.615
+marti	79	59	0.747
+roxas boulevard night race	79	51	0.646
+gypsy dancer	79	54	0.684
+ying	80	57	0.713
+chris kelly	80	63	0.787
+malina	80	58	0.725
+robinette	80	59	0.738
+as a child	80	49	0.613
+fantasma	81	51	0.630
+misa	81	52	0.642
+kisser	81	58	0.716
+venus de milo	82	61	0.744
+boney m.	82	62	0.768
+dresser	82	50	0.610
+pistol pete	82	57	0.695
+valkyrie	82	64	0.793
+sahara	82	64	0.780
+yaxhá tribe	83	50	0.602
+cupcake	83	65	0.795
+reine	83	56	0.687
+puff	83	66	0.795
+featured singer	84	50	0.607
+kala	84	60	0.714
+gara	84	67	0.798
+kellie	84	62	0.738
+winner: best costume design	84	57	0.679
+wren	85	66	0.776
+popi	85	61	0.729
+pokey	85	52	0.624
+fire	86	56	0.651
+explorer star	86	51	0.605
+dansare	86	52	0.605
+juno	86	66	0.767
+substitute weather anchor	87	64	0.747
+best of breed	87	55	0.632
+skid	87	54	0.632
+haru	88	58	0.670
+bitch	88	63	0.716
+ljuba	89	56	0.640
+screamer	89	62	0.697
+aerobics instructor	90	70	0.789
+flame	90	65	0.722
+angeles	91	58	0.648
+birdy	91	72	0.791
+amor	91	64	0.703
+zola	91	69	0.769
+naturalist	91	69	0.758
+poison	92	57	0.620
+marjan	92	57	0.630
+iman	92	61	0.663
+sunbather	93	69	0.742
+click	93	58	0.624
+alex reed	94	62	0.660
+deva	94	70	0.745
+starlight	95	63	0.663
+brit	95	65	0.684
+spokesperson	96	60	0.625
+kiwi	96	63	0.656
+one	97	62	0.649
+delta	97	65	0.670
+street walker	97	62	0.649
+alva	97	76	0.784
+food bank patron	97	62	0.639
+arden	97	68	0.701
+lofteur	97	72	0.742
+medical correspondent	98	73	0.745
+franzi	98	75	0.765
+trinidad	98	70	0.724
+sule	99	77	0.778
+matchmaker	100	69	0.690
+top	100	62	0.620
+kanon	101	67	0.663
+kitten	101	79	0.792
+flower seller	101	62	0.614
+koyuki	101	75	0.743
+dada	101	64	0.644
+canada	102	62	0.608
+alex taylor	102	76	0.745
+case manager	102	69	0.676
+angela merkel	103	79	0.767
+kiss	103	65	0.631
+the face	104	78	0.760
+bollywood dancer	104	79	0.769
+tory	104	80	0.769
+minami	105	66	0.629
+spring	106	73	0.689
+pro dancer	106	67	0.632
+ami de mouki	106	70	0.670
+eris	106	80	0.755
+nightclub singer	107	81	0.757
+bridge player	107	69	0.645
+madhu	109	74	0.688
+ara	109	70	0.651
+contortionist	110	76	0.691
+butterfly	110	86	0.782
+new cinema spectator	111	69	0.631
+number six	111	81	0.730
+foxy	111	69	0.622
+talking head	112	82	0.732
+kasey	112	88	0.795
+linny	113	85	0.752
+red team	113	83	0.735
+mocha	113	69	0.611
+moomin	113	80	0.717
+athlete marshall	113	68	0.602
+sphinx	113	79	0.699
+virgin	114	88	0.772
+zhenya	114	76	0.667
+mousey	114	91	0.798
+anjo	115	73	0.643
+dede	116	77	0.672
+fitness expert	118	79	0.669
+felice	118	82	0.695
+penny scavo	119	83	0.697
+ros	119	82	0.697
+senta	119	91	0.765
+five star	119	72	0.613
+social media correspondent	120	92	0.767
+envy	120	95	0.792
+peri	121	81	0.669
+fallon	121	82	0.678
+prins	121	93	0.777
+vlasta	122	95	0.787
+sales assistant	123	73	0.602
+artistic director	123	79	0.642
+unicorn	124	74	0.605
+kiran	125	85	0.680
+personal finance expert	125	81	0.648
+cougar	126	97	0.770
+sous-chef	127	88	0.693
+salesperson	127	83	0.654
+office assistant	127	78	0.614
+sveta	127	99	0.780
+pi	128	97	0.758
+white house correspondent	128	85	0.672
+oracle	129	92	0.721
+love	129	98	0.760
+starr	130	89	0.692
+dance student	131	101	0.779
+cheyenne	131	95	0.725
+georgi	131	82	0.634
+corps de ballet	133	101	0.759
+the dancer	133	99	0.752
+regis	134	89	0.664
+beachgoer	134	95	0.716
+karma	135	97	0.726
+nutritionist	138	86	0.630
+cricket	138	82	0.601
+promo announcer	138	97	0.703
+izumi	139	104	0.748
+brobee	140	90	0.643
+liberty x	140	84	0.600
+solo singer	140	106	0.764
+ching	141	99	0.709
+toodee	141	87	0.624
+tuca	142	95	0.669
+six	143	106	0.741
+kearney	143	109	0.762
+english	144	114	0.799
+backing vocals	145	87	0.600
+hara	146	116	0.795
+paralegal	146	96	0.658
+rook	147	88	0.605
+interior designer	149	99	0.671
+tarjoilija	150	101	0.673
+roma	150	105	0.707
+church lady	150	111	0.747
+romy	150	112	0.753
+tv personality	151	111	0.742
+flamenco dancer	151	104	0.689
+loren	153	95	0.621
+frieza	154	110	0.721
+allen walker	155	103	0.671
+midge	156	120	0.769
+nene	156	112	0.718
+wedding planner	157	112	0.713
+court stenographer	158	107	0.677
+maro	158	112	0.715
+psychotherapist	160	125	0.787
+substitute anchor	161	112	0.702
+min	161	128	0.795
+co	161	126	0.783
+dance teacher	161	104	0.652
+binky	161	100	0.627
+costume designer	161	105	0.652
+repórter	162	104	0.648
+asuka	163	105	0.644
+zap	163	112	0.687
+babbit	164	103	0.628
+gin	165	107	0.648
+gospel singer	166	111	0.669
+shay	167	105	0.635
+kerem	167	124	0.743
+recepcionist	169	129	0.769
+china	170	119	0.706
+gymnast	170	115	0.676
+blanka	170	125	0.741
+rabicó	170	116	0.688
+loulou	171	108	0.637
+mar	172	126	0.733
+swan	172	122	0.709
+schoolteacher	172	126	0.733
+beta	174	130	0.747
+faith newman	174	124	0.718
+aqua kid	174	120	0.690
+peach	174	138	0.799
+birdie	187	131	0.706
+relative	187	115	0.615
+fern	189	145	0.767
+gi	195	119	0.615
+galone	195	120	0.621
+mary carter warwick	197	135	0.685
+sonsorol tribe	198	131	0.662
+rain	200	153	0.765
+pepi	202	127	0.634
+marci	203	139	0.685
+murder victim	203	122	0.606
+casting assistant	204	137	0.676
+yoga instructor	204	136	0.667
+randi	205	160	0.780
+karl-heinz	205	157	0.766
+democratic strategist	208	136	0.659
+autograph seeker	208	134	0.649
+miho	209	150	0.718
+backup singer	210	163	0.781
+sales clerk	210	131	0.624
+regional weather forecaster	211	127	0.602
+orochimaru	211	129	0.616
+computer voice	211	132	0.626
+nightclub dancer	212	128	0.604
+picasso	217	169	0.779
+panther	218	145	0.670
+theater extra	220	139	0.632
+foreperson	220	142	0.650
+cass	222	137	0.617
+alphonse elric	225	170	0.756
+jodi	226	171	0.757
+mackenzie	229	139	0.607
+hadley	232	139	0.603
+blondie	236	164	0.699
+rogue	236	158	0.669
+mallory	238	160	0.672
+the secretary	240	181	0.754
+sirena	242	147	0.612
+yoga student	246	159	0.650
+hayashi	247	157	0.636
+diamond	253	177	0.700
+eda	254	201	0.795
+bela	258	178	0.690
+zuza	258	205	0.795
+socialite	261	200	0.770
+mitzi	262	205	0.782
+ami	262	188	0.718
+darby	267	167	0.625
+figurante	268	191	0.713
+lightning	268	211	0.791
+baby bop	270	174	0.648
+ling	274	174	0.639
+kari	278	210	0.755
+dakota	278	176	0.637
+jury foreperson	280	188	0.671
+panel member	283	172	0.608
+the child	288	181	0.632
+exercise class	294	228	0.779
+911 operator	296	202	0.682
+goldie	297	226	0.764
+jem	299	181	0.605
+lala	300	234	0.783
+maki	303	226	0.746
+ice	305	228	0.748
+make-up artist	307	214	0.700
+kike	309	243	0.790
+show host	310	212	0.687
+musa	310	217	0.703
+recepcionista	311	197	0.637
+bobbie	313	210	0.674
+babe	313	226	0.725
+dany	316	230	0.731
+piper	321	254	0.791
+politics reporter	321	252	0.785
+pan	326	232	0.715
+news reader	332	206	0.620
+sugar	334	261	0.781
+dixie	335	245	0.731
+pepper	342	252	0.740
+fortune teller	343	257	0.749
+lin	346	274	0.792
+shelby	347	217	0.628
+sunshine	349	240	0.691
+star	352	237	0.673
+regional newsreader	359	275	0.766
+weather reporter	362	280	0.773
+psychic	362	255	0.704
+storm	362	248	0.688
+didi	367	233	0.638
+flower	367	251	0.687
+school teacher	372	245	0.659
+political correspondent	381	228	0.601
+makeup artist	382	257	0.675
+nova	382	275	0.723
+rena	383	240	0.627
+gillian	385	307	0.797
+jody	391	288	0.739
+bulan tribe	393	286	0.728
+nikita	403	298	0.739
+clue crew	404	260	0.644
+darcy	406	319	0.786
+niki	410	319	0.780
+po	412	292	0.709
+lapu-lapu tribe	432	303	0.701
+gabby	433	330	0.762
+substitute co-anchor	454	284	0.628
+executive chef	458	278	0.609
+laurence	461	346	0.751
+mika	468	316	0.677
+guest vocalist	474	288	0.610
+valentine	478	354	0.743
+entertainment reporter	478	363	0.759
+the cook	491	307	0.625
+izzy	495	313	0.634
+dende	496	342	0.692
+priscilla	499	386	0.774
+tala tribe	503	306	0.608
+miki	503	308	0.614
+marian	511	376	0.736
+lexi	526	369	0.702
+dee	569	417	0.735
+val	612	390	0.637
+kay	636	469	0.737
+ballet dancer	650	461	0.711
+laurie	666	529	0.794
+stylist	670	445	0.666
+bunny	680	496	0.731
+sol	682	411	0.604
+vädret	701	422	0.603
+computer	707	459	0.651
+cherry	740	558	0.755
+cleo	747	565	0.756
+billie	766	606	0.791
+dominique	798	601	0.753
+gabi	809	637	0.787
+social worker	895	695	0.777
+shop assistant	898	608	0.677
+gohan	933	667	0.715
+shannon	956	745	0.779
+on-air presenter	1130	877	0.776
+librarian	1147	829	0.724
+fran	1151	788	0.685
+pearl	1186	893	0.753
+shopper	1216	745	0.613
+leslie	1270	949	0.747
+jess	1358	1070	0.789
+ginger	1424	1084	0.761
+jo	1446	956	0.661
+mo	1637	1045	0.638
+sasha	1797	1110	0.618
+sandy	2273	1800	0.792
+andrea	2793	2218	0.794
+pat	3309	2382	0.720
+dancer	31172	19008	0.610

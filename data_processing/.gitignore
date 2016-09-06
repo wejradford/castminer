@@ -1,0 +1,5 @@
+*.txt
+*.sorted
+*.csv
+*.log
+*.sqlite

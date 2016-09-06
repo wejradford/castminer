@@ -1,0 +1,11 @@
+1900--1920	c	1920--1940	c	1940--1960	c	1960--1980	c	1980--2000	c	2000--2020	c
+		spectator	99	weather forecaster	3175	singer	7722	newsreader	38521	host	247380
+		analyst & commentator	98	townsman	3038	member of the short circus	3900	sports newsreader	5361	contestant	50618
+		analyst	41	corresponsal	2395	commentator	2711	musical director	4782	guest	40725
+		ant	19	sports reporter	1901	nurse	2609	musical guest	4454	presenter	40476
+		interviewee	19	barfly	1414	paul williams	2563	lexicographer	4395	narrator	35035
+		cambridge competitor	14	television's hollywood hostess	1385	victor newman	2340	weather forecaster	3985	judge	28423
+		officer	13	comedian	1317	brady black	2313	nurse	3930	panelist	24692
+		the butterflies and moths	12	bandleader	1305	jack abbott	2223	anchor	3674	various characters	21926
+		interviewer	11	guest panelist	1277	musician	2213	interviewer	3243	co-host	20469
+		page boy	11	moderator	1153	roman brady	2187	ridge forrester	2987	hostess	19213

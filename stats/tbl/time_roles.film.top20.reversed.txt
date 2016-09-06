@@ -1,0 +1,11 @@
+1900--1920	c	1920--1940	c	1940--1960	c	1960--1980	c	1980--2000	c	2000--2020	c
+the wife	437	undetermined role	927	townsman	3091	commentator	785	additional voices	3498	host	13002
+the husband	432	detective	898	henchman	1949	maria	536	policeman	2609	narrator	10892
+mary	351	sheriff	536	barfly	1506	priest	464	cop	1674	zombie	9988
+the father	322	chorus girl	522	waiter	1336	minor role	446	presenter	1523	dancer	8210
+the girl	319	judge	514	bit role	937	anna	443	soldier	1382	student	7730
+jack	313	bit part	507	boy	848	waiter	440	guard	1212	extra	7493
+the sheriff	300	joe	507	detective	747	judge	401	singer	1048	mother	5390
+the maid	280	butler	486	bit part	745	detective	380	priest	1034	nurse	5368
+the mother	280	maid	464	photographer	618	announcer	362	waiter	995	bar patron	5207
+the daughter	245	sailor	394	undetermined role	592	paul	361	detective	994	doctor	5196

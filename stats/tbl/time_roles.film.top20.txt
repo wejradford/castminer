@@ -1,0 +1,11 @@
+1900--1920	c	1920--1940	c	1940--1960	c	1960--1980	c	1980--2000	c	2000--2020	c
+undetermined role	986	minor role	2644	narrator	3741	narrator	3673	host	7511	host	13002
+the wife	437	henchman	2026	townsman	3091	host	2212	narrator	4796	narrator	10892
+the husband	432	reporter	1509	minor role	2855	dancer	1664	dancer	3762	zombie	9988
+mary	351	dancer	1280	dancer	2105	singer	1324	additional voices	3498	dancer	8210
+the father	322	policeman	1090	henchman	1949	policeman	1278	reporter	2869	student	7730
+the girl	319	townsman	1038	reporter	1834	doctor	1170	policeman	2609	extra	7493
+jack	313	undetermined role	927	policeman	1772	reporter	958	doctor	1902	mother	5390
+the sheriff	300	detective	898	extra	1600	commentator	785	nurse	1885	nurse	5368
+the maid	280	party guest	857	barfly	1506	nurse	703	extra	1806	bar patron	5207
+the mother	280	waiter	833	waiter	1336	party guest	646	cop	1674	doctor	5196

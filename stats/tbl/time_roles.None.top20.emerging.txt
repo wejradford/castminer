@@ -1,0 +1,11 @@
+1900--1920	c	1920--1940	c	1940--1960	c	1960--1980	c	1980--2000	c	2000--2020	c
+undetermined role	986	henchman	2026	newsreader	24263	model	21813	additional voices	14582	zombie	10923
+the wife	437	reporter	1597	host	15325	various	10699	contestant	5071	housemate	9548
+the husband	432	dancer	1287	panelist	6392	various characters	5014	musical director	4792	police officer	7977
+mary	351	townsman	1038	announcer	6058	member of the short circus	3900	lexicographer	4395	alex	7415
+the father	322	waiter	835	sports newsreader	5617	paul williams	2564	anchor	4051	interviewee	7396
+the girl	319	narrator	806	weather forecaster	3176	victor newman	2340	interviewer	3545	laura	6749
+jack	313	barfly	732	corresponsal	2395	brady black	2313	ridge forrester	2988	audience member	6550
+the sheriff	300	doctor	707	correspondent	2314	jack abbott	2223	emcee	2984	david	6543
+the maid	280	bit role	663	presenter	2001	roman brady	2189	phil	2935	sam	6476
+the mother	280	singer	608	sports reporter	1908	george	2144	co-hostess	2862	bar patron	6463

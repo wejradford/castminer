@@ -1,0 +1,11 @@
+1900--1920	c	1920--1940	c	1940--1960	c	1960--1980	c	1980--2000	c	2000--2020	c
+		commentator	247	newsreader	24197	model	21573	additional voices	11084	housemate	9514
+		spectator	99	host	14187	various	10445	contestant	4938	designer	4771
+		analyst & commentator	98	panelist	6186	various characters	4747	musical director	4782	laura	4539
+		reporter	88	announcer	5618	member of the short circus	3900	lexicographer	4395	pedro	4075
+		presenter	49	sports newsreader	5617	paul williams	2563	ridge forrester	2987	participant	3985
+		analyst	41	townsman	3038	victor newman	2340	co-hostess	2850	alex	3975
+		ant	19	corresponsal	2395	brady black	2313	emcee	2811	student	3915
+		interviewee	19	correspondent	2290	jack abbott	2223	alf stewart	2726	columnist	3628
+		cambridge competitor	14	sports reporter	1901	musician	2213	phil	2714	rita	3495
+		officer	13	performer	1429	roman brady	2187	paul robinson	2628	rosa	3483

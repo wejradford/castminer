@@ -1,0 +1,8 @@
+Religion	0.15	{'search': ('priest', 'priestess', 'reverend', 'pastor', 'prior', 'allamah', 'imam', 'rabbi', 'guru', 'lama', 'ayatollah', 'swami'), 'prefix': ('bishop',)}
+Engineering	0.05	{'search': ('engineer',)}
+Science	0.13	{'search': ('science', 'professor')}
+Politics	0.11	{'search': ('minister', 'dictator', 'parliament', 'senator'), 'match': ('president',)}
+Medical	0.28	{'search': ('medical', 'dr', 'doctor', 'surgeon', 'psychiatrist')}
+Law	0.15	{'search': ('prosecutor', 'lawyer')}
+Corporate	0.34	{'search': ('corporate', 'ceo', 'coo')}
+IT	0.40	{'search': ('software', 'computer', 'hacker')}

@@ -1,0 +1,742 @@
+INFO:root:Fetching roles for 1995
+INFO:root:Matched "accountant" to "accountant"	3	0
+INFO:root:Matched "accountant" to "auditor"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	0/3	x2/inv	795.046/730.954
+WARNING:root:Invalid z for "accountant"	imdb 3	total_census 1526.0	f_imdb 0	f_census 795.046
+INFO:root:Matched "baker" to "baker"	6	0
+WARNING:root:Invalid z proportion test	x1/inv	0/6	x2/inv	49665.0/79335.0
+WARNING:root:Invalid z for "baker"	imdb 6	total_census 129000.0	f_imdb 0	f_census 49665.0
+INFO:root:Matched "cashier" to "cashier"	13	9
+WARNING:root:Invalid z proportion test	x1/inv	9/4	x2/inv	2159.784/567.216
+WARNING:root:Invalid z for "cashier"	imdb 13	total_census 2727.0	f_imdb 9	f_census 2159.784
+INFO:root:Matched "cook" to "cook"	17	1
+WARNING:root:Invalid z proportion test	x1/inv	1/16	x2/inv	890.445/1110.555
+WARNING:root:Invalid z for "cook"	imdb 17	total_census 2001.0	f_imdb 1	f_census 890.445
+INFO:root:Matched "dentist" to "dentist"	2	1
+WARNING:root:Invalid z proportion test	x1/inv	1/1	x2/inv	20770.0/134230.0
+WARNING:root:Invalid z for "dentist"	imdb 2	total_census 155000.0	f_imdb 1	f_census 20770.0
+INFO:root:Matched "housekeeping" to "housekeeper"	3	3
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	8	8
+WARNING:root:Invalid z proportion test	x1/inv	11/0	x2/inv	526854.0/107146.0
+WARNING:root:Invalid z for "housekeeping"	imdb 11	total_census 634000.0	f_imdb 11	f_census 526854.0
+INFO:root:Matched "lawyer" to "lawyer"	16	1
+WARNING:root:Invalid z proportion test	x1/inv	1/15	x2/inv	236016.0/657984.0
+WARNING:root:Invalid z for "lawyer"	imdb 16	total_census 894000.0	f_imdb 1	f_census 236016.0
+INFO:root:Matched "manager" to "manager"	11	0
+WARNING:root:Invalid z proportion test	x1/inv	0/11	x2/inv	1044220.956/956055.044
+WARNING:root:Invalid z for "manager"	imdb 11	total_census 2000276.0	f_imdb 0	f_census 1044220.956
+INFO:root:Matched "nurse" to "nurse"	108	103
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	9	1
+INFO:root:Matched "scientist" to "physicist"	0	0
+INFO:root:Matched "scientist" to "chemist"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	1/8	x2/inv	723395.4/1353799.6
+WARNING:root:Invalid z for "scientist"	imdb 9	total_census 2077195.0	f_imdb 1	f_census 723395.4
+INFO:root:Matched "teacher" to "instructor"	2	0
+INFO:root:Matched "teacher" to "teacher"	23	14
+INFO:root:Mapped 20 of 353	5.7%	Compared 11
+INFO:root:Fetching roles for 1996
+INFO:root:Matched "accountant" to "accountant"	2	0
+INFO:root:Matched "accountant" to "auditor"	2	1
+WARNING:root:Invalid z proportion test	x1/inv	1/3	x2/inv	861.28/676.72
+WARNING:root:Invalid z for "accountant"	imdb 4	total_census 1538.0	f_imdb 1	f_census 861.28
+INFO:root:Matched "baker" to "baker"	1	1
+WARNING:root:Invalid z proportion test	x1/inv	1/0	x2/inv	67784.0/80216.0
+WARNING:root:Invalid z for "baker"	imdb 1	total_census 148000.0	f_imdb 1	f_census 67784.0
+INFO:root:Matched "cashier" to "cashier"	15	4
+WARNING:root:Invalid z proportion test	x1/inv	4/11	x2/inv	2230.536/625.464
+WARNING:root:Invalid z for "cashier"	imdb 15	total_census 2856.0	f_imdb 4	f_census 2230.536
+INFO:root:Matched "cook" to "cook"	7	1
+WARNING:root:Invalid z proportion test	x1/inv	1/6	x2/inv	869.742/1191.258
+WARNING:root:Invalid z for "cook"	imdb 7	total_census 2061.0	f_imdb 1	f_census 869.742
+INFO:root:Matched "dentist" to "dentist"	3	0
+WARNING:root:Invalid z proportion test	x1/inv	0/3	x2/inv	18769.0/118231.0
+WARNING:root:Invalid z for "dentist"	imdb 3	total_census 137000.0	f_imdb 0	f_census 18769.0
+INFO:root:Matched "housekeeping" to "housekeeper"	4	2
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	19	19
+WARNING:root:Invalid z proportion test	x1/inv	21/2	x2/inv	558694.0/124306.0
+WARNING:root:Invalid z for "housekeeping"	imdb 23	total_census 683000.0	f_imdb 21	f_census 558694.0
+INFO:root:Matched "lawyer" to "lawyer"	17	0
+WARNING:root:Invalid z proportion test	x1/inv	0/17	x2/inv	259600.0/620400.0
+WARNING:root:Invalid z for "lawyer"	imdb 17	total_census 880000.0	f_imdb 0	f_census 259600.0
+INFO:root:Matched "manager" to "manager"	21	1
+WARNING:root:Invalid z proportion test	x1/inv	1/20	x2/inv	1068147.797/970235.203
+WARNING:root:Invalid z for "manager"	imdb 21	total_census 2038383.0	f_imdb 1	f_census 1068147.797
+INFO:root:Matched "nurse" to "nurse"	133	129
+WARNING:root:Invalid z proportion test	x1/inv	129/4	x2/inv	1852.938/133.062
+WARNING:root:Invalid z for "nurse"	imdb 133	total_census 1986.0	f_imdb 129	f_census 1852.938
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	19	2
+INFO:root:Matched "scientist" to "physicist"	0	0
+INFO:root:Matched "scientist" to "chemist"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	2/17	x2/inv	487633.703/677804.297
+WARNING:root:Invalid z for "scientist"	imdb 19	total_census 1165438.0	f_imdb 2	f_census 487633.703
+INFO:root:Matched "teacher" to "instructor"	3	2
+INFO:root:Matched "teacher" to "teacher"	64	42
+INFO:root:Mapped 20 of 345	5.8%	Compared 11
+INFO:root:Fetching roles for 1997
+INFO:root:Matched "accountant" to "accountant"	0	0
+INFO:root:Matched "accountant" to "auditor"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	0/0	x2/inv	919.75/705.25
+WARNING:root:Invalid z for "accountant"	imdb 0	total_census 1625.0	f_imdb 0	f_census 919.75
+INFO:root:Matched "baker" to "baker"	2	0
+WARNING:root:Invalid z proportion test	x1/inv	0/2	x2/inv	67800.0/82200.0
+WARNING:root:Invalid z for "baker"	imdb 2	total_census 150000.0	f_imdb 0	f_census 67800.0
+INFO:root:Matched "cashier" to "cashier"	17	6
+INFO:root:Matched "cook" to "cook"	8	0
+WARNING:root:Invalid z proportion test	x1/inv	0/8	x2/inv	888.668/1237.332
+WARNING:root:Invalid z for "cook"	imdb 8	total_census 2126.0	f_imdb 0	f_census 888.668
+INFO:root:Matched "dentist" to "dentist"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	0/0	x2/inv	23874.0/114126.0
+WARNING:root:Invalid z for "dentist"	imdb 0	total_census 138000.0	f_imdb 0	f_census 23874.0
+INFO:root:Matched "housekeeping" to "housekeeper"	2	2
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	3	3
+WARNING:root:Invalid z proportion test	x1/inv	5/0	x2/inv	515043.0/127957.0
+WARNING:root:Invalid z for "housekeeping"	imdb 5	total_census 643000.0	f_imdb 5	f_census 515043.0
+INFO:root:Matched "lawyer" to "lawyer"	37	4
+WARNING:root:Invalid z proportion test	x1/inv	4/33	x2/inv	235410.0/649590.0
+WARNING:root:Invalid z for "lawyer"	imdb 37	total_census 885000.0	f_imdb 4	f_census 235410.0
+INFO:root:Matched "manager" to "manager"	12	1
+WARNING:root:Invalid z proportion test	x1/inv	1/11	x2/inv	1079570.784/1042837.216
+WARNING:root:Invalid z for "manager"	imdb 12	total_census 2122408.0	f_imdb 1	f_census 1079570.784
+INFO:root:Matched "nurse" to "nurse"	124	118
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	33	2
+INFO:root:Matched "scientist" to "physicist"	0	0
+INFO:root:Matched "scientist" to "chemist"	3	0
+WARNING:root:Invalid z proportion test	x1/inv	2/34	x2/inv	453735.672/633994.328
+WARNING:root:Invalid z for "scientist"	imdb 36	total_census 1087730.0	f_imdb 2	f_census 453735.672
+INFO:root:Matched "teacher" to "instructor"	5	3
+INFO:root:Matched "teacher" to "teacher"	23	12
+INFO:root:Mapped 20 of 356	5.6%	Compared 9
+INFO:root:Fetching roles for 1998
+INFO:root:Matched "accountant" to "accountant"	2	0
+INFO:root:Matched "accountant" to "auditor"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	0/2	x2/inv	940.512/675.488
+WARNING:root:Invalid z for "accountant"	imdb 2	total_census 1616.0	f_imdb 0	f_census 940.512
+INFO:root:Matched "baker" to "baker"	3	0
+WARNING:root:Invalid z proportion test	x1/inv	0/3	x2/inv	68248.0/83752.0
+WARNING:root:Invalid z for "baker"	imdb 3	total_census 152000.0	f_imdb 0	f_census 68248.0
+INFO:root:Matched "cashier" to "cashier"	19	15
+WARNING:root:Invalid z proportion test	x1/inv	15/4	x2/inv	2365.55/659.45
+WARNING:root:Invalid z for "cashier"	imdb 19	total_census 3025.0	f_imdb 15	f_census 2365.55
+INFO:root:Matched "cook" to "cook"	8	0
+WARNING:root:Invalid z proportion test	x1/inv	0/8	x2/inv	873.215/1261.785
+WARNING:root:Invalid z for "cook"	imdb 8	total_census 2135.0	f_imdb 0	f_census 873.215
+INFO:root:Matched "dentist" to "dentist"	2	1
+WARNING:root:Invalid z proportion test	x1/inv	1/1	x2/inv	30690.0/124310.0
+WARNING:root:Invalid z for "dentist"	imdb 2	total_census 155000.0	f_imdb 1	f_census 30690.0
+INFO:root:Matched "housekeeping" to "housekeeper"	4	4
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	6	6
+WARNING:root:Invalid z proportion test	x1/inv	10/0	x2/inv	540684.0/112316.0
+WARNING:root:Invalid z for "housekeeping"	imdb 10	total_census 653000.0	f_imdb 10	f_census 540684.0
+INFO:root:Matched "lawyer" to "lawyer"	27	5
+INFO:root:Matched "manager" to "manager"	12	1
+WARNING:root:Invalid z proportion test	x1/inv	1/11	x2/inv	1174061.867/1011391.133
+WARNING:root:Invalid z for "manager"	imdb 12	total_census 2185453.0	f_imdb 1	f_census 1174061.867
+INFO:root:Matched "nurse" to "nurse"	106	100
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	4	0
+INFO:root:Matched "scientist" to "physicist"	0	0
+INFO:root:Matched "scientist" to "chemist"	1	1
+WARNING:root:Invalid z proportion test	x1/inv	1/4	x2/inv	474349.582/664868.418
+WARNING:root:Invalid z for "scientist"	imdb 5	total_census 1139218.0	f_imdb 1	f_census 474349.582
+INFO:root:Matched "teacher" to "instructor"	3	0
+INFO:root:Matched "teacher" to "teacher"	20	17
+INFO:root:Mapped 20 of 358	5.6%	Compared 11
+INFO:root:Fetching roles for 1999
+INFO:root:Matched "accountant" to "accountant"	3	0
+INFO:root:Matched "accountant" to "auditor"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	0/3	x2/inv	971.588/686.412
+WARNING:root:Invalid z for "accountant"	imdb 3	total_census 1658.0	f_imdb 0	f_census 971.588
+INFO:root:Matched "baker" to "baker"	4	1
+WARNING:root:Invalid z proportion test	x1/inv	1/3	x2/inv	65262.0/80738.0
+WARNING:root:Invalid z for "baker"	imdb 4	total_census 146000.0	f_imdb 1	f_census 65262.0
+INFO:root:Matched "cashier" to "cashier"	25	11
+INFO:root:Matched "cook" to "cook"	10	1
+WARNING:root:Invalid z proportion test	x1/inv	1/9	x2/inv	914.32/1163.68
+WARNING:root:Invalid z for "cook"	imdb 10	total_census 2078.0	f_imdb 1	f_census 914.32
+INFO:root:Matched "dentist" to "dentist"	3	0
+WARNING:root:Invalid z proportion test	x1/inv	0/3	x2/inv	28545.0/144455.0
+WARNING:root:Invalid z for "dentist"	imdb 3	total_census 173000.0	f_imdb 0	f_census 28545.0
+INFO:root:Matched "housekeeping" to "housekeeper"	8	8
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	15	15
+WARNING:root:Invalid z proportion test	x1/inv	23/0	x2/inv	548301.0/114699.0
+WARNING:root:Invalid z for "housekeeping"	imdb 23	total_census 663000.0	f_imdb 23	f_census 548301.0
+INFO:root:Matched "lawyer" to "lawyer"	33	10
+INFO:root:Matched "manager" to "manager"	18	1
+WARNING:root:Invalid z proportion test	x1/inv	1/17	x2/inv	1147994.429/1031494.571
+WARNING:root:Invalid z for "manager"	imdb 18	total_census 2179489.0	f_imdb 1	f_census 1147994.429
+INFO:root:Matched "nurse" to "nurse"	238	232
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	26	2
+INFO:root:Matched "scientist" to "physicist"	2	0
+INFO:root:Matched "scientist" to "chemist"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	2/26	x2/inv	536275.882/714120.118
+WARNING:root:Invalid z for "scientist"	imdb 28	total_census 1250396.0	f_imdb 2	f_census 536275.882
+INFO:root:Matched "teacher" to "instructor"	5	1
+INFO:root:Matched "teacher" to "teacher"	53	33
+INFO:root:Mapped 20 of 355	5.6%	Compared 11
+INFO:root:Fetching roles for 2002
+INFO:root:Matched "accountant" to "accountant"	0	0
+INFO:root:Matched "accountant" to "auditor"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	0/0	x2/inv	1010.988/691.012
+WARNING:root:Invalid z for "accountant"	imdb 0	total_census 1702.0	f_imdb 0	f_census 1010.988
+INFO:root:Matched "baker" to "baker"	4	0
+WARNING:root:Invalid z proportion test	x1/inv	0/4	x2/inv	74444.0/73556.0
+WARNING:root:Invalid z for "baker"	imdb 4	total_census 148000.0	f_imdb 0	f_census 74444.0
+INFO:root:Matched "cashier" to "cashier"	22	14
+INFO:root:Matched "cook" to "cook"	12	2
+WARNING:root:Invalid z proportion test	x1/inv	2/10	x2/inv	912.392/1351.608
+WARNING:root:Invalid z for "cook"	imdb 12	total_census 2264.0	f_imdb 2	f_census 912.392
+INFO:root:Matched "dentist" to "dentist"	3	1
+WARNING:root:Invalid z proportion test	x1/inv	1/2	x2/inv	34920.0/145080.0
+WARNING:root:Invalid z for "dentist"	imdb 3	total_census 180000.0	f_imdb 1	f_census 34920.0
+INFO:root:Matched "housekeeping" to "housekeeper"	11	11
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	17	17
+WARNING:root:Invalid z proportion test	x1/inv	28/0	x2/inv	583507.0/125493.0
+WARNING:root:Invalid z for "housekeeping"	imdb 28	total_census 709000.0	f_imdb 28	f_census 583507.0
+INFO:root:Matched "lawyer" to "lawyer"	41	6
+INFO:root:Matched "manager" to "manager"	20	3
+WARNING:root:Invalid z proportion test	x1/inv	3/17	x2/inv	1278942.71/1072551.29
+WARNING:root:Invalid z for "manager"	imdb 20	total_census 2351494.0	f_imdb 3	f_census 1278942.71
+INFO:root:Matched "nurse" to "nurse"	145	138
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	2	0
+INFO:root:Matched "scientist" to "physicist"	0	0
+INFO:root:Matched "scientist" to "chemist"	1	0
+WARNING:root:Invalid z proportion test	x1/inv	0/3	x2/inv	588538.516/676233.484
+WARNING:root:Invalid z for "scientist"	imdb 3	total_census 1264772.0	f_imdb 0	f_census 588538.516
+INFO:root:Matched "teacher" to "instructor"	6	3
+INFO:root:Matched "teacher" to "teacher"	51	27
+INFO:root:Mapped 21 of 351	6.0%	Compared 10
+INFO:root:Fetching roles for 2003
+INFO:root:Matched "accountant" to "accountant"	6	0
+INFO:root:Matched "accountant" to "auditor"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	0/6	x2/inv	960.454/678.546
+WARNING:root:Invalid z for "accountant"	imdb 6	total_census 1639.0	f_imdb 0	f_census 960.454
+INFO:root:Matched "baker" to "baker"	6	0
+WARNING:root:Invalid z proportion test	x1/inv	0/6	x2/inv	88755.0/94245.0
+WARNING:root:Invalid z for "baker"	imdb 6	total_census 183000.0	f_imdb 0	f_census 88755.0
+INFO:root:Matched "butcher" to "butcher"	1	0
+WARNING:root:Invalid z proportion test	x1/inv	0/1	x2/inv	82726.0/228274.0
+WARNING:root:Invalid z for "butcher"	imdb 1	total_census 311000.0	f_imdb 0	f_census 82726.0
+INFO:root:Matched "cashier" to "cashier"	25	13
+INFO:root:Matched "cook" to "cook"	13	1
+WARNING:root:Invalid z proportion test	x1/inv	1/12	x2/inv	763.694/1050.306
+WARNING:root:Invalid z for "cook"	imdb 13	total_census 1814.0	f_imdb 1	f_census 763.694
+INFO:root:Matched "dentist" to "dentist"	5	0
+WARNING:root:Invalid z proportion test	x1/inv	0/5	x2/inv	44556.0/143444.0
+WARNING:root:Invalid z for "dentist"	imdb 5	total_census 188000.0	f_imdb 0	f_census 44556.0
+INFO:root:Matched "housekeeping" to "housekeeper"	8	8
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	11	9
+WARNING:root:Invalid z proportion test	x1/inv	17/2	x2/inv	1211.08/158.92
+WARNING:root:Invalid z for "housekeeping"	imdb 19	total_census 1370.0	f_imdb 17	f_census 1211.08
+INFO:root:Matched "lawyer" to "lawyer"	28	5
+INFO:root:Matched "manager" to "manager"	12	0
+WARNING:root:Invalid z proportion test	x1/inv	0/12	x2/inv	37963.987/44367.013
+WARNING:root:Invalid z for "manager"	imdb 12	total_census 82331.0	f_imdb 0	f_census 37963.987
+INFO:root:Matched "nurse" to "nurse"	134	121
+INFO:root:Matched "reporter" to "news analyst"	0	0
+INFO:root:Matched "reporter" to "correspondent"	56	28
+INFO:root:Matched "reporter" to "reporter"	161	85
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	16	6
+INFO:root:Matched "scientist" to "physicist"	1	0
+INFO:root:Matched "scientist" to "chemist"	1	0
+INFO:root:Matched "surgeon" to "physician"	2	1
+INFO:root:Matched "surgeon" to "surgeon"	9	2
+INFO:root:Matched "surgeon" to "doctor"	122	20
+INFO:root:Matched "teacher" to "instructor"	3	1
+INFO:root:Matched "teacher" to "teacher"	65	28
+INFO:root:Matched "writer" to "writer"	7	3
+INFO:root:Matched "writer" to "author"	11	2
+INFO:root:Mapped 27 of 332	8.1%	Compared 15
+INFO:root:Fetching roles for 2004
+INFO:root:Matched "accountant" to "accountant"	5	0
+INFO:root:Matched "accountant" to "auditor"	2	1
+WARNING:root:Invalid z proportion test	x1/inv	1/6	x2/inv	1042.415/680.585
+WARNING:root:Invalid z for "accountant"	imdb 7	total_census 1723.0	f_imdb 1	f_census 1042.415
+INFO:root:Matched "baker" to "baker"	3	0
+WARNING:root:Invalid z proportion test	x1/inv	0/3	x2/inv	85728.0/102272.0
+WARNING:root:Invalid z for "baker"	imdb 3	total_census 188000.0	f_imdb 0	f_census 85728.0
+INFO:root:Matched "butcher" to "butcher"	1	0
+WARNING:root:Invalid z proportion test	x1/inv	0/1	x2/inv	59584.0/244416.0
+WARNING:root:Invalid z for "butcher"	imdb 1	total_census 304000.0	f_imdb 0	f_census 59584.0
+INFO:root:Matched "cashier" to "cashier"	43	22
+INFO:root:Matched "cook" to "cook"	7	1
+WARNING:root:Invalid z proportion test	x1/inv	1/6	x2/inv	727.146/1063.854
+WARNING:root:Invalid z for "cook"	imdb 7	total_census 1791.0	f_imdb 1	f_census 727.146
+INFO:root:Matched "dentist" to "dentist"	4	1
+WARNING:root:Invalid z proportion test	x1/inv	1/3	x2/inv	36740.0/130260.0
+WARNING:root:Invalid z for "dentist"	imdb 4	total_census 167000.0	f_imdb 1	f_census 36740.0
+INFO:root:Matched "housekeeping" to "housekeeper"	6	6
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	6	6
+WARNING:root:Invalid z proportion test	x1/inv	12/0	x2/inv	1228.5/136.5
+WARNING:root:Invalid z for "housekeeping"	imdb 12	total_census 1365.0	f_imdb 12	f_census 1228.5
+INFO:root:Matched "lawyer" to "lawyer"	52	5
+INFO:root:Matched "manager" to "manager"	21	1
+WARNING:root:Invalid z proportion test	x1/inv	1/20	x2/inv	38272.216/45049.784
+WARNING:root:Invalid z for "manager"	imdb 21	total_census 83322.0	f_imdb 1	f_census 38272.216
+INFO:root:Matched "nurse" to "nurse"	347	335
+INFO:root:Matched "reporter" to "news analyst"	1	0
+INFO:root:Matched "reporter" to "correspondent"	252	124
+INFO:root:Matched "reporter" to "reporter"	326	136
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	7	0
+INFO:root:Matched "scientist" to "physicist"	1	0
+INFO:root:Matched "scientist" to "chemist"	1	0
+WARNING:root:Invalid z proportion test	x1/inv	0/9	x2/inv	380761.95/763603.05
+WARNING:root:Invalid z for "scientist"	imdb 9	total_census 1144365.0	f_imdb 0	f_census 380761.95
+INFO:root:Matched "surgeon" to "physician"	38	0
+INFO:root:Matched "surgeon" to "surgeon"	10	4
+INFO:root:Matched "surgeon" to "doctor"	151	30
+INFO:root:Matched "teacher" to "instructor"	3	2
+INFO:root:Matched "teacher" to "teacher"	50	29
+INFO:root:Matched "writer" to "writer"	9	1
+INFO:root:Matched "writer" to "author"	21	4
+INFO:root:Mapped 27 of 323	8.4%	Compared 15
+INFO:root:Fetching roles for 2005
+INFO:root:Matched "accountant" to "accountant"	34	1
+INFO:root:Matched "accountant" to "auditor"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	1/33	x2/inv	1041.777/641.223
+WARNING:root:Invalid z for "accountant"	imdb 34	total_census 1683.0	f_imdb 1	f_census 1041.777
+INFO:root:Matched "baker" to "baker"	3	0
+WARNING:root:Invalid z proportion test	x1/inv	0/3	x2/inv	98820.0/84180.0
+WARNING:root:Invalid z for "baker"	imdb 3	total_census 183000.0	f_imdb 0	f_census 98820.0
+INFO:root:Matched "butcher" to "butcher"	7	0
+WARNING:root:Invalid z proportion test	x1/inv	0/7	x2/inv	65116.0/226884.0
+WARNING:root:Invalid z for "butcher"	imdb 7	total_census 292000.0	f_imdb 0	f_census 65116.0
+INFO:root:Matched "cashier" to "cashier"	43	25
+INFO:root:Matched "cook" to "cook"	16	0
+WARNING:root:Invalid z proportion test	x1/inv	0/16	x2/inv	777.474/1060.526
+WARNING:root:Invalid z for "cook"	imdb 16	total_census 1838.0	f_imdb 0	f_census 777.474
+INFO:root:Matched "dentist" to "dentist"	2	0
+WARNING:root:Invalid z proportion test	x1/inv	0/2	x2/inv	36900.0/127100.0
+WARNING:root:Invalid z for "dentist"	imdb 2	total_census 164000.0	f_imdb 0	f_census 36900.0
+INFO:root:Matched "housekeeping" to "housekeeper"	8	6
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	22	22
+WARNING:root:Invalid z proportion test	x1/inv	28/2	x2/inv	1236.89/145.11
+WARNING:root:Invalid z for "housekeeping"	imdb 30	total_census 1382.0	f_imdb 28	f_census 1236.89
+INFO:root:Matched "lawyer" to "lawyer"	67	14
+INFO:root:Matched "manager" to "manager"	37	2
+WARNING:root:Invalid z proportion test	x1/inv	2/35	x2/inv	39072.04/45307.96
+WARNING:root:Invalid z for "manager"	imdb 37	total_census 84380.0	f_imdb 2	f_census 39072.04
+INFO:root:Matched "nurse" to "nurse"	300	280
+INFO:root:Matched "reporter" to "news analyst"	0	0
+INFO:root:Matched "reporter" to "correspondent"	90	51
+INFO:root:Matched "reporter" to "reporter"	396	207
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	42	12
+INFO:root:Matched "scientist" to "physicist"	1	0
+INFO:root:Matched "scientist" to "chemist"	1	0
+INFO:root:Matched "surgeon" to "physician"	4	1
+INFO:root:Matched "surgeon" to "surgeon"	22	6
+INFO:root:Matched "surgeon" to "doctor"	236	39
+INFO:root:Matched "teacher" to "instructor"	4	1
+INFO:root:Matched "teacher" to "teacher"	108	72
+INFO:root:Matched "writer" to "writer"	27	0
+INFO:root:Matched "writer" to "author"	12	2
+WARNING:root:Invalid z proportion test	x1/inv	2/37	x2/inv	111784.0/66216.0
+WARNING:root:Invalid z for "writer"	imdb 39	total_census 178000.0	f_imdb 2	f_census 111784.0
+INFO:root:Mapped 27 of 328	8.2%	Compared 15
+INFO:root:Fetching roles for 2006
+INFO:root:Matched "accountant" to "accountant"	9	1
+INFO:root:Matched "accountant" to "auditor"	3	0
+WARNING:root:Invalid z proportion test	x1/inv	1/11	x2/inv	1070.958/708.042
+WARNING:root:Invalid z for "accountant"	imdb 12	total_census 1779.0	f_imdb 1	f_census 1070.958
+INFO:root:Matched "baker" to "baker"	88	1
+WARNING:root:Invalid z proportion test	x1/inv	1/87	x2/inv	107694.0/78306.0
+WARNING:root:Invalid z for "baker"	imdb 88	total_census 186000.0	f_imdb 1	f_census 107694.0
+INFO:root:Matched "butcher" to "butcher"	10	0
+WARNING:root:Invalid z proportion test	x1/inv	0/10	x2/inv	87308.0/204692.0
+WARNING:root:Invalid z for "butcher"	imdb 10	total_census 292000.0	f_imdb 0	f_census 87308.0
+INFO:root:Matched "cashier" to "cashier"	26	15
+INFO:root:Matched "cook" to "cook"	16	0
+WARNING:root:Invalid z proportion test	x1/inv	0/16	x2/inv	810.712/1057.288
+WARNING:root:Invalid z for "cook"	imdb 16	total_census 1868.0	f_imdb 0	f_census 810.712
+INFO:root:Matched "dentist" to "dentist"	4	0
+WARNING:root:Invalid z proportion test	x1/inv	0/4	x2/inv	44296.0/151704.0
+WARNING:root:Invalid z for "dentist"	imdb 4	total_census 196000.0	f_imdb 0	f_census 44296.0
+INFO:root:Matched "housekeeping" to "housekeeper"	3	2
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	15	15
+WARNING:root:Invalid z proportion test	x1/inv	17/1	x2/inv	1284.969/138.031
+WARNING:root:Invalid z for "housekeeping"	imdb 18	total_census 1423.0	f_imdb 17	f_census 1284.969
+INFO:root:Matched "lawyer" to "lawyer"	59	13
+INFO:root:Matched "manager" to "manager"	119	90
+INFO:root:Matched "nurse" to "nurse"	211	200
+INFO:root:Matched "reporter" to "news analyst"	0	0
+INFO:root:Matched "reporter" to "correspondent"	71	50
+INFO:root:Matched "reporter" to "reporter"	296	139
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	35	4
+INFO:root:Matched "scientist" to "physicist"	0	0
+INFO:root:Matched "scientist" to "chemist"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	4/31	x2/inv	418993.922/794440.078
+WARNING:root:Invalid z for "scientist"	imdb 35	total_census 1213434.0	f_imdb 4	f_census 418993.922
+INFO:root:Matched "surgeon" to "physician"	6	1
+INFO:root:Matched "surgeon" to "surgeon"	10	0
+INFO:root:Matched "surgeon" to "doctor"	187	24
+INFO:root:Matched "teacher" to "instructor"	10	6
+INFO:root:Matched "teacher" to "teacher"	110	52
+INFO:root:Matched "writer" to "writer"	16	2
+INFO:root:Matched "writer" to "author"	27	7
+INFO:root:Mapped 27 of 319	8.5%	Compared 15
+INFO:root:Fetching roles for 2007
+INFO:root:Matched "accountant" to "accountant"	5	0
+INFO:root:Matched "accountant" to "auditor"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	0/5	x2/inv	1117.914/688.086
+WARNING:root:Invalid z for "accountant"	imdb 5	total_census 1806.0	f_imdb 0	f_census 1117.914
+INFO:root:Matched "baker" to "baker"	3	0
+WARNING:root:Invalid z proportion test	x1/inv	0/3	x2/inv	103872.0/88128.0
+WARNING:root:Invalid z for "baker"	imdb 3	total_census 192000.0	f_imdb 0	f_census 103872.0
+INFO:root:Matched "butcher" to "butcher"	8	0
+WARNING:root:Invalid z proportion test	x1/inv	0/8	x2/inv	75308.0/205692.0
+WARNING:root:Invalid z for "butcher"	imdb 8	total_census 281000.0	f_imdb 0	f_census 75308.0
+INFO:root:Matched "cashier" to "cashier"	27	16
+INFO:root:Matched "cook" to "cook"	19	0
+WARNING:root:Invalid z proportion test	x1/inv	0/19	x2/inv	777.539/1161.461
+WARNING:root:Invalid z for "cook"	imdb 19	total_census 1939.0	f_imdb 0	f_census 777.539
+INFO:root:Matched "dentist" to "dentist"	5	1
+WARNING:root:Invalid z proportion test	x1/inv	1/4	x2/inv	51888.0/132112.0
+WARNING:root:Invalid z for "dentist"	imdb 5	total_census 184000.0	f_imdb 1	f_census 51888.0
+INFO:root:Matched "housekeeping" to "housekeeper"	11	11
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	13	11
+WARNING:root:Invalid z proportion test	x1/inv	22/2	x2/inv	1272.884/154.116
+WARNING:root:Invalid z for "housekeeping"	imdb 24	total_census 1427.0	f_imdb 22	f_census 1272.884
+INFO:root:Matched "lawyer" to "lawyer"	39	4
+WARNING:root:Invalid z proportion test	x1/inv	4/35	x2/inv	326.326/674.674
+WARNING:root:Invalid z for "lawyer"	imdb 39	total_census 1001.0	f_imdb 4	f_census 326.326
+INFO:root:Matched "manager" to "manager"	24	5
+INFO:root:Matched "nurse" to "nurse"	288	269
+INFO:root:Matched "reporter" to "news analyst"	0	0
+INFO:root:Matched "reporter" to "correspondent"	11	7
+INFO:root:Matched "reporter" to "reporter"	387	221
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	24	1
+INFO:root:Matched "scientist" to "physicist"	1	0
+INFO:root:Matched "scientist" to "chemist"	1	0
+WARNING:root:Invalid z proportion test	x1/inv	1/25	x2/inv	454250.114/1056131.886
+WARNING:root:Invalid z for "scientist"	imdb 26	total_census 1510382.0	f_imdb 1	f_census 454250.114
+INFO:root:Matched "surgeon" to "physician"	3	0
+INFO:root:Matched "surgeon" to "surgeon"	13	1
+INFO:root:Matched "surgeon" to "doctor"	230	48
+INFO:root:Matched "teacher" to "instructor"	8	4
+INFO:root:Matched "teacher" to "teacher"	79	44
+INFO:root:Matched "writer" to "writer"	33	0
+INFO:root:Matched "writer" to "author"	8	1
+WARNING:root:Invalid z proportion test	x1/inv	1/40	x2/inv	106505.0/72495.0
+WARNING:root:Invalid z for "writer"	imdb 41	total_census 179000.0	f_imdb 1	f_census 106505.0
+INFO:root:Mapped 33 of 532	6.2%	Compared 15
+INFO:root:Fetching roles for 2008
+INFO:root:Matched "accountant" to "accountant"	2	0
+INFO:root:Matched "accountant" to "auditor"	3	3
+WARNING:root:Invalid z proportion test	x1/inv	3/2	x2/inv	1076.582/685.418
+WARNING:root:Invalid z for "accountant"	imdb 5	total_census 1762.0	f_imdb 3	f_census 1076.582
+INFO:root:Matched "baker" to "baker"	3	1
+WARNING:root:Invalid z proportion test	x1/inv	1/2	x2/inv	108058.0/85942.0
+WARNING:root:Invalid z for "baker"	imdb 3	total_census 194000.0	f_imdb 1	f_census 108058.0
+INFO:root:Matched "butcher" to "butcher"	9	0
+WARNING:root:Invalid z proportion test	x1/inv	0/9	x2/inv	82812.0/226188.0
+WARNING:root:Invalid z for "butcher"	imdb 9	total_census 309000.0	f_imdb 0	f_census 82812.0
+INFO:root:Matched "cashier" to "cashier"	34	22
+INFO:root:Matched "cook" to "cook"	19	2
+WARNING:root:Invalid z proportion test	x1/inv	2/17	x2/inv	800.797/1196.203
+WARNING:root:Invalid z for "cook"	imdb 19	total_census 1997.0	f_imdb 2	f_census 800.797
+INFO:root:Matched "dentist" to "dentist"	3	1
+WARNING:root:Invalid z proportion test	x1/inv	1/2	x2/inv	41344.0/110656.0
+WARNING:root:Invalid z for "dentist"	imdb 3	total_census 152000.0	f_imdb 1	f_census 41344.0
+INFO:root:Matched "housekeeping" to "housekeeper"	4	4
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	13	12
+WARNING:root:Invalid z proportion test	x1/inv	16/1	x2/inv	1287.732/146.268
+WARNING:root:Invalid z for "housekeeping"	imdb 17	total_census 1434.0	f_imdb 16	f_census 1287.732
+INFO:root:Matched "lawyer" to "lawyer"	61	10
+INFO:root:Matched "manager" to "manager"	51	6
+INFO:root:Matched "nurse" to "nurse"	455	407
+INFO:root:Matched "reporter" to "news analyst"	0	0
+INFO:root:Matched "reporter" to "correspondent"	58	55
+INFO:root:Matched "reporter" to "reporter"	217	88
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	24	3
+INFO:root:Matched "scientist" to "physicist"	0	0
+INFO:root:Matched "scientist" to "chemist"	2	2
+INFO:root:Matched "surgeon" to "physician"	4	0
+INFO:root:Matched "surgeon" to "surgeon"	51	2
+INFO:root:Matched "surgeon" to "doctor"	319	80
+INFO:root:Matched "teacher" to "instructor"	1	1
+INFO:root:Matched "teacher" to "teacher"	107	68
+INFO:root:Matched "writer" to "writer"	14	2
+INFO:root:Matched "writer" to "author"	25	6
+INFO:root:Mapped 33 of 533	6.2%	Compared 15
+INFO:root:Fetching roles for 2009
+INFO:root:Matched "accountant" to "accountant"	10	1
+INFO:root:Matched "accountant" to "auditor"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	1/9	x2/inv	1083.972/670.028
+WARNING:root:Invalid z for "accountant"	imdb 10	total_census 1754.0	f_imdb 1	f_census 1083.972
+INFO:root:Matched "baker" to "baker"	6	1
+WARNING:root:Invalid z proportion test	x1/inv	1/5	x2/inv	108080.0/84920.0
+WARNING:root:Invalid z for "baker"	imdb 6	total_census 193000.0	f_imdb 1	f_census 108080.0
+INFO:root:Matched "butcher" to "butcher"	13	1
+WARNING:root:Invalid z proportion test	x1/inv	1/12	x2/inv	68856.0/233144.0
+WARNING:root:Invalid z for "butcher"	imdb 13	total_census 302000.0	f_imdb 1	f_census 68856.0
+INFO:root:Matched "cashier" to "cashier"	41	27
+INFO:root:Matched "cook" to "cook"	24	2
+WARNING:root:Invalid z proportion test	x1/inv	2/22	x2/inv	831.66/1172.34
+WARNING:root:Invalid z for "cook"	imdb 24	total_census 2004.0	f_imdb 2	f_census 831.66
+INFO:root:Matched "dentist" to "dentist"	12	1
+WARNING:root:Invalid z proportion test	x1/inv	1/11	x2/inv	49528.0/114472.0
+WARNING:root:Invalid z for "dentist"	imdb 12	total_census 164000.0	f_imdb 1	f_census 49528.0
+INFO:root:Matched "housekeeping" to "housekeeper"	4	4
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	14	14
+WARNING:root:Invalid z proportion test	x1/inv	18/0	x2/inv	1282.344/145.656
+WARNING:root:Invalid z for "housekeeping"	imdb 18	total_census 1428.0	f_imdb 18	f_census 1282.344
+INFO:root:Matched "lawyer" to "lawyer"	81	17
+INFO:root:Matched "manager" to "manager"	41	3
+WARNING:root:Invalid z proportion test	x1/inv	3/38	x2/inv	42915.287/49528.713
+WARNING:root:Invalid z for "manager"	imdb 41	total_census 92444.0	f_imdb 3	f_census 42915.287
+INFO:root:Matched "nurse" to "nurse"	365	335
+INFO:root:Matched "reporter" to "news analyst"	1	0
+INFO:root:Matched "reporter" to "correspondent"	32	26
+INFO:root:Matched "reporter" to "reporter"	330	173
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	52	14
+INFO:root:Matched "scientist" to "physicist"	1	1
+INFO:root:Matched "scientist" to "chemist"	0	0
+INFO:root:Matched "surgeon" to "physician"	8	1
+INFO:root:Matched "surgeon" to "surgeon"	20	2
+INFO:root:Matched "surgeon" to "doctor"	241	42
+INFO:root:Matched "teacher" to "instructor"	6	2
+INFO:root:Matched "teacher" to "teacher"	117	73
+INFO:root:Matched "writer" to "writer"	35	6
+INFO:root:Matched "writer" to "author"	38	4
+INFO:root:Mapped 33 of 531	6.2%	Compared 15
+INFO:root:Fetching roles for 2010
+INFO:root:Matched "accountant" to "accountant"	3	0
+INFO:root:Matched "accountant" to "auditor"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	0/3	x2/inv	989246.0/656754.0
+WARNING:root:Invalid z for "accountant"	imdb 3	total_census 1646000.0	f_imdb 0	f_census 989246.0
+INFO:root:Matched "baker" to "baker"	6	2
+WARNING:root:Invalid z proportion test	x1/inv	2/4	x2/inv	117420.0/88580.0
+WARNING:root:Invalid z for "baker"	imdb 6	total_census 206000.0	f_imdb 2	f_census 117420.0
+INFO:root:Matched "butcher" to "butcher"	15	2
+WARNING:root:Invalid z proportion test	x1/inv	2/13	x2/inv	70172.0/260828.0
+WARNING:root:Invalid z for "butcher"	imdb 15	total_census 331000.0	f_imdb 2	f_census 70172.0
+INFO:root:Matched "cashier" to "cashier"	34	20
+INFO:root:Matched "cook" to "cook"	18	2
+WARNING:root:Invalid z proportion test	x1/inv	2/16	x2/inv	790155.0/1160845.0
+WARNING:root:Invalid z for "cook"	imdb 18	total_census 1951000.0	f_imdb 2	f_census 790155.0
+INFO:root:Matched "dentist" to "dentist"	1	0
+WARNING:root:Invalid z proportion test	x1/inv	0/1	x2/inv	44625.0/130375.0
+WARNING:root:Invalid z for "dentist"	imdb 1	total_census 175000.0	f_imdb 0	f_census 44625.0
+INFO:root:Matched "housekeeping" to "housekeeper"	5	5
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	18	17
+WARNING:root:Invalid z proportion test	x1/inv	22/1	x2/inv	1252230.0/154770.0
+WARNING:root:Invalid z for "housekeeping"	imdb 23	total_census 1407000.0	f_imdb 22	f_census 1252230.0
+INFO:root:Matched "lawyer" to "lawyer"	72	14
+INFO:root:Matched "manager" to "manager"	29	3
+WARNING:root:Invalid z proportion test	x1/inv	3/26	x2/inv	1551740.0/2597260.0
+WARNING:root:Invalid z for "manager"	imdb 29	total_census 4149000.0	f_imdb 3	f_census 1551740.0
+INFO:root:Matched "nurse" to "nurse"	280	261
+INFO:root:Matched "reporter" to "news analyst"	0	0
+INFO:root:Matched "reporter" to "correspondent"	570	370
+INFO:root:Matched "reporter" to "reporter"	348	168
+INFO:root:Matched "scientist" to "mathematician"	1	0
+INFO:root:Matched "scientist" to "scientist"	51	11
+INFO:root:Matched "scientist" to "physicist"	4	0
+INFO:root:Matched "scientist" to "chemist"	0	0
+INFO:root:Matched "surgeon" to "physician"	4	0
+INFO:root:Matched "surgeon" to "surgeon"	21	2
+INFO:root:Matched "surgeon" to "doctor"	255	57
+INFO:root:Matched "teacher" to "instructor"	7	1
+INFO:root:Matched "teacher" to "teacher"	113	57
+INFO:root:Matched "writer" to "writer"	20	3
+INFO:root:Matched "writer" to "author"	16	6
+INFO:root:Mapped 30 of 764	3.9%	Compared 15
+INFO:root:Fetching roles for 2011
+INFO:root:Matched "accountant" to "accountant"	9	1
+INFO:root:Matched "accountant" to "auditor"	1	0
+WARNING:root:Invalid z proportion test	x1/inv	1/9	x2/inv	1013289.0/639711.0
+WARNING:root:Invalid z for "accountant"	imdb 10	total_census 1653000.0	f_imdb 1	f_census 1013289.0
+INFO:root:Matched "baker" to "baker"	3	0
+WARNING:root:Invalid z proportion test	x1/inv	0/3	x2/inv	113850.0/93150.0
+WARNING:root:Invalid z for "baker"	imdb 3	total_census 207000.0	f_imdb 0	f_census 113850.0
+INFO:root:Matched "butcher" to "butcher"	8	0
+WARNING:root:Invalid z proportion test	x1/inv	0/8	x2/inv	90972.0/251028.0
+WARNING:root:Invalid z for "butcher"	imdb 8	total_census 342000.0	f_imdb 0	f_census 90972.0
+INFO:root:Matched "cashier" to "cashier"	55	25
+INFO:root:Matched "cook" to "cook"	25	2
+WARNING:root:Invalid z proportion test	x1/inv	2/23	x2/inv	780080.0/1209920.0
+WARNING:root:Invalid z for "cook"	imdb 25	total_census 1990000.0	f_imdb 2	f_census 780080.0
+INFO:root:Matched "dentist" to "dentist"	5	1
+WARNING:root:Invalid z proportion test	x1/inv	1/4	x2/inv	40182.0/140818.0
+WARNING:root:Invalid z for "dentist"	imdb 5	total_census 181000.0	f_imdb 1	f_census 40182.0
+INFO:root:Matched "housekeeping" to "housekeeper"	12	12
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	41	39
+WARNING:root:Invalid z proportion test	x1/inv	51/2	x2/inv	1257234.0/161766.0
+WARNING:root:Invalid z for "housekeeping"	imdb 53	total_census 1419000.0	f_imdb 51	f_census 1257234.0
+INFO:root:Matched "lawyer" to "lawyer"	80	16
+INFO:root:Matched "manager" to "manager"	32	3
+WARNING:root:Invalid z proportion test	x1/inv	3/29	x2/inv	1705491.0/2971509.0
+WARNING:root:Invalid z for "manager"	imdb 32	total_census 4677000.0	f_imdb 3	f_census 1705491.0
+INFO:root:Matched "nurse" to "nurse"	330	301
+INFO:root:Matched "reporter" to "news analyst"	0	0
+INFO:root:Matched "reporter" to "correspondent"	28	17
+INFO:root:Matched "reporter" to "reporter"	319	162
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	49	9
+INFO:root:Matched "scientist" to "physicist"	1	0
+INFO:root:Matched "scientist" to "chemist"	0	0
+INFO:root:Matched "surgeon" to "physician"	6	0
+INFO:root:Matched "surgeon" to "surgeon"	21	2
+INFO:root:Matched "surgeon" to "doctor"	245	37
+INFO:root:Matched "teacher" to "instructor"	8	5
+INFO:root:Matched "teacher" to "teacher"	124	67
+INFO:root:Matched "writer" to "writer"	19	3
+INFO:root:Matched "writer" to "author"	19	0
+WARNING:root:Invalid z proportion test	x1/inv	3/35	x2/inv	124260.0/93740.0
+WARNING:root:Invalid z for "writer"	imdb 38	total_census 218000.0	f_imdb 3	f_census 124260.0
+INFO:root:Mapped 32 of 814	3.9%	Compared 15
+INFO:root:Fetching roles for 2012
+INFO:root:Matched "accountant" to "accountant"	7	1
+INFO:root:Matched "accountant" to "auditor"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	1/6	x2/inv	1074885.0/690115.0
+WARNING:root:Invalid z for "accountant"	imdb 7	total_census 1765000.0	f_imdb 1	f_census 1074885.0
+INFO:root:Matched "baker" to "baker"	9	3
+WARNING:root:Invalid z proportion test	x1/inv	3/6	x2/inv	107261.0/91739.0
+WARNING:root:Invalid z for "baker"	imdb 9	total_census 199000.0	f_imdb 3	f_census 107261.0
+INFO:root:Matched "butcher" to "butcher"	5	0
+WARNING:root:Invalid z proportion test	x1/inv	0/5	x2/inv	71530.0/239470.0
+WARNING:root:Invalid z for "butcher"	imdb 5	total_census 311000.0	f_imdb 0	f_census 71530.0
+INFO:root:Matched "cashier" to "cashier"	37	17
+INFO:root:Matched "cook" to "cook"	27	3
+WARNING:root:Invalid z proportion test	x1/inv	3/24	x2/inv	742690.0/1227310.0
+WARNING:root:Invalid z for "cook"	imdb 27	total_census 1970000.0	f_imdb 3	f_census 742690.0
+INFO:root:Matched "dentist" to "dentist"	6	0
+WARNING:root:Invalid z proportion test	x1/inv	0/6	x2/inv	40414.0/126586.0
+WARNING:root:Invalid z for "dentist"	imdb 6	total_census 167000.0	f_imdb 0	f_census 40414.0
+INFO:root:Matched "housekeeping" to "housekeeper"	12	12
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	24	22
+WARNING:root:Invalid z proportion test	x1/inv	34/2	x2/inv	1283617.0/173383.0
+WARNING:root:Invalid z for "housekeeping"	imdb 36	total_census 1457000.0	f_imdb 34	f_census 1283617.0
+INFO:root:Matched "lawyer" to "lawyer"	81	20
+INFO:root:Matched "manager" to "manager"	49	5
+INFO:root:Matched "nurse" to "nurse"	310	269
+INFO:root:Matched "reporter" to "news analyst"	1	0
+INFO:root:Matched "reporter" to "correspondent"	16	9
+INFO:root:Matched "reporter" to "reporter"	419	197
+INFO:root:Matched "scientist" to "mathematician"	1	0
+INFO:root:Matched "scientist" to "scientist"	31	6
+INFO:root:Matched "scientist" to "physicist"	1	0
+INFO:root:Matched "scientist" to "chemist"	5	0
+INFO:root:Matched "surgeon" to "physician"	7	1
+INFO:root:Matched "surgeon" to "surgeon"	18	2
+INFO:root:Matched "surgeon" to "doctor"	273	83
+INFO:root:Matched "teacher" to "instructor"	8	1
+INFO:root:Matched "teacher" to "teacher"	109	70
+INFO:root:Matched "writer" to "writer"	17	1
+INFO:root:Matched "writer" to "author"	18	8
+INFO:root:Mapped 27 of 577	4.7%	Compared 15
+INFO:root:Fetching roles for 2013
+INFO:root:Matched "accountant" to "accountant"	3	1
+INFO:root:Matched "accountant" to "auditor"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	1/2	x2/inv	1126494.0/687506.0
+WARNING:root:Invalid z for "accountant"	imdb 3	total_census 1814000.0	f_imdb 1	f_census 1126494.0
+INFO:root:Matched "baker" to "baker"	11	0
+WARNING:root:Invalid z proportion test	x1/inv	0/11	x2/inv	123786.0/83214.0
+WARNING:root:Invalid z for "baker"	imdb 11	total_census 207000.0	f_imdb 0	f_census 123786.0
+INFO:root:Matched "butcher" to "butcher"	6	0
+WARNING:root:Invalid z proportion test	x1/inv	0/6	x2/inv	82365.0/240635.0
+WARNING:root:Invalid z for "butcher"	imdb 6	total_census 323000.0	f_imdb 0	f_census 82365.0
+INFO:root:Matched "cashier" to "cashier"	42	24
+INFO:root:Matched "cook" to "cook"	18	2
+WARNING:root:Invalid z proportion test	x1/inv	2/16	x2/inv	789236.0/1198764.0
+WARNING:root:Invalid z for "cook"	imdb 18	total_census 1988000.0	f_imdb 2	f_census 789236.0
+INFO:root:Matched "dentist" to "dentist"	4	0
+WARNING:root:Invalid z proportion test	x1/inv	0/4	x2/inv	56364.0/126636.0
+WARNING:root:Invalid z for "dentist"	imdb 4	total_census 183000.0	f_imdb 0	f_census 56364.0
+INFO:root:Matched "housekeeping" to "housekeeper"	4	4
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	14	13
+WARNING:root:Invalid z proportion test	x1/inv	17/1	x2/inv	1228677.0/172323.0
+WARNING:root:Invalid z for "housekeeping"	imdb 18	total_census 1401000.0	f_imdb 17	f_census 1228677.0
+INFO:root:Matched "lawyer" to "lawyer"	56	6
+INFO:root:Matched "manager" to "manager"	41	7
+INFO:root:Matched "nurse" to "nurse"	415	374
+INFO:root:Matched "reporter" to "news analyst"	0	0
+INFO:root:Matched "reporter" to "correspondent"	83	49
+INFO:root:Matched "reporter" to "reporter"	388	193
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	45	4
+INFO:root:Matched "scientist" to "physicist"	1	0
+INFO:root:Matched "scientist" to "chemist"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	4/42	x2/inv	292445.0/393555.0
+WARNING:root:Invalid z for "scientist"	imdb 46	total_census 686000.0	f_imdb 4	f_census 292445.0
+INFO:root:Matched "surgeon" to "physician"	5	3
+INFO:root:Matched "surgeon" to "surgeon"	16	3
+INFO:root:Matched "surgeon" to "doctor"	260	55
+INFO:root:Matched "teacher" to "instructor"	11	8
+INFO:root:Matched "teacher" to "teacher"	95	52
+INFO:root:Matched "writer" to "writer"	27	17
+INFO:root:Matched "writer" to "author"	6	0
+INFO:root:Mapped 27 of 574	4.7%	Compared 15
+INFO:root:Fetching roles for 2014
+INFO:root:Matched "accountant" to "accountant"	5	0
+INFO:root:Matched "accountant" to "auditor"	0	0
+WARNING:root:Invalid z proportion test	x1/inv	0/5	x2/inv	1086120.0/637880.0
+WARNING:root:Invalid z for "accountant"	imdb 5	total_census 1724000.0	f_imdb 0	f_census 1086120.0
+INFO:root:Matched "baker" to "baker"	5	1
+WARNING:root:Invalid z proportion test	x1/inv	1/4	x2/inv	140672.0/83328.0
+WARNING:root:Invalid z for "baker"	imdb 5	total_census 224000.0	f_imdb 1	f_census 140672.0
+INFO:root:Matched "butcher" to "butcher"	12	1
+WARNING:root:Invalid z proportion test	x1/inv	1/11	x2/inv	77785.0/253215.0
+WARNING:root:Invalid z for "butcher"	imdb 12	total_census 331000.0	f_imdb 1	f_census 77785.0
+INFO:root:Matched "cashier" to "cashier"	25	15
+INFO:root:Matched "cook" to "cook"	27	11
+INFO:root:Matched "dentist" to "dentist"	1	0
+WARNING:root:Invalid z proportion test	x1/inv	0/1	x2/inv	55872.0/136128.0
+WARNING:root:Invalid z for "dentist"	imdb 1	total_census 192000.0	f_imdb 0	f_census 55872.0
+INFO:root:Matched "housekeeping" to "housekeeper"	3	3
+INFO:root:Matched "housekeeping" to "housekeeping cleaner"	0	0
+INFO:root:Matched "housekeeping" to "maid"	17	16
+WARNING:root:Invalid z proportion test	x1/inv	19/1	x2/inv	1341404.0/172596.0
+WARNING:root:Invalid z for "housekeeping"	imdb 20	total_census 1514000.0	f_imdb 19	f_census 1341404.0
+INFO:root:Matched "lawyer" to "lawyer"	64	19
+INFO:root:Matched "manager" to "manager"	28	4
+WARNING:root:Invalid z proportion test	x1/inv	4/24	x2/inv	2076305.0/3726695.0
+WARNING:root:Invalid z for "manager"	imdb 28	total_census 5803000.0	f_imdb 4	f_census 2076305.0
+INFO:root:Matched "nurse" to "nurse"	249	209
+INFO:root:Matched "reporter" to "news analyst"	0	0
+INFO:root:Matched "reporter" to "correspondent"	75	48
+INFO:root:Matched "reporter" to "reporter"	185	97
+INFO:root:Matched "scientist" to "mathematician"	0	0
+INFO:root:Matched "scientist" to "scientist"	63	3
+INFO:root:Matched "scientist" to "physicist"	0	0
+INFO:root:Matched "scientist" to "chemist"	2	0
+WARNING:root:Invalid z proportion test	x1/inv	3/62	x2/inv	247064.0/381936.0
+WARNING:root:Invalid z for "scientist"	imdb 65	total_census 629000.0	f_imdb 3	f_census 247064.0
+INFO:root:Matched "surgeon" to "physician"	3	0
+INFO:root:Matched "surgeon" to "surgeon"	17	1
+INFO:root:Matched "surgeon" to "doctor"	169	33
+INFO:root:Matched "teacher" to "instructor"	6	0
+INFO:root:Matched "teacher" to "teacher"	111	58
+INFO:root:Matched "writer" to "writer"	13	3
+INFO:root:Matched "writer" to "author"	14	0
+WARNING:root:Invalid z proportion test	x1/inv	3/24	x2/inv	130611.0/90389.0
+WARNING:root:Invalid z for "writer"	imdb 27	total_census 221000.0	f_imdb 3	f_census 130611.0
+INFO:root:Mapped 26 of 575	4.5%	Compared 15

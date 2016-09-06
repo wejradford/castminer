@@ -1,0 +1,11 @@
+1900--1920	c	1920--1940	c	1940--1960	c	1960--1980	c	1980--2000	c	2000--2020	c
+		commentator	247	newsreader	24197	host	40926	host	151123	host	247380
+		spectator	99	host	14187	model	21573	hostess	46232	contestant	50618
+		analyst & commentator	98	reporter	11183	announcer	12723	newsreader	38521	guest	40725
+		reporter	88	panelist	6186	presenter	10694	presenter	28024	presenter	40476
+		presenter	49	announcer	5618	various	10445	announcer	26056	narrator	35035
+		analyst	41	sports newsreader	5617	singer	7722	guest	21262	judge	28423
+		ant	19	singer	3614	guest	6374	narrator	18355	panelist	24692
+		interviewee	19	weather forecaster	3175	narrator	6020	various	15151	various characters	21926
+		cambridge competitor	14	townsman	3038	various characters	4747	various characters	12801	co-host	20469
+		officer	13	narrator	3017	reporter	4240	reporter	11725	hostess	19213

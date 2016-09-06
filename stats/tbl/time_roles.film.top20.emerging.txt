@@ -1,0 +1,11 @@
+1900--1920	c	1920--1940	c	1940--1960	c	1960--1980	c	1980--2000	c	2000--2020	c
+undetermined role	986	henchman	2026	host	1138	maria	536	additional voices	3498	zombie	9988
+the wife	437	reporter	1509	commentator	444	presenter	522	police officer	1184	bar patron	5207
+the husband	432	dancer	1280	announcer	440	priest	464	various	962	sarah	3733
+mary	351	townsman	1038	sergeant	420	anna	443	various characters	949	interviewee	3466
+the father	322	waiter	833	miner	402	paul	361	thug	868	alex	3440
+the girl	319	narrator	801	clerk	400	peter	350	security guard	733	sam	3399
+jack	313	barfly	732	rancher	379	waitress	327	david	723	mike	3079
+the sheriff	300	doctor	705	cab driver	358	father	322	teacher	698	michael	2859
+the maid	280	bit role	663	model	345	george	318	hostess	692	mark	2675
+the mother	280	singer	600	petit rôle	344	ensemble	316	frank	686	restaurant patron	2621

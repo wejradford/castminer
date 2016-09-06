@@ -1,0 +1,51 @@
+FILM+TV	female	FILM+TV	male
+host	123688	host	369794
+hostess	74766	narrator	75237
+presenter	39538	announcer	58139
+newsreader	34113	presenter	51686
+model	30243	guest	45996
+guest	29264	various	33488
+contestant	28566	newsreader	32265
+reporter	25837	various characters	31705
+nurse	20765	contestant	31347
+dancer	19004	reporter	31142
+panelist	17801	panelist	25953
+various	14372	judge	25000
+judge	14110	co-host	22072
+narrator	13609	doctor	18222
+co-host	12226	additional voices	17981
+various characters	12016	policeman	16546
+girl	11548	performer	14872
+singer	11488	man	13627
+woman	11158	bartender	13259
+waitress	11079	various roles	12520
+correspondent	10685	singer	12430
+mother	9959	correspondent	12343
+laura	9917	dancer	12161
+maria	9845	waiter	11839
+performer	8481	police officer	11122
+sarah	8190	cop	10715
+lisa	8145	david	10071
+anna	7962	student	10042
+additional voices	7922	soldier	9999
+co-hostess	7845	guard	9791
+student	7587	detective	9685
+mary	6949	paul	9302
+rita	6888	tom	9149
+rosa	6708	sports newsreader	9070
+alice	6707	john	9016
+jane	5990	jack	8943
+various roles	5919	commentator	8780
+julie	5782	townsman	8514
+secretary	5668	mike	8491
+sara	5539	max	8448
+linda	5427	extra	8313
+receptionist	5398	boy	8253
+extra	5190	frank	8245
+eva	5112	mark	8037
+marta	5007	tony	7916
+jenny	4963	george	7889
+sandra	4963	sam	7800
+lucy	4912	interviewee	7787
+ana	4849	musician	7785
+teresa	4803	joe	7759

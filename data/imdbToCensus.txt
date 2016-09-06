@@ -1,0 +1,85 @@
+baker	baker	Bakers
+cashier	cashier	Cashiers
+cook	cook	Cooks
+#firefighter	firefighter	Firefighters
+#firefighter	fireman	Firefighters
+#firefighter	firewoman	Firefighters
+housekeeping	housekeeper	Maids and housekeeping cleaners
+housekeeping	housekeeping cleaner	Maids and housekeeping cleaners
+housekeeping	maid	Maids and housekeeping cleaners
+housekeeping	maid	Maids and housemen
+#janitor	janitor	Janitors and building cleaners
+#janitor	building cleaner	Janitors and building cleaners
+manager	manager	Management, professional, and related occupations
+nurse	nurse	Registered nurses
+#pilot	pilot	Aircraft pilots and flight engineers
+#pilot	flight engineer	Aircraft pilots and flight engineers
+reporter	reporter	News analysts, reporters and correspondents
+reporter	news analyst	News analysts, reporters and correspondents
+reporter	correspondent	News analysts, reporters and correspondents
+scientist	scientist	Life, physical, and social science occupations
+surgeon	surgeon	Physicians and surgeons
+surgeon	physician	Physicians and surgeons
+surgeon	doctor	Physicians and surgeons
+#taxi	taxi driver	Taxi drivers and chauffeurs
+#taxi	chauffeur	Taxi drivers and chauffeurs
+#travel agent	travel agent	Travel agents
+lawyer	lawyer	Lawyers
+teacher	teacher	Postsecondary teachers
+teacher	teacher	Preschool and kindergarten teachers
+teacher	teacher	Elementary and middle school teachers
+teacher	teacher	Secondary school teachers
+teacher	teacher	Special education teachers
+teacher	teacher	Other teachers and instructors
+teacher	instructor	Postsecondary teachers
+#artist	artist	Artists and related workers
+dentist	dentist	Dentists
+#plumber	plumber	Pipelayers, plumbers, pipefitters, and steamfitters
+butcher	butcher	Butchers and other meat, poultry, and fish processing workers
+#bus driver	bus driver	Bus drivers
+#architect	architect	Architects, except naval
+#ceo	ceo	Chief executives
+accountant	accountant	Accountants and auditors
+accountant	auditor	Accountants and auditors
+programmer	programmer	Computer programmer
+#electrician	electrician	Electricians
+scientist	scientist	Agricultural and food scientists
+scientist	scientist	Atmospheric and space scientists
+scientist	scientist	Biological and life scientists
+scientist	scientist	Biological scientists
+scientist	scientist	Chemists and materials scientists
+scientist	chemist	Chemists and materials scientists
+scientist	scientist	Computer and information research scientists
+scientist	scientist	Computer scientists and systems analysts
+scientist	scientist	Computer systems analysts and scientists
+scientist	scientist	Conservation scientists and foresters
+scientist	scientist	Environmental scientists and geoscientists
+scientist	scientist	Life scientists, all other
+scientist	scientist	Mathematical and computer scientists
+scientist	mathematician	Mathematical and computer scientists
+scientist	scientist	Medical scientists
+scientist	scientist	Miscellaneous social scientists and related workers
+scientist	scientist	Natural scientists
+scientist	scientist	Physical scientists, all other
+scientist	physicist	Physical scientists, all other
+scientist	scientist	Social scientists and urban planners
+manager	manager	Management occupations
+manager	manager	Management of companies and enterprises
+manager	manager	Management, business, and financial operations occupations
+manager	manager	Management, professional, and related occupations
+manager	manager	Management, scientific, and technical consulting services
+manager	manager	Managers, all other
+manager	manager	Managers, farms, except horticultural
+manager	manager	Managers, food serving and lodging establishments
+manager	manager	Managers, marketing, advertising, and public relations
+manager	manager	Managers, medicine and health
+manager	manager	Managers, properties and real estate
+teacher	teacher	Early childhood teachers' assistants
+teacher	teacher	Elementary and middle school teachers
+teacher	teacher	Other teachers and instructors
+teacher	teacher	Postsecondary teachers
+teacher	teacher	Preschool and kindergarten teachers
+teacher	teacher	Secondary school teachers
+teacher	teacher	Special education teachers
+writer	writer	Writers and authors
+writer	author	Writers and authors

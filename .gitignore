@@ -1,0 +1,4 @@
+.*swp
+ve
+data_processing/*.log
+data_processing/*.txt

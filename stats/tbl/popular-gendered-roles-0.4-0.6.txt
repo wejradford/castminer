@@ -1,0 +1,2338 @@
+guest opera vocalist	21	11	0.524
+panicked picnicer	21	8	0.429
+xinia's classmate	21	8	0.429
+spectrum	21	8	0.429
+camp rock dancer	21	12	0.571
+easter egg hunt attendee	21	12	0.571
+principal model	21	12	0.571
+ombis slime mutant	21	8	0.429
+intercom voice	21	12	0.571
+yoga	21	12	0.571
+ako	21	12	0.571
+bilge	21	12	0.571
+carnival kid	21	12	0.571
+ice-capades skater	21	12	0.571
+sam black	21	12	0.571
+tv viewer	21	12	0.571
+game break	21	8	0.429
+fan in lobby	21	8	0.429
+all star jaguar dancer	21	8	0.429
+glee club member	21	11	0.524
+jabba	21	11	0.524
+hosted	21	8	0.429
+orange team	21	11	0.524
+protest leader	21	8	0.429
+peaches & herb	21	11	0.524
+petty	21	11	0.524
+rollerskater	21	11	0.524
+specialty singer	21	11	0.524
+spellbinder	21	11	0.524
+sympathizer	21	11	0.524
+...	21	10	0.524
+bad driver	21	10	0.524
+fa	21	10	0.524
+the carpenters	21	10	0.524
+student in class	21	12	0.571
+film star	21	11	0.524
+twilight	21	12	0.571
+Åklagare	21	12	0.571
+tack	21	10	0.476
+psicanalista	21	10	0.476
+presenter: best direction of a play	21	10	0.476
+pharmacy clerk	21	10	0.476
+peace	21	10	0.476
+masquerade ball dancer	21	10	0.476
+yaz	21	10	0.476
+cloaked figure	21	10	0.476
+casino cashier	21	10	0.476
+violin student	21	10	0.476
+spelling bee contestant	21	10	0.476
+coffee barista	21	10	0.476
+gallery crowd	21	10	0.476
+clarence's classmate	21	11	0.524
+charlie chase	21	10	0.476
+ahern party	21	9	0.476
+at elton john's oscar party	21	9	0.476
+brazilian opera troupe	21	9	0.476
+sam murray	21	11	0.571
+tsunomon	21	9	0.476
+the biggest loser	21	9	0.476
+the zoo visitors & staff	21	9	0.476
+restaurant personnel	21	9	0.476
+player's theatre member	21	9	0.476
+orzammar noble	21	9	0.476
+next innovation staff	21	9	0.476
+mallrat	21	9	0.476
+ltd. edition)	21	9	0.476
+io	21	9	0.476
+hotel customer	21	9	0.476
+guest at club ramp	21	9	0.476
+financial reporter	21	9	0.476
+breadline person	21	9	0.476
+video game voice	21	12	0.571
+co-ordinator	21	11	0.524
+nederlander van de week	21	12	0.571
+presenter: best motion picture	21	9	0.429
+alaska	21	11	0.524
+acting troupe member	21	11	0.524
+teràpia cecs	21	11	0.524
+rehearsal	21	11	0.524
+principal musician and vocalist	21	11	0.524
+nightingale island tourist	21	11	0.524
+military base survivor	21	11	0.524
+leos klass	21	11	0.524
+crazy herbal's	21	11	0.524
+singer-songwriter	21	9	0.429
+background voice	21	9	0.429
+glee club	21	9	0.429
+co-director	21	9	0.429
+dr. weston	21	9	0.429
+dancing cop	21	9	0.429
+crasher	21	9	0.429
+greed orgy	21	11	0.524
+funeral home extra	21	11	0.524
+charlie cooper	21	9	0.429
+elève de fiona	21	11	0.524
+carnival attendee	21	9	0.429
+additional dancer	21	9	0.429
+abaddon	21	9	0.429
+hipster friend	21	9	0.429
+east la squad dancer	21	11	0.524
+l'ange	21	9	0.429
+carpooler	21	11	0.524
+kid dancer	21	9	0.429
+jazzmine	21	9	0.429
+art enthusiast	21	11	0.524
+spencer's hands	22	13	0.591
+agent lee	22	11	0.500
+reporter on tv	22	9	0.409
+kid in class	22	9	0.409
+lovey	22	9	0.409
+chorist	22	9	0.409
+swedish entry	22	13	0.591
+dean of students	22	9	0.409
+doublure	22	9	0.409
+group therapy member	22	9	0.409
+sudden actor	22	11	0.500
+chand	22	9	0.409
+viulisti	22	11	0.500
+captain ochre	22	11	0.500
+la mort	22	8	0.409
+child in the playground	22	11	0.500
+fan club president	22	11	0.500
+geeta ki gang	22	11	0.500
+gypsy singer	22	11	0.500
+hae da fung tribes	22	11	0.500
+prom student	22	8	0.409
+londoner	22	9	0.409
+39 days	22	8	0.409
+blithe hollow townperson	22	10	0.455
+church scene extra	22	10	0.455
+dr. long	22	12	0.545
+ayato naoi	22	11	0.500
+tanuló	22	12	0.545
+amusement park patron	22	12	0.545
+ebi	22	12	0.545
+gallery attendee	22	12	0.591
+live reporter	22	12	0.591
+detective wright	22	12	0.591
+vampire dancer	22	13	0.591
+tui	22	13	0.591
+syl	22	13	0.591
+la morte	22	13	0.591
+illya	22	13	0.591
+hama	22	13	0.591
+billo	22	13	0.591
+agent 6	22	13	0.591
+1939 party guest	22	11	0.500
+blue team member	22	11	0.500
+'reel moments'	22	11	0.500
+p.k.	22	9	0.409
+vauva	22	11	0.500
+redactielid	22	11	0.500
+passager	22	11	0.500
+pool party patron	22	8	0.409
+philip k. duck	22	11	0.500
+matsubara	22	9	0.409
+skids	22	11	0.500
+liaison officer	22	9	0.409
+tulsa	22	11	0.500
+uk team	22	11	0.500
+challenge judge	22	9	0.409
+psykiater	22	9	0.409
+club el gaucho patron	22	8	0.409
+telephone caller	22	9	0.409
+kids at camp	22	8	0.409
+mandilok	22	11	0.500
+jazz class dancer	22	11	0.500
+party attendant	22	11	0.545
+super fan	22	11	0.545
+former teacher	22	11	0.545
+party teen	22	11	0.545
+child in playground	22	11	0.545
+singing telegram	22	12	0.545
+bullet points presenter	22	13	0.591
+max's friend	22	9	0.455
+ova	22	9	0.455
+los angeles	22	9	0.455
+host-self	22	9	0.455
+deckhand: wild ranger	22	8	0.409
+tv speaker	22	10	0.455
+the elephant	22	10	0.455
+art gallery party goer	22	13	0.591
+sam vernon	22	10	0.455
+presenter: best direction of a musical	22	12	0.545
+mix	22	12	0.545
+rarotonga tribes	22	13	0.591
+newsreel intermission extra	22	13	0.591
+envi patron	22	13	0.591
+cos de ball	22	12	0.545
+art gallery visitor	22	10	0.500
+track runner	22	12	0.545
+swim team member	22	10	0.500
+pat murphy	22	12	0.545
+winning contestant	22	10	0.500
+caged human	22	8	0.409
+us army	22	10	0.500
+international traveler	22	10	0.500
+on the phone	22	12	0.545
+birthday party child	22	9	0.409
+aged 2	22	12	0.545
+casting reporter	22	12	0.545
+pool partier	22	10	0.500
+riese	22	10	0.455
+voix radio	22	10	0.455
+property manager	22	10	0.455
+genealogist	22	10	0.455
+design judge	22	10	0.455
+community activist	22	10	0.455
+apoteker	22	10	0.455
+academy president	22	10	0.455
+audition dancer	22	10	0.455
+angels	22	10	0.455
+intercom	22	10	0.455
+weiterer kunde (segment kolay gelsin!	22	10	0.455
+little singing star contestant	22	10	0.455
+king cake party	22	10	0.455
+davao evacuee	22	11	0.545
+elève classe	22	10	0.455
+new england extra	22	11	0.545
+writing: an informative guide")	22	11	0.545
+passers by	22	8	0.409
+team 'maus'	22	10	0.455
+marianne und michael	22	10	0.455
+kamuran	22	10	0.455
+chuay jai tribe	22	8	0.409
+orwell	22	10	0.455
+mim	22	10	0.455
+diver: the edge	23	13	0.565
+chorus of sleepers	23	13	0.565
+oran	23	11	0.478
+shiomi	23	11	0.478
+cnn correspondent	23	12	0.565
+arty type	23	10	0.478
+studio kid	23	12	0.565
+community pool	23	10	0.478
+interviewie	23	10	0.478
+un élève de la 4e techno	23	10	0.478
+tree baby parent	23	10	0.478
+dancer of the royal ballet	23	10	0.478
+late show intern	23	13	0.565
+bibbo	23	13	0.565
+virkailija	23	11	0.478
+yo-yo	23	13	0.565
+waltzer	23	13	0.565
+concert guest	23	11	0.478
+child ghost	23	11	0.478
+dr. abbott	23	11	0.478
+host-anchor	23	11	0.478
+photo extra	23	11	0.478
+nobag tribe	23	10	0.478
+duba	23	11	0.478
+fox business correspondent	23	11	0.478
+parents	23	13	0.565
+nyman	23	13	0.565
+homeroom teacher	23	11	0.478
+hyacinthe	23	11	0.478
+kamen rider mage	23	13	0.565
+hypnotherapist	23	13	0.565
+department store clerk	23	11	0.478
+brothel owner	23	13	0.565
+purple	23	10	0.435
+wedding two	23	9	0.435
+'deadwalking' cemetery waltzer	23	12	0.522
+armory extra	23	12	0.522
+beauty tribe	23	11	0.522
+pretty person	23	12	0.522
+role unknown	23	12	0.522
+beatty	23	12	0.522
+dress designer	23	12	0.522
+eike	23	12	0.522
+elmas	23	12	0.522
+bar scene	23	9	0.435
+the best friend	23	11	0.522
+911 caller	23	11	0.522
+the couple	23	12	0.522
+german teacher	23	12	0.522
+hospital	23	12	0.522
+metalgarurumon	23	12	0.522
+sketch comedy actor	23	12	0.522
+presenter & performer	23	12	0.522
+shaye	23	12	0.522
+blink	23	10	0.435
+aa leader	23	10	0.435
+community theater group	23	12	0.522
+actor in commercial	23	10	0.435
+deaf choir	23	9	0.435
+wnyw reporter	23	9	0.435
+as child	23	9	0.435
+well wisher	23	9	0.435
+child at school	23	9	0.435
+victime	23	9	0.435
+life	23	9	0.435
+voix	23	10	0.435
+pudgy	23	10	0.435
+winner: special award	23	10	0.435
+nane	23	10	0.435
+asi	23	10	0.435
+cira	23	10	0.435
+presenter: best european film	23	10	0.435
+expedit	23	10	0.435
+halftime show performer	23	10	0.435
+comedy sketch actor	23	10	0.435
+party parent	23	10	0.435
+a singer	23	12	0.522
+background student	24	10	0.417
+sport star guest	24	10	0.417
+snow flowers	24	13	0.583
+kesha	24	12	0.500
+flannery	24	10	0.417
+Åklagaren	24	10	0.417
+actor in a supporting role in a motion picture	24	10	0.417
+the oap'z	24	13	0.583
+junge dichter und denker	24	12	0.500
+baby joe	24	10	0.417
+cancer	24	10	0.417
+cirque du soleil performer	24	14	0.583
+pen	24	10	0.417
+shugo kunisaki	24	12	0.500
+paneldeltager	24	12	0.500
+high school dancer	24	11	0.500
+nominee: best costume design	24	11	0.500
+pancake breakfast extra	24	10	0.417
+madoff investor	24	14	0.583
+misfit	24	14	0.583
+dragonfly	24	10	0.417
+kindergartener	24	14	0.583
+kim lee	24	14	0.583
+medical investigator	24	11	0.500
+montmartre dancer	24	12	0.500
+company dancer	24	11	0.500
+sketch comedian	24	9	0.417
+interventionist	24	9	0.417
+casino worker	24	9	0.417
+dirty dancer	24	11	0.500
+other extras	24	10	0.417
+rally attendant	24	12	0.500
+jone	24	13	0.542
+dance theatre of harlem	24	13	0.542
+delaware student	24	13	0.542
+knight crew chorus member	24	13	0.542
+probationer	24	13	0.542
+pipi	24	11	0.458
+half breeder	24	10	0.417
+kocho	24	13	0.542
+market customer	24	11	0.458
+lole y manuel	24	13	0.542
+manabu yuuki	24	13	0.542
+nei	24	13	0.542
+pop singer	24	13	0.542
+aubrey's dancer	24	12	0.500
+divorce lawyer	24	11	0.458
+animation voice	24	12	0.500
+crying baby	24	11	0.458
+afia	24	12	0.500
+ad agency staff	24	12	0.500
+call center	24	11	0.458
+ds only	24	10	0.417
+accepting award for favorite television dramatic series	24	11	0.458
+background cast	24	13	0.542
+troubled teen	24	11	0.458
+brawn tribe	24	12	0.500
+enemy soldiers	24	10	0.458
+pretty grunty	24	12	0.500
+officer ramirez	24	11	0.458
+trick r' treater	24	12	0.500
+salvation army soldier	24	12	0.500
+harrison ryan	24	12	0.500
+houseplayer	24	12	0.500
+train station traveler	24	10	0.458
+restaurant & bar patron	24	10	0.458
+other tourist	24	10	0.458
+management	24	10	0.458
+exposition hall attendee	24	12	0.500
+disco extra	24	12	0.500
+constable matsuo tieko	24	12	0.500
+the george w. bush singers	24	10	0.458
+zudomon	25	12	0.520
+sex slave	25	12	0.520
+restaurant dater	25	13	0.520
+darkstar	25	12	0.520
+trolls	25	13	0.520
+school parent	25	13	0.520
+minor talent contest audience	25	13	0.520
+marianne & michael	25	13	0.520
+radio singer	25	12	0.520
+high school extra	25	13	0.520
+chester's mill townsfolk	25	13	0.520
+vampire in barn	25	13	0.520
+karaoke crowd	25	13	0.520
+cooking teacher	25	13	0.520
+gala attendee	25	13	0.520
+presenter: best television series	25	13	0.520
+thursday	25	13	0.520
+and where did they get 19 kids?	25	13	0.520
+asian business correspondent	25	13	0.520
+big brovaz	25	13	0.520
+bilson	25	13	0.520
+buka	25	13	0.520
+extra at the club	25	13	0.520
+go-go	25	13	0.520
+geisel	25	13	0.520
+tabloid reporter	25	12	0.480
+hotel resident	25	12	0.480
+business person	25	11	0.480
+enigma	25	11	0.480
+varian	25	12	0.480
+flock member	25	14	0.560
+educator	25	14	0.560
+judge's associate	25	14	0.560
+renter	25	12	0.480
+devine	25	14	0.560
+spikey	25	12	0.480
+10 years old	25	12	0.480
+market square extra	25	14	0.560
+naz	25	14	0.560
+visa applicant	25	12	0.480
+co-presenter: best costume design	25	12	0.480
+crowd in movie theatre	25	12	0.480
+fujieda	25	12	0.480
+gyn	25	13	0.560
+ikenouchi	25	12	0.480
+kind op schoolplein	25	12	0.480
+red carpet guest	25	12	0.480
+kush	25	12	0.480
+manou	25	12	0.480
+mcintosh patron	25	12	0.480
+medical staff	25	12	0.480
+nath	25	12	0.480
+neighborhood extra	25	12	0.480
+ning	25	12	0.480
+peppi	25	12	0.480
+good angel	25	11	0.480
+gallery	25	11	0.480
+kid on playground	25	11	0.440
+patient zero	25	11	0.440
+presenter: best sound	25	11	0.440
+receiver	25	11	0.440
+sala	25	11	0.440
+sea lion	25	11	0.440
+scooch	25	10	0.440
+maakun	25	11	0.440
+big placer	25	10	0.440
+concerned vets for america	25	10	0.440
+passenger on bus	25	10	0.440
+jethrine bodine	25	10	0.440
+indian wedding guest	25	10	0.400
+upscale party guest	25	10	0.400
+concepcion	25	14	0.600
+church guest	25	10	0.440
+klasgenoot kees	25	11	0.440
+punk bar	25	12	0.480
+'ballad for americans'	25	11	0.440
+titanic	25	11	0.440
+cafeteria kid	25	11	0.440
+handball player	25	11	0.440
+member of public	26	13	0.500
+recovering addict	26	13	0.500
+opening sequence	26	14	0.538
+bingo burger patron	26	13	0.538
+nickie	26	14	0.538
+renton	26	13	0.500
+elitehold	26	13	0.538
+ika	26	14	0.538
+ace of base	26	13	0.538
+hashtag	26	14	0.538
+6th grade student	26	14	0.538
+max's student	26	11	0.423
+ness	26	14	0.538
+parkgoer	26	13	0.538
+stock company member	26	13	0.538
+pine	26	14	0.538
+die kinder	26	11	0.423
+courthouse crowd	26	15	0.577
+gatherer	26	15	0.577
+auxiliar	26	15	0.577
+darian	26	15	0.577
+feather	26	15	0.577
+black jack dealer	26	14	0.577
+recurring	26	14	0.577
+mad	26	14	0.577
+masquerade ball extra	26	14	0.577
+at the embassy	26	11	0.423
+babette's dancer	26	11	0.423
+camper at camp sedona	26	11	0.423
+invitado fiesta farah	26	11	0.423
+kona fan	26	11	0.423
+orca cadet	26	11	0.423
+naseem	26	12	0.462
+lexor	26	12	0.462
+gud	26	12	0.462
+co-presenter: best sound	26	12	0.462
+co-presenter: best original song	26	12	0.462
+témoin	26	12	0.462
+tennis fan	26	12	0.462
+l.a. anchor	26	12	0.462
+aitutonga tribe	26	12	0.462
+aubergiste	26	13	0.500
+bg	26	11	0.423
+commercial	26	11	0.423
+apartment owner	26	11	0.423
+dance ensemble	26	14	0.538
+member of the jivin' jacks and jills	26	13	0.500
+seer	26	13	0.500
+mint	26	13	0.500
+away team	26	13	0.500
+enrique y ana	26	13	0.500
+adam & eve	26	13	0.500
+present day	26	10	0.423
+crowd scene	26	10	0.423
+forensic anthropologist	26	12	0.500
+participante	26	13	0.500
+various animals	26	13	0.500
+one night stand	26	11	0.423
+ink	26	13	0.500
+way person	26	13	0.500
+judith & mel	26	13	0.500
+screen test	26	13	0.500
+pu	26	13	0.500
+typesetter	26	11	0.423
+blue eyes	26	13	0.500
+nix	27	12	0.444
+comedian-regular	27	12	0.444
+burgundy	27	12	0.444
+daily planet reporter	27	12	0.444
+district 13 citizen	27	12	0.444
+a customer	27	12	0.444
+new york reporter	27	10	0.407
+also appearing	27	13	0.481
+community member	27	13	0.481
+ankylomon	27	13	0.481
+terminal passenger	27	12	0.444
+bhanu	27	13	0.481
+crazy fan	27	12	0.481
+park enthusiast	27	12	0.444
+ujier	27	12	0.444
+time team archaeologist	27	11	0.444
+guest choreographer	27	11	0.444
+baywalk	27	11	0.407
+danseurs et interprètes	27	11	0.407
+scorchy	27	11	0.407
+edy	27	11	0.407
+event planner	27	11	0.407
+little jake	27	11	0.407
+malak	27	11	0.407
+snob	27	11	0.407
+walla group	27	11	0.407
+video royale kid	27	11	0.444
+church crowd	27	10	0.407
+geophysics and survey	27	11	0.444
+extras at club ramp	27	11	0.444
+crude oasis bar patron	27	11	0.444
+sali	27	11	0.444
+car rental agent	27	11	0.444
+disco patron	27	12	0.481
+celebrity stylist	27	13	0.481
+tsuyoshi ohki	27	12	0.481
+actor in a motion picture	27	14	0.519
+presenter: best editing	27	12	0.481
+sofiane	27	14	0.519
+little tokyo background	27	15	0.556
+giant tree creature	27	15	0.593
+spencer mckay	27	14	0.519
+trauergast	27	14	0.519
+vampire victim	27	16	0.593
+diane johnson	27	13	0.519
+post office worker	27	16	0.593
+malta	27	16	0.593
+dream sequence	27	16	0.593
+bootsie	27	16	0.593
+biological anthropologist	27	16	0.593
+town child	27	16	0.593
+sick kid	27	14	0.519
+singing trio	27	14	0.519
+gallery assistant	27	14	0.519
+wazi	27	14	0.519
+Åldringarna	27	12	0.481
+andy panda	27	14	0.556
+the diva	27	15	0.556
+tale	27	15	0.556
+research assistant	27	14	0.519
+chichi	27	15	0.556
+hemlig gäst	27	15	0.556
+indiana	27	15	0.556
+college students	27	15	0.556
+bargoer	27	14	0.519
+celebrity kakampi	27	14	0.519
+hogfest attendants	27	14	0.519
+troupe du palace	27	14	0.556
+higuchi	28	11	0.429
+pachi	28	12	0.429
+yo yo	28	12	0.429
+horde zombie	28	12	0.429
+white house reporter	28	12	0.429
+coffee	28	12	0.429
+presenter: best musical	28	14	0.500
+miracle	28	11	0.429
+worship leader	28	12	0.429
+con artist	28	11	0.429
+dvd only	28	13	0.464
+unicycle race attendant	28	14	0.500
+friedel	28	13	0.464
+auction patron	28	13	0.464
+aerobics class	28	13	0.464
+tv allstars	28	13	0.464
+snapatoonies kid	28	13	0.464
+hot dog customer	28	14	0.500
+trang	28	13	0.464
+zoner	28	13	0.464
+airline agent	28	14	0.500
+sheffield	28	14	0.500
+an everyone	28	14	0.500
+dance contestant	28	12	0.464
+chatta	28	14	0.500
+hibiki amawa	28	14	0.500
+häävieras	28	14	0.500
+ice cream fight	28	14	0.500
+fox news	28	13	0.464
+edge citizen	28	11	0.429
+clips from 'here's lucy'	28	12	0.429
+ooyama	28	14	0.500
+ashford & simpson	28	14	0.500
+public panel	28	14	0.500
+galu	28	12	0.429
+autograph fan	28	16	0.571
+christmas guest	28	16	0.571
+outside marketer	28	16	0.571
+parisian dancer	28	15	0.536
+fox business anchor	28	16	0.571
+casting	28	16	0.571
+peachy	28	16	0.571
+ensemble dancer	28	16	0.571
+twitchy	28	16	0.571
+alley	28	15	0.571
+stacks	28	15	0.536
+nuorisorikollinen	28	14	0.536
+hand model	28	15	0.536
+times square story	28	14	0.536
+voz-off	29	15	0.517
+victima	29	16	0.552
+at the ball	29	13	0.448
+wedding scene	29	13	0.448
+six gallery audience member	29	13	0.448
+blue moon employee	29	13	0.448
+gothamite	29	15	0.517
+mouseketeer	29	15	0.517
+television presenter	29	15	0.517
+actor in a tv-series	29	15	0.517
+additional character	29	15	0.517
+the b-52's	29	12	0.414
+minore	29	12	0.448
+ygor	29	12	0.448
+white house staff	29	15	0.552
+terry nichols	29	13	0.448
+fitter	29	13	0.448
+comedy special	29	13	0.448
+airplane	29	13	0.448
+ting	29	15	0.517
+matsing tribe	29	14	0.517
+histeria kid chorus	29	14	0.517
+additional soul	29	14	0.517
+nashville	29	14	0.517
+troupe	29	15	0.517
+leiche	29	13	0.483
+funeral scene	29	13	0.483
+ewing global employee	29	15	0.552
+herbalist	29	13	0.483
+solana	29	14	0.483
+nandi	29	14	0.483
+juontaja	29	14	0.483
+dmv clerk	29	14	0.483
+terapeuta	29	14	0.483
+cream	29	14	0.483
+gram	29	11	0.414
+prom attendee	29	14	0.483
+on-looker	29	12	0.414
+rtc court	29	14	0.483
+warped cannibal bbq goers and dead kids	29	14	0.483
+solist	29	11	0.414
+sam's school band	29	11	0.414
+auntie's restaurant ensemble	29	14	0.483
+crime scene onlooker	29	16	0.552
+ang	29	16	0.586
+fortune	29	17	0.586
+faerie	29	17	0.586
+coppers clubber	29	17	0.586
+carnival actor	29	17	0.586
+a philosophy student	29	17	0.586
+capitol citizen	29	13	0.448
+lycosian troop	29	14	0.483
+dining patron	29	13	0.448
+manabu yuki	30	15	0.500
+core fbi agent	30	16	0.533
+pool patron	30	16	0.533
+bt	30	17	0.567
+nbc page	30	14	0.500
+bonnie & clyde musical audience	30	15	0.500
+anonymous actors troupe	30	15	0.500
+co-presenter, itv	30	15	0.500
+deni	30	15	0.500
+documentairemaker	30	15	0.500
+teammate, nueva era	30	14	0.467
+indian child	30	14	0.467
+student protester	30	14	0.467
+maxima	30	17	0.567
+shion	30	14	0.467
+town hall attendee	30	13	0.467
+book market extra	30	17	0.567
+elève du lycée henri iv	30	17	0.567
+gamatatsu	30	17	0.567
+bar staff	30	17	0.567
+campaign staffer	30	16	0.533
+chat jockey	30	17	0.567
+karo	30	17	0.567
+understudy	30	13	0.467
+tres	30	16	0.533
+kayden	30	14	0.500
+focus group	30	15	0.533
+pionier	30	15	0.533
+terminal ops senior agent	30	15	0.533
+akito	30	13	0.433
+award nominee	30	13	0.433
+guest at mason's parents' party	30	15	0.533
+corp de ballet	30	15	0.533
+laundry worker	30	13	0.433
+class	30	13	0.433
+office associate	30	13	0.433
+rasa	30	13	0.433
+rev	30	13	0.433
+church organist	30	12	0.433
+touriste	30	12	0.433
+alex's friend	30	12	0.433
+diner guest	30	12	0.433
+varios personajes	30	13	0.433
+mob dancer	30	12	0.433
+chaboga mogo tribe	30	15	0.533
+finale dancer	30	15	0.533
+birthday party kid	30	15	0.533
+terapeut	30	17	0.600
+crowd participant	30	17	0.600
+hollywood reporter	30	15	0.533
+substitute weather	30	12	0.433
+joshi	30	12	0.400
+ad agency executive	31	17	0.581
+poochie	31	18	0.581
+nietzsche	31	18	0.581
+kanta	31	18	0.581
+the hollywood reporter	31	15	0.516
+dancer in club	31	17	0.581
+german entry	31	15	0.516
+assistant choreographer	31	15	0.516
+fanta	31	16	0.516
+tomato	31	16	0.516
+villager and farmer	31	16	0.516
+friend of timothy 'timmy' shirey	31	16	0.516
+jes	31	18	0.581
+other cast	31	15	0.484
+the lord of the dance troupe member	31	14	0.484
+gervaise	31	15	0.484
+tanársegéd	31	15	0.484
+young fan	31	15	0.484
+fashion correspondent	31	13	0.419
+co-presenter: best foreign language film	31	17	0.548
+beach-goer	31	14	0.484
+wargreymon	31	14	0.484
+metalgreymon	31	16	0.516
+economy class passenger	31	12	0.419
+dhs agent	31	12	0.419
+psy	31	13	0.419
+hanzo hattori	31	13	0.419
+guest cast	31	13	0.419
+geist	31	13	0.419
+tink	31	15	0.484
+katrina survivor	31	17	0.548
+professional	31	16	0.516
+additional extra	31	17	0.548
+geography teacher	31	14	0.452
+manihiki tribe	31	13	0.452
+hail	31	18	0.581
+concert audience member	31	13	0.452
+bridge crosser	31	17	0.548
+bar & club patrons	32	19	0.594
+hae da fung tribe	32	19	0.594
+victim's friend	32	14	0.438
+shelterer	32	14	0.438
+tamanegi	32	14	0.438
+gladdington faithful	32	16	0.500
+kelly family	32	12	0.406
+tome	32	19	0.594
+danish participant	32	18	0.594
+the date	32	14	0.438
+graduation parent	32	16	0.531
+keke	32	18	0.562
+herceg	32	19	0.594
+mgo soldiers	32	18	0.562
+nabo	32	13	0.406
+irish dancer	32	18	0.562
+company dancers	32	16	0.500
+customers and guests	32	16	0.500
+salon owner	32	16	0.500
+child in classroom	32	18	0.563
+bluebird	32	13	0.406
+dr. watkins	32	13	0.406
+winner: best documentary short	32	18	0.562
+police dispatch	32	15	0.469
+street reporter	32	15	0.469
+emerald city citizen	32	14	0.469
+pool guest	32	14	0.469
+country dancer	32	14	0.469
+church audience	32	14	0.469
+hedge	32	13	0.406
+gier	32	15	0.469
+the ensemble	32	14	0.438
+heera	32	12	0.406
+presenter: best new director	32	17	0.531
+potato	32	17	0.531
+tromaville resident	32	13	0.437
+campaign staff	32	18	0.563
+us version	32	14	0.438
+dead child	32	17	0.531
+sixth juror	32	17	0.531
+kiddo	32	17	0.531
+les bouley	32	17	0.531
+carvoeiro	32	17	0.531
+cafe extra	32	17	0.531
+street interviewee	33	17	0.545
+filmszenen	33	16	0.485
+complaining customer	33	14	0.455
+holiday maker	33	18	0.545
+nick cave fan	33	16	0.485
+bart witness	33	16	0.485
+as play actor	33	16	0.515
+in-yan	33	14	0.455
+zoo workers & the general public	33	16	0.515
+raunchy rabbit	33	16	0.515
+tweede kamerlid groenlinks	33	17	0.515
+burn	33	17	0.515
+elderly patient	33	17	0.515
+kid at school	33	14	0.455
+zozo	33	18	0.545
+ranmaru	33	17	0.545
+stammgast und personal rossini	33	16	0.485
+monday	33	16	0.485
+group dancer	33	17	0.545
+rasetsu	33	16	0.485
+landscape designer	33	14	0.424
+additional tenant fish	33	13	0.424
+pageant attendee	33	19	0.576
+humanoide	33	16	0.485
+czechoslovakian actor	33	15	0.455
+mall and bookstore ensemble	33	15	0.455
+ob presenter	33	15	0.455
+symfontratt	33	15	0.455
+swedish participant	33	15	0.455
+national anthem singer	33	16	0.485
+kengo	33	14	0.424
+welfare officer	33	18	0.545
+art gallery owner	33	14	0.424
+porcupine	33	15	0.455
+scotland correspondent	33	18	0.576
+psychiatric nurse	33	19	0.576
+ike & tina turner	33	19	0.576
+zombie kid	34	13	0.412
+christmas shopper	34	15	0.441
+midnight	34	20	0.588
+nightingale	34	15	0.441
+anchorperson	34	18	0.559
+singing teacher	34	15	0.441
+therapy patient	34	17	0.500
+ibuki	34	19	0.559
+theatre group	34	19	0.588
+prs subject	34	17	0.500
+masked party principal	34	17	0.500
+french student	34	19	0.559
+halloween party guest	34	18	0.559
+chao	34	16	0.471
+dance couple	34	17	0.500
+zombie horde	34	16	0.471
+screening attendee	34	15	0.441
+at the grammys	34	15	0.441
+kapitbahay	34	14	0.441
+sick child	34	16	0.471
+jingle	34	15	0.441
+aiga tribes	34	13	0.412
+on looker	34	13	0.412
+caroller	34	13	0.412
+agentti	34	18	0.529
+economics editor	34	14	0.412
+car passenger	34	14	0.412
+diz	34	18	0.529
+lark	34	18	0.529
+answering machine	34	18	0.529
+nominee: best original song	34	14	0.412
+orly	35	19	0.543
+kisha	35	19	0.543
+pageant judge	35	19	0.543
+mink	35	18	0.514
+shashi	35	18	0.514
+former us attorney	35	17	0.486
+waiters	35	19	0.543
+additional vocals	35	16	0.457
+law clerk	35	14	0.400
+story	35	17	0.514
+history student	35	20	0.600
+yee	35	18	0.543
+earth	35	15	0.429
+die zeit	35	19	0.543
+the wiz singers children's choir	35	19	0.543
+correspondant	35	18	0.514
+royal child	35	19	0.543
+the operator	35	14	0.429
+at the vanity fair oscar party	35	16	0.486
+throbbit	35	16	0.486
+tennessee	35	16	0.457
+neighborhood child	35	16	0.457
+restaurant employee	35	14	0.429
+cnn anchor	35	16	0.486
+county fair attendee	35	18	0.514
+babi	35	18	0.514
+ivan whisky	35	19	0.571
+bryllupsgæst	35	14	0.429
+orson vulture	35	17	0.486
+zoicite	35	20	0.571
+silphymon	35	16	0.486
+child psychologist	35	17	0.486
+ensemble and character vocals	35	14	0.429
+charli	35	16	0.457
+reporter no.	35	16	0.486
+representative, california	36	15	0.417
+fanfan	36	18	0.500
+fan in sci-fi convention	36	18	0.500
+at wedding	36	15	0.417
+local reporter	36	20	0.556
+comedy guest	36	18	0.500
+english version	36	14	0.417
+stage	36	18	0.500
+focus group member	36	18	0.500
+the casting director	36	20	0.556
+pantera	36	17	0.500
+monet	36	15	0.417
+courtroom audience	36	16	0.444
+photo assistant	36	16	0.444
+foster child	36	18	0.500
+harp	36	15	0.444
+hunahpu tribe	36	15	0.444
+pivot	36	14	0.417
+market goer	36	17	0.500
+moko	36	19	0.528
+piano student	36	19	0.528
+rbd	36	18	0.528
+shojo	36	20	0.583
+redfern child	36	16	0.472
+assistant producer	36	20	0.556
+woofer	36	17	0.472
+russian spy	36	17	0.472
+festdeltagare	36	16	0.472
+hex	36	17	0.472
+lal	36	17	0.472
+rodeo fan	37	21	0.568
+magpie	37	18	0.486
+krash extra	37	19	0.541
+lai	37	21	0.568
+crowd at school	37	19	0.541
+ballroom guest	37	19	0.541
+background partygoer	37	19	0.541
+prep student	37	18	0.486
+partýgestur i svíþjóð	37	21	0.568
+recepcní	37	20	0.541
+la muerte	37	21	0.568
+celebrity player	37	19	0.514
+matisse	37	16	0.432
+jaimie	37	18	0.514
+theater kid	37	21	0.595
+frankfurter allgemeine zeitung	37	15	0.405
+gott	37	15	0.405
+news caster	37	15	0.405
+inkeeper	37	15	0.405
+lefèvre	37	17	0.459
+united kingdom entry	37	17	0.459
+cheesy beards patron	37	15	0.432
+bootchorus	37	17	0.459
+opvasker	37	17	0.459
+toodles	37	15	0.405
+hospital employee	37	18	0.486
+sous chef: mario batali	37	21	0.568
+ilia	37	18	0.486
+gig attendee	37	18	0.514
+rattana tribe	37	17	0.459
+gaga	37	21	0.568
+flower shop owner	38	20	0.553
+town	38	18	0.500
+wheelzone warrior	38	18	0.500
+rosenstolz	38	19	0.500
+bridge crew	38	20	0.553
+mansion staff	38	20	0.553
+valery	38	18	0.500
+breeze	38	18	0.500
+the krankies	38	19	0.500
+crash victim	38	18	0.500
+rooftop party guest	38	19	0.526
+ob	38	22	0.579
+greek chorus	38	17	0.447
+irish vote presenter	38	17	0.447
+swallow	38	17	0.447
+ten'in	38	16	0.447
+presenter: best film editing	38	22	0.579
+flash mob dancer	38	21	0.579
+cloakroom attendant	38	16	0.421
+sonu	38	15	0.421
+dingle	38	17	0.447
+procession member	38	15	0.421
+at banquet	38	19	0.500
+airline representative	38	19	0.526
+child zombie	38	19	0.526
+record shmooze fest party goer	38	17	0.474
+1983 god	38	15	0.421
+drancy prisoner	38	17	0.474
+genesis	38	19	0.500
+forza tribe	38	19	0.500
+kasama tribe	38	17	0.474
+chocolate	38	18	0.474
+vril	38	17	0.447
+dr. harper	38	18	0.474
+art gallery attendee	38	17	0.474
+dru	38	18	0.474
+nil	38	18	0.474
+bit part in church scene	39	19	0.487
+angry parent	39	19	0.487
+moto maji tribe	39	16	0.410
+soliantu tribe	39	22	0.590
+mrs. zeng	39	22	0.590
+sony	39	19	0.487
+the mamas and the papas	39	18	0.487
+michiru	39	23	0.590
+substitute teacher	39	23	0.590
+various hominids	39	17	0.436
+picketer	39	16	0.436
+malice	39	17	0.436
+ninomiya	39	17	0.436
+yami bakura	39	17	0.436
+french tourist	39	16	0.410
+onyx	39	16	0.436
+katsuragi	39	15	0.410
+forensic investigator	39	16	0.410
+jacaré tribe	39	17	0.436
+partyguest	39	17	0.436
+supermarket customer	39	21	0.564
+lutka	39	17	0.462
+young roberto's classmate	39	18	0.462
+tweede kamerlid sp	39	20	0.538
+indian dancer	39	21	0.538
+transylvanian	39	21	0.538
+dr. kim	39	17	0.462
+spanish entry	39	21	0.564
+stage performer	39	17	0.462
+roseland dancer	39	19	0.513
+rental agent	39	20	0.513
+mumtaz	39	22	0.564
+bouba	39	22	0.564
+st. augustine's choir	39	19	0.513
+pumpkin	40	19	0.475
+bbc reporter	40	19	0.475
+church extra	40	19	0.475
+alt	40	19	0.475
+barca	40	18	0.450
+romi	40	23	0.575
+gossiper	40	23	0.575
+dutch villager	40	23	0.575
+restaurantgast	40	16	0.425
+royal correspondent	40	16	0.425
+hitch-hiker	40	16	0.425
+farmers market extra	40	17	0.425
+market vendor	40	17	0.425
+bargæst	40	17	0.425
+p.e. teacher	40	17	0.450
+solo dancer	40	23	0.575
+ro	40	23	0.600
+briegel der busch	40	22	0.550
+upamon	40	20	0.500
+entry	40	20	0.500
+game show contestant	40	19	0.500
+steff	40	19	0.500
+co pawn shop owner	40	20	0.500
+child dancer	40	19	0.500
+youth group	40	20	0.500
+grocery store patron	40	22	0.550
+festgæst	40	21	0.525
+flo qwan	40	20	0.500
+patron at bar	41	19	0.463
+theatre audience	41	17	0.415
+skool kinder	41	21	0.512
+noodle	41	20	0.488
+eurythmics	41	21	0.512
+worker being nickel and dimed	41	19	0.488
+gamestop shopper	41	18	0.463
+kam	41	18	0.439
+vampire kid	41	21	0.512
+theater audience	41	23	0.585
+marriage counselor	41	24	0.585
+party participant	41	24	0.585
+stilyaga	41	20	0.488
+weekend anchor	41	22	0.561
+car lot customer	41	16	0.415
+party guests	41	21	0.537
+school administrator	41	17	0.415
+fight club member	41	22	0.537
+ten	41	22	0.561
+stager	41	22	0.537
+octavian	41	17	0.415
+devotee	41	22	0.537
+oliva	41	22	0.537
+member, the hunky dory school orchestra	41	17	0.439
+berlin	41	18	0.439
+josi	41	23	0.561
+figuration	41	21	0.537
+miami	41	23	0.561
+munchkin	41	17	0.439
+meditator	41	21	0.537
+salsa club dancer	42	22	0.548
+dharma	42	17	0.405
+dr. rose	42	18	0.429
+chief legal correspondent	42	16	0.405
+ansat på teater	42	17	0.429
+police operator	42	18	0.429
+flashback	42	20	0.500
+blythe	42	21	0.500
+cowboys' dancer	42	23	0.548
+racine	42	21	0.500
+norwegian participant	42	21	0.500
+do	42	25	0.595
+cafeteria worker	42	20	0.500
+courtroom attendee	42	19	0.476
+garden party guest	42	17	0.429
+bungalow club guest	42	23	0.548
+jail visitor	42	23	0.548
+trolley passenger	42	23	0.548
+group show dancer	42	21	0.500
+san	42	19	0.476
+cady	42	23	0.548
+turist	42	17	0.405
+barramundi tribe	42	19	0.476
+oswald the lucky rabbit	42	18	0.429
+reki	42	17	0.405
+team texas	42	17	0.429
+office extra	42	18	0.429
+student choir	42	18	0.452
+gitanos tribe	42	18	0.452
+at the party	42	19	0.452
+additional narration	42	17	0.429
+superfan	42	17	0.429
+cost low shopper	42	24	0.571
+a child	42	25	0.595
+nue	42	20	0.476
+crime author	42	17	0.405
+campaign supporter	42	17	0.405
+art historian	43	21	0.512
+reunion guest	43	24	0.581
+child playing	43	20	0.465
+tandang tribe	43	20	0.488
+fight crowd	43	18	0.419
+bogi	43	25	0.581
+whisper	43	25	0.581
+villager of tullymore	43	20	0.465
+psychologue	43	24	0.558
+day player	43	23	0.558
+chinese dancer	43	18	0.419
+church singer	43	23	0.535
+coffee shop	43	24	0.581
+a neighbor	43	23	0.535
+hear'say	43	24	0.558
+murlonio tribe	43	17	0.419
+dark angel	43	20	0.465
+alcazar	43	22	0.512
+chorus singer	43	21	0.512
+green team	43	21	0.488
+kanta mizuno	43	20	0.488
+86'd	43	22	0.535
+talk show guest	43	18	0.442
+patches	43	25	0.581
+continuity announcer	43	19	0.442
+weenie	43	22	0.512
+ofagina cast	43	20	0.488
+danielin yleisöä	43	22	0.535
+graduation guest	43	19	0.465
+non sex	43	19	0.465
+fire dancer	44	26	0.591
+airline employee	44	25	0.568
+pet	44	26	0.591
+audition judge	44	25	0.568
+airport announcer	44	24	0.545
+cathy smith	44	24	0.545
+honored wedding guest	44	19	0.432
+kiley	44	25	0.568
+magus	44	21	0.477
+aborigine	44	18	0.409
+movie reviewer	44	19	0.432
+yanni	44	18	0.409
+spitfire	44	20	0.477
+tweede kamerlid cda	44	21	0.500
+costume party guest	44	19	0.432
+dermatologist	44	19	0.432
+newsperson	44	21	0.500
+october	44	21	0.477
+honeymooner	44	22	0.500
+santacruzan talent	44	19	0.432
+jazz club patron	44	23	0.523
+ensemble cast member	44	19	0.432
+presumed chorister	44	22	0.500
+jip	44	18	0.409
+gym patron	45	19	0.444
+shingo tsukino	45	20	0.444
+park extra	45	20	0.444
+accepting award for favourite new television dramatic program	45	20	0.444
+kalabaw tribe	45	23	0.533
+team goal	45	21	0.467
+welcome to the 60's dancer	45	18	0.422
+presenter: best film	45	19	0.444
+soul	45	19	0.444
+wedding attendee	45	21	0.467
+pac-man	45	26	0.578
+hebrew school student	45	25	0.556
+elementary school student	45	23	0.511
+dancesynergy	45	21	0.467
+bertrum	45	23	0.511
+blues	45	23	0.511
+the ex	45	23	0.511
+beach crowd	45	25	0.556
+time keeper	45	23	0.511
+coffee patron	45	21	0.489
+movie fan	46	23	0.500
+pizza customer	46	19	0.413
+ping pong	46	19	0.413
+picnicker	46	19	0.413
+garurumon	46	24	0.522
+senior national correspondent	46	19	0.435
+jury member & performer	46	25	0.543
+elève	46	21	0.457
+kururu	46	26	0.565
+horror host	46	20	0.435
+mystic	46	20	0.457
+engagement party guest	46	20	0.457
+crime scene tech	46	18	0.413
+tatum	46	25	0.543
+host-singer	46	25	0.543
+cricket spectator	46	26	0.565
+jam	46	24	0.522
+quiz team	46	21	0.478
+sign language interpreter	46	23	0.500
+legal expert	46	26	0.587
+country	47	25	0.532
+ragona	47	20	0.447
+ghost child	47	21	0.447
+wedding party in philadelphia	47	21	0.447
+little bear	47	20	0.426
+the inquisitor	47	20	0.426
+aerialist	47	23	0.489
+marketing mentor	47	23	0.489
+court observer	47	23	0.489
+prom goer	47	24	0.532
+chi chi	47	27	0.574
+aukaleikari	47	23	0.489
+ballet	47	28	0.596
+mystery diner	47	26	0.574
+non	47	27	0.574
+home buyer	47	24	0.511
+crimson	47	23	0.511
+payton	47	22	0.468
+the seer	47	24	0.532
+troupe member	47	23	0.511
+le bébé	47	23	0.489
+spring breaker	47	26	0.553
+radiographer	48	26	0.542
+lancelot the turtle	48	24	0.500
+extra: park	48	23	0.479
+garntomte	48	24	0.500
+sen	48	24	0.500
+bather	48	25	0.521
+middle school student	48	28	0.583
+wedding extras	48	24	0.521
+katsushiro okamoto	48	21	0.458
+cinemagoer	48	22	0.458
+national anthem performer	48	24	0.521
+war correspondent	48	25	0.521
+enil edam tribe	48	21	0.438
+shop clerk	48	21	0.438
+nanni	48	22	0.458
+fang tribe	48	20	0.417
+silky	48	20	0.437
+kid of camp mt. laurel	49	24	0.510
+angemon	49	21	0.429
+twink	49	26	0.531
+telenovela segment	49	22	0.449
+school atmosphere	49	24	0.490
+yen	49	24	0.490
+charity worker	49	26	0.531
+solarrion tribe	49	23	0.469
+zhan hu tribe	49	19	0.408
+queen's guard	49	24	0.510
+art gallery patrons	50	25	0.500
+season	50	24	0.480
+rosebud	50	29	0.580
+comedy or musical	50	26	0.520
+st. jude student	50	28	0.580
+armin arlert	50	26	0.540
+roller skater	50	21	0.420
+piano teacher	50	26	0.540
+jalapao tribe	50	22	0.440
+psykolog	50	22	0.440
+sergio y estíbaliz	50	25	0.500
+pogo	50	24	0.480
+coach passenger	51	20	0.412
+coffee house patron	51	20	0.412
+boom boom	51	29	0.588
+joy peters	51	24	0.471
+court christian	51	30	0.588
+aba student	51	29	0.569
+mckenna	51	24	0.471
+lux	51	21	0.412
+real estate broker	51	21	0.412
+the star	51	24	0.490
+hochzeitsgast	51	26	0.529
+fairyworld	51	26	0.529
+live ending	51	25	0.490
+timbira tribe	51	25	0.490
+peta	51	25	0.490
+ad announcer	51	24	0.490
+convive	51	21	0.431
+figuració	51	21	0.431
+the company	52	22	0.423
+retiree	52	26	0.500
+peters & lee	52	26	0.500
+playground child	52	26	0.500
+marathon runner	52	28	0.538
+prom date	52	28	0.538
+thea stilton	52	26	0.500
+dancer in nightclub	52	22	0.442
+flutist	52	27	0.519
+triplet	52	24	0.481
+trekker	52	22	0.423
+trisse	52	27	0.519
+pornstar	52	22	0.423
+officemate	52	23	0.462
+newborn baby	52	24	0.462
+mansion guest	52	24	0.462
+johnny sokko	52	26	0.500
+baeth the sender	52	26	0.500
+cub	52	21	0.423
+hobart townsfolk	53	29	0.547
+isha	53	28	0.528
+diwan	53	26	0.491
+friend at party	53	27	0.528
+jitterbug dancer	53	26	0.509
+military expert	53	24	0.453
+silja	53	24	0.453
+investigative reporter	53	24	0.472
+mango	53	25	0.472
+murder witness	53	26	0.491
+senior citizen	53	22	0.434
+dispatch	53	30	0.566
+the twins	54	26	0.481
+lekisbarn	54	23	0.444
+digmon	54	24	0.444
+café customer	54	24	0.444
+person in cinema	54	30	0.574
+laps	54	30	0.556
+top 24 contestant	54	24	0.463
+mugging victim	54	30	0.556
+political analyst	54	25	0.481
+presenter: best original song	54	28	0.519
+bank hostage	54	26	0.500
+bill's assistant	54	27	0.500
+passenger on train	54	22	0.407
+savaii tribe	54	22	0.407
+lost soul	55	23	0.436
+hair dresser	55	26	0.491
+health club member	55	30	0.545
+museum guide	55	27	0.509
+oslo	55	25	0.455
+los mismos	55	27	0.509
+benz	55	24	0.436
+interviews	55	25	0.455
+rickie	55	23	0.436
+boat passenger	55	26	0.473
+dance crew	55	28	0.509
+tsunami	55	24	0.436
+guardian angel	55	22	0.400
+skoleelev	55	23	0.418
+ometepe tribe	55	28	0.527
+asistente	55	23	0.418
+larue	55	28	0.509
+buttermilk	55	28	0.509
+nena daconte	55	28	0.509
+cat burglar	55	31	0.582
+ostrich	56	31	0.554
+dr. kelly	56	27	0.500
+sonoda	56	30	0.536
+tsukasa	56	23	0.411
+america	56	30	0.554
+resturant patron	56	26	0.464
+eliminated contestant	56	27	0.482
+infant	56	24	0.429
+a student	56	23	0.429
+vali	56	23	0.411
+customer in salon	56	26	0.482
+dancing with the stars	56	32	0.571
+testimonial	56	26	0.464
+toboe	56	28	0.500
+zoo curator	56	29	0.536
+panelist 20	56	32	0.571
+lab worker	56	22	0.411
+medical assistant	57	27	0.491
+museum visitor	57	29	0.509
+fei long tribe	57	33	0.579
+the transylvanians	57	25	0.456
+saboga tribe	57	28	0.491
+upolu tribe	57	28	0.509
+bar goer	57	25	0.439
+lips	57	25	0.456
+rateteam	57	27	0.491
+hybrid	57	26	0.456
+park visitor	57	27	0.474
+guest at harry's	57	25	0.439
+ekspedient	57	32	0.561
+background vocalist	57	29	0.526
+yancy	58	24	0.414
+statue	58	23	0.414
+dayton	58	25	0.448
+starring	58	25	0.431
+mindanao tribe	58	28	0.483
+taxi	58	23	0.414
+newsreporter	58	28	0.483
+bingo player	58	25	0.431
+fórmula abierta	58	28	0.483
+starfleet officer	58	24	0.414
+top 3	58	24	0.431
+noodles	59	30	0.508
+ken ichijouji	59	26	0.441
+presenter: best foreign language film	59	25	0.441
+assistente	59	27	0.475
+celebrity participant	59	25	0.441
+autograph hound	59	33	0.559
+mail carrier	59	25	0.441
+elia	59	31	0.542
+caster	59	28	0.492
+london regional weather forecaster	59	35	0.593
+serenity	59	34	0.593
+massage therapist	59	35	0.593
+commune member	59	26	0.441
+hinata	59	28	0.492
+presenter: best original score	60	35	0.583
+lucy hubbard	60	35	0.600
+elisha	60	29	0.500
+grocery store clerk	60	24	0.400
+town extra	60	32	0.533
+ikkakumon	60	31	0.517
+birdwatcher	60	29	0.500
+featured skater	60	26	0.433
+tiamat	60	30	0.500
+casino guest	60	28	0.483
+telephone voice	60	26	0.450
+nermal	60	34	0.567
+street people	60	34	0.583
+zach nichols	60	26	0.433
+mall and coffee shop crowd	60	28	0.483
+beach dancer	61	34	0.574
+rollerblader	61	26	0.426
+zapatera tribe	61	26	0.426
+resbak attack	61	29	0.475
+bikal tribe	61	29	0.475
+associate producer	61	35	0.590
+lumiere	61	26	0.426
+life coach	61	25	0.426
+imp	61	36	0.590
+greymon	61	30	0.508
+castle zombie	61	31	0.508
+multiple roles	61	25	0.410
+contestant, red team	61	34	0.574
+tooth fairy	61	34	0.574
+histeria kids chorus	62	31	0.500
+ghost kid	62	33	0.532
+v-reporter	62	31	0.500
+special guest star	62	27	0.452
+grade student	62	27	0.452
+ikuko tsukino	62	36	0.581
+la mina tribe	62	25	0.419
+amish	62	24	0.403
+jaz	62	27	0.435
+worshipper	62	28	0.468
+roxette	62	34	0.548
+audition	62	35	0.581
+sivan	62	31	0.500
+mirage	62	37	0.597
+apparition	63	29	0.460
+person of the night	63	29	0.460
+foa foa tribe	63	32	0.508
+child artiste	63	33	0.524
+gota tribe	63	29	0.476
+noor	63	34	0.540
+sam phillips	63	26	0.413
+kohaku	63	30	0.492
+kino	63	34	0.540
+ripley	63	36	0.571
+pageant crowd	63	26	0.429
+licnost nemog filma	63	26	0.429
+ein	64	36	0.578
+tvilling	64	27	0.437
+alex lambert	64	36	0.562
+crash test mommy	64	32	0.500
+cult follower	64	28	0.453
+investigative journalist	64	34	0.547
+robbery victim	64	30	0.484
+other	64	28	0.453
+carnival goer	64	33	0.531
+merry	64	30	0.469
+ranko	64	33	0.516
+gem	64	30	0.469
+the cashier	65	34	0.523
+dancer at party	65	26	0.415
+crossing guard	65	34	0.523
+maggot	65	36	0.554
+high school teacher	65	27	0.431
+celebrity icedancer	65	34	0.538
+opening dancer	66	31	0.470
+snail	66	27	0.409
+xanadu dancer	66	33	0.515
+?	66	30	0.470
+user	67	26	0.403
+country singer	67	26	0.403
+mark's assistant	67	32	0.493
+passante	67	35	0.522
+espada tribe	67	33	0.493
+legs	67	28	0.433
+bank cashier	67	28	0.418
+drake tribe	67	35	0.537
+bistro patron	67	34	0.507
+battling fairy	67	37	0.552
+contestant, blue team	67	31	0.463
+amal	67	37	0.552
+peyton	68	36	0.529
+caz	68	28	0.426
+improviser	68	36	0.529
+ennis	68	32	0.471
+sketch 'er der mere kaffe?'	68	34	0.500
+studente	68	31	0.471
+snuporter	68	38	0.559
+crazed fan	68	37	0.544
+accident victim	68	31	0.471
+jett	68	34	0.500
+bar crowd	69	29	0.435
+wedding party	69	38	0.551
+spice	69	35	0.507
+mixologist	69	32	0.478
+festival attendee	69	34	0.493
+waiting room patient	69	36	0.522
+admirer	69	30	0.435
+jas	69	36	0.522
+tagi tribe	69	37	0.551
+restaurant	69	32	0.464
+galu tribe	70	33	0.486
+scorekeeper	70	34	0.486
+companion	70	34	0.500
+aqua	70	28	0.414
+yun	70	36	0.514
+wunschgast	70	31	0.443
+club-goer	70	29	0.414
+la flor tribe	70	38	0.543
+katana	70	30	0.429
+jaden	71	38	0.549
+autograph hunter	71	39	0.549
+kota	71	28	0.408
+presenter: best screenplay	71	31	0.451
+vanja	71	35	0.493
+twins	71	33	0.465
+spanish dancer	71	41	0.592
+fangoria	71	31	0.451
+child in park	71	37	0.521
+mocedades	71	32	0.465
+pony	72	34	0.486
+fair goer	72	38	0.528
+acting class student	72	38	0.528
+psychiatric patient	72	36	0.500
+ange	72	39	0.542
+barrett elementary school	72	32	0.458
+lounge singer	72	41	0.569
+red carpet host	72	42	0.583
+the wiz singers adult choir	72	37	0.514
+prom guest	72	37	0.514
+school pupil	73	33	0.466
+grandchild	73	32	0.452
+students	73	29	0.411
+samburu tribe	73	37	0.507
+extra player	73	37	0.507
+heroes tribe	73	30	0.411
+additional children's voices	73	37	0.507
+wildlife expert	73	33	0.466
+lo	73	43	0.589
+arita	74	33	0.446
+goga	74	36	0.486
+office co-worker	74	36	0.486
+tv	74	33	0.446
+music student	74	29	0.405
+tabata	74	42	0.568
+soccer fan	74	33	0.446
+guidance counselor	74	40	0.541
+gala guest	74	39	0.527
+person in queue	74	39	0.527
+ingrid & klaus	74	37	0.500
+oda	74	34	0.459
+wilton	74	30	0.419
+shop customer	74	41	0.554
+church choir	74	31	0.419
+lounge patron	74	33	0.459
+featuring	74	33	0.459
+swift	74	30	0.405
+natsuki	74	35	0.473
+morgan tribe	74	31	0.419
+ismet	74	30	0.405
+sheridan	75	36	0.480
+chapera tribe	75	38	0.507
+sports special correspondent	75	39	0.533
+country club member	75	32	0.440
+cartoons	75	31	0.427
+season 6 finalist	75	36	0.493
+pagong tribe	75	36	0.493
+ogakor tribe	75	33	0.440
+special correspondant	75	43	0.587
+street dancer	75	32	0.427
+danseurs	75	36	0.493
+awardee	76	39	0.526
+mirror	76	43	0.566
+taki	76	40	0.539
+koki	76	44	0.579
+movie star	76	44	0.592
+rallyist	76	35	0.474
+presenter: best cinematography	76	40	0.526
+'pinhead'	76	35	0.474
+dance specialty	77	33	0.429
+toots	77	43	0.558
+paule	77	45	0.584
+christmas party guest	77	38	0.494
+garba dancer	77	41	0.532
+background player	77	34	0.455
+park guest	78	36	0.474
+shea	78	31	0.410
+parishoner	78	32	0.423
+it-star	78	39	0.500
+child artist	78	37	0.474
+chuay gahn tribe	79	42	0.532
+congregant	79	37	0.468
+travel reporter	79	47	0.595
+puppy	79	36	0.468
+moto tribe	79	37	0.481
+park kid	79	38	0.481
+moro	79	34	0.430
+dover	79	34	0.430
+matsu	79	39	0.506
+travel journalist	79	34	0.430
+tempest	79	33	0.418
+captive	79	31	0.405
+jinsy player	79	38	0.494
+black cat	79	37	0.481
+bookstore customer	80	37	0.475
+barrista	80	42	0.525
+runner up	80	47	0.588
+pail	80	34	0.425
+new york	80	36	0.462
+asa	80	46	0.575
+toprak	80	40	0.500
+young couple	80	37	0.463
+grandma ethyl phillips	80	33	0.412
+real rooms team	80	39	0.487
+kelley	80	47	0.588
+bookstore clerk	81	38	0.469
+noe	81	40	0.506
+sous chef: bobby flay	81	33	0.420
+gospel choir	81	47	0.593
+video	82	36	0.439
+kucha tribe	82	42	0.512
+evacuee	82	43	0.524
+cherokee	82	49	0.598
+roll	82	43	0.524
+school friend	82	41	0.500
+shota	83	46	0.554
+passe-partout	83	42	0.506
+wrath	83	39	0.482
+house guest	83	44	0.530
+animal sfx	83	40	0.482
+islander	83	35	0.434
+lord sugar's aide	83	43	0.518
+sho yamato	83	47	0.578
+the unconventionals	84	42	0.500
+celebrity question presenter	84	44	0.524
+town person	84	41	0.488
+graduate student	85	35	0.412
+sook jai tribe	85	42	0.506
+maraamu tribe	85	46	0.541
+church attendee	85	43	0.518
+okada	85	41	0.482
+redemption island	86	41	0.488
+judges' expert	86	50	0.593
+orin	86	45	0.523
+yo	86	39	0.453
+fox news legal analyst	86	35	0.407
+asiakas	86	34	0.407
+hotel patron	87	34	0.402
+yeoman	87	37	0.437
+bbq guest	87	42	0.494
+christmas caroler	87	44	0.517
+grocery shopper	87	50	0.575
+school children	87	47	0.552
+niño primaria	87	40	0.471
+'o' cast member	87	44	0.506
+dove	87	50	0.575
+pimpinela	87	42	0.483
+the therapist	88	52	0.591
+mogo mogo tribe	88	35	0.409
+snowy	88	48	0.557
+gipsy	88	50	0.568
+villains tribe	88	49	0.568
+foreign correspondent	88	47	0.534
+magan	88	43	0.500
+audition contestant	89	44	0.494
+starfleet ensign	89	44	0.506
+gogo	89	49	0.551
+not celebrity	89	40	0.461
+uncredited	89	48	0.539
+nicol amarfi	89	40	0.461
+mozart	89	37	0.416
+ayala	89	39	0.438
+danser	90	36	0.411
+amistades peligrosas	90	46	0.511
+satomi	90	37	0.422
+runner-up	90	47	0.533
+rox	90	44	0.500
+gabumon	90	43	0.478
+team rachael	90	45	0.500
+opening credit actor	91	53	0.582
+house party guest	91	40	0.440
+yu	91	48	0.527
+bus rider	91	37	0.418
+mizuki	91	38	0.418
+takeru takaishi	91	49	0.538
+kuro	91	43	0.473
+extra talent	91	54	0.593
+zee	91	40	0.451
+nakúm tribe	91	42	0.462
+réceptionniste	92	54	0.587
+sloane	92	43	0.467
+sima	92	39	0.424
+prison visitor	92	47	0.522
+gomamon	92	45	0.500
+silent spot	93	44	0.473
+pleprechuan	93	49	0.538
+aitutaki tribe	93	44	0.473
+courtroom	94	53	0.574
+nine	94	53	0.574
+yoga teacher	94	53	0.564
+renton thurston	94	40	0.426
+willford academy ensemble	94	44	0.479
+party friend	94	40	0.426
+background singer	95	53	0.568
+runner of currimao, ilocos norte	95	45	0.484
+store employee	95	39	0.411
+activists core group	96	42	0.438
+student rallyist	96	42	0.438
+the keeper	96	57	0.594
+hatch	96	53	0.552
+t.k. takaishi	96	47	0.490
+supporting player	96	45	0.469
+víctima	96	42	0.448
+cocktail party guest	96	56	0.583
+yoshino	97	47	0.485
+bookstore patron	97	52	0.546
+keroro	97	49	0.505
+classroom extra	98	47	0.480
+member of the news team	98	44	0.449
+library patron	98	41	0.418
+blob	99	50	0.505
+family	99	44	0.455
+funeral goer	99	44	0.444
+cardiologist	99	40	0.414
+vamp	99	53	0.545
+trapeze artist	100	58	0.580
+obstetrician	100	42	0.420
+office staff	100	54	0.540
+regular panellist	100	48	0.480
+gallery guest	100	55	0.560
+meta	100	44	0.440
+theatre goer	101	43	0.426
+reagan	101	58	0.574
+hairstylist	101	53	0.535
+serra	102	53	0.520
+drama student	102	57	0.559
+blind date	102	55	0.539
+television reporter	103	46	0.447
+guest reporter	104	43	0.423
+montana	104	48	0.462
+sloth	104	47	0.462
+pedestrian and character voices	104	44	0.423
+tata	104	51	0.490
+acolyte	104	45	0.433
+softball player	104	48	0.462
+salt	105	60	0.581
+aurora tribes)	105	62	0.590
+bryn	105	49	0.476
+solid gold dancer	105	58	0.552
+ryan mcbride	105	45	0.429
+reception guest	105	47	0.457
+klasskamrat	105	44	0.429
+rainbow	106	62	0.594
+lapsi	106	49	0.472
+park patron	106	42	0.406
+casting agent	106	59	0.566
+towns person	107	47	0.439
+birthday guest	107	52	0.486
+at party	107	47	0.439
+hotel rainbow guest	107	53	0.505
+airline clerk	107	45	0.430
+ravu tribe	108	61	0.574
+amante	108	52	0.491
+jitterbug	108	53	0.491
+rosey	109	51	0.468
+playground kid	109	49	0.459
+campaign worker	109	45	0.413
+bank patron	109	46	0.431
+support group member	109	49	0.450
+george pig	109	50	0.459
+background extra	110	49	0.445
+saber	110	59	0.545
+architectural historian	110	62	0.573
+tv news anchor	110	47	0.427
+resort guest	111	48	0.432
+tv journalist	111	44	0.405
+flower vendor	111	47	0.423
+partaker	111	52	0.468
+zeta	111	55	0.495
+snowflake	112	49	0.446
+klassekammerat	112	48	0.429
+guest singer	112	59	0.536
+techno	112	58	0.518
+automotive expert	112	63	0.563
+plaintiff	112	52	0.473
+physical therapist	112	54	0.491
+flick	113	45	0.407
+music performer	113	50	0.451
+fitness instructor	114	47	0.412
+guest dancer	114	56	0.500
+nudist	114	65	0.579
+intermission guest	114	67	0.596
+shoko	115	47	0.409
+sightseer	115	48	0.426
+t.v. reporter	115	61	0.530
+class passenger	115	50	0.443
+el consorcio	115	48	0.426
+bolt	115	68	0.591
+rama	115	57	0.496
+valya	116	47	0.405
+dr. berger	116	67	0.586
+gilly	116	52	0.457
+graduate	117	48	0.410
+parker jonas	117	67	0.573
+church congregation	117	61	0.521
+movie goer	117	52	0.444
+roni	118	50	0.432
+costumer	118	59	0.500
+berättaren	118	48	0.407
+additional puppeteer	118	67	0.568
+wedding singer	118	54	0.466
+courtroom extra	119	51	0.429
+stand in	119	69	0.588
+ronnie brooks	120	64	0.533
+kees flodder	120	60	0.500
+skyler	120	63	0.533
+willoughby townsperson	121	58	0.479
+fundraiser	121	58	0.479
+senior keeper	121	67	0.562
+party dancer	121	55	0.455
+song	122	57	0.475
+maze	122	52	0.434
+tiki	122	56	0.467
+chus	123	54	0.439
+concert fan	123	69	0.569
+restaurant extra	124	58	0.476
+chorus member	124	73	0.589
+celebrant	125	63	0.512
+press reporter	125	54	0.432
+toimittaja	125	64	0.512
+william logan spencer	125	57	0.456
+tee	126	61	0.492
+scott trakker	127	75	0.591
+barn	128	60	0.477
+engel	128	64	0.500
+jinx	129	66	0.512
+ulong tribe	129	62	0.488
+pink	129	54	0.419
+rolly	129	53	0.419
+all-star	129	55	0.434
+gizmo	130	70	0.546
+organizer	130	62	0.485
+the ghost	130	58	0.446
+sora	130	57	0.446
+s club	130	77	0.592
+store customer	130	54	0.423
+white team	130	58	0.454
+dinner party guest	131	52	0.405
+snow	131	65	0.504
+guest panellist	131	57	0.435
+highschool	132	60	0.455
+modeling blockbusters shirt and dictionary	132	71	0.538
+style expert	133	73	0.549
+kamala	133	62	0.466
+oppilas	133	74	0.564
+gabrielle williams montgomery	134	69	0.515
+movie theater patron	135	54	0.407
+comedy club patron	135	59	0.444
+sir alan's aide	135	66	0.496
+gale	135	73	0.541
+dog trainer	135	75	0.556
+jack marone	136	60	0.441
+news	136	63	0.471
+mldc attendee	136	65	0.485
+camp counselor	136	58	0.434
+band singer	136	72	0.537
+nbc team	137	70	0.518
+nonsex performers	137	76	0.562
+mali	137	65	0.482
+greer	138	56	0.406
+cbs team	138	71	0.522
+abba	139	68	0.489
+presenter: best director	139	60	0.439
+law student	139	63	0.453
+pastora	140	75	0.543
+abc team	141	72	0.518
+skunk	141	59	0.426
+vistmaður	142	74	0.521
+traffic warden	143	70	0.490
+dido	144	64	0.444
+margaret thatcher	144	65	0.451
+mall shopper	145	62	0.434
+joe's friend	145	65	0.448
+inky	145	84	0.579
+publicist	145	71	0.497
+basketball fan	146	61	0.425
+colonist	146	63	0.438
+art patron	146	68	0.473
+frenchy	147	61	0.415
+store patron	147	58	0.401
+speed dater	147	60	0.408
+gold	147	85	0.578
+asta	148	69	0.466
+läkare	148	62	0.426
+schoolchild	148	70	0.480
+scorpio	149	60	0.409
+test subject	149	60	0.403
+the singer	149	84	0.564
+shipper	149	59	0.403
+attendee	150	69	0.460
+segment reporter	150	74	0.493
+agility event extra	151	79	0.523
+pandemonium drummer	152	83	0.553
+clubgoer	152	67	0.441
+joe's friends	152	82	0.546
+salsa dancer	153	75	0.490
+dater	153	71	0.471
+p.a.	154	72	0.468
+seito	154	67	0.435
+bank employee	155	62	0.400
+gym member	156	70	0.449
+musical or comedy	156	71	0.462
+marin	156	81	0.526
+mao	156	89	0.571
+dolph	158	88	0.557
+mucha	159	65	0.409
+swing dancer	160	73	0.456
+office clerk	160	72	0.456
+trick-or-treater	161	75	0.466
+bell	161	69	0.429
+love american style player	161	90	0.559
+bebe	162	89	0.549
+banquet guest	162	70	0.432
+aspirant	162	87	0.537
+spot	162	73	0.451
+nadir	162	79	0.494
+figuración	163	87	0.540
+dori	163	69	0.429
+art teacher	163	84	0.515
+jamie clarke	164	95	0.585
+tango dancer	165	80	0.485
+muse	167	100	0.599
+onmitsu dôshin	168	85	0.512
+kei	168	92	0.554
+co-star	168	83	0.500
+english teacher	169	85	0.509
+presenter: best actress	169	87	0.515
+makoto	170	82	0.482
+asistente de producción	170	89	0.529
+panel regular	170	72	0.429
+café patron	170	73	0.429
+spinner	170	74	0.435
+mako	171	102	0.596
+chorister	171	91	0.538
+woody woodpecker	172	93	0.547
+cellist	173	75	0.439
+pixie	174	96	0.552
+vega	174	76	0.437
+auctioneer and appraiser	176	88	0.500
+past winner	176	94	0.540
+lead dancer	176	102	0.585
+java	177	96	0.548
+paz	177	90	0.508
+kissing couple	178	84	0.478
+culture reporter	179	106	0.592
+tv anchor	179	76	0.425
+ho	180	79	0.439
+pool party guest	180	81	0.456
+taffy	180	95	0.528
+hospital administrator	180	76	0.428
+nuri	180	85	0.478
+tuck	181	98	0.541
+counsellor	182	86	0.478
+bar	182	81	0.451
+concertgoer	182	105	0.577
+guest at party	182	83	0.456
+apple	183	89	0.486
+yael	184	80	0.435
+medium	184	106	0.582
+acting student	184	101	0.549
+skylar	187	107	0.572
+dance instructor	187	91	0.487
+opettaja	188	108	0.574
+guest artist	189	82	0.434
+ex-housemate	189	91	0.481
+nagar	189	87	0.460
+bat	190	106	0.563
+featured	190	102	0.537
+merle	191	103	0.545
+entertainment editor	191	76	0.403
+party kid	191	79	0.419
+himura kenshin	191	96	0.503
+production manager	191	93	0.492
+viper	192	80	0.417
+nucha	192	109	0.568
+ice skater	192	86	0.453
+tv news reporter	193	98	0.513
+juli	193	96	0.497
+pastry chef	194	112	0.577
+award presenter	195	80	0.410
+the baby	196	83	0.429
+aki	196	90	0.464
+celebrity castaway	196	97	0.495
+sar mayee	197	94	0.482
+lu	198	101	0.510
+deniz	199	102	0.513
+tombliboo ooo	200	100	0.500
+family friend	200	94	0.470
+airport passenger	201	81	0.403
+choir singer	204	109	0.539
+mischa	205	86	0.424
+concert goer	205	90	0.439
+best friend	206	104	0.505
+swinger	208	96	0.466
+police dispatcher	208	94	0.452
+london	208	123	0.596
+koenma	209	114	0.545
+applicant	209	104	0.498
+regan	210	105	0.500
+chandra	210	125	0.595
+the teacher	213	93	0.441
+team wayuk	214	100	0.467
+amaral	214	89	0.416
+porn star	215	111	0.516
+elephant	216	95	0.440
+segment	216	98	0.454
+hospital staff	218	104	0.482
+rowlf	219	106	0.489
+fashion designer	219	99	0.457
+art gallery patron	220	103	0.468
+tv newscaster	221	93	0.425
+statist	222	93	0.423
+staffer	223	91	0.413
+crowd extra	224	91	0.406
+bee	224	101	0.451
+miles 'tails' prower	225	120	0.538
+celebrity judge	228	102	0.447
+aubrey	229	109	0.476
+b.j.	230	94	0.409
+party attendee	231	100	0.433
+voice actor	232	92	0.401
+celebrity dancer	232	123	0.534
+travel agent	232	121	0.526
+rehab patient	232	107	0.466
+gena	232	100	0.431
+edward elric	232	115	0.496
+congregation	235	124	0.532
+club extra	235	108	0.464
+segment host	236	136	0.581
+spirit	237	94	0.401
+rei	240	121	0.508
+estudante	242	104	0.434
+andi	245	108	0.441
+clue crew member	245	146	0.600
+trick or treater	251	124	0.498
+airai tribe	251	116	0.466
+caroler	253	136	0.538
+gallery patron	254	119	0.472
+kendall	255	123	0.486
+classroom student	255	140	0.553
+dog walker	257	116	0.451
+marron	258	135	0.523
+office manager	258	119	0.465
+sage	259	154	0.595
+'trivial compromise!' announcer	261	141	0.540
+pit	261	128	0.490
+office employee	264	127	0.485
+piggy	265	122	0.460
+masa	268	125	0.470
+violin	269	116	0.435
+phoenix	270	154	0.570
+celebrity guest	271	122	0.450
+principal dancer	273	149	0.546
+convention attendee	274	127	0.464
+school child	274	121	0.445
+dog owner	275	114	0.415
+kapamilya challenger	277	140	0.505
+background performer	280	122	0.436
+party-goer	280	115	0.411
+pokédex	281	123	0.441
+art student	282	123	0.436
+ola	283	159	0.562
+congregation member	286	144	0.503
+townsfolk	288	121	0.420
+food writer	289	116	0.401
+member of jury	290	117	0.407
+principle	290	149	0.517
+celebrity	290	151	0.524
+Árbitro	291	127	0.440
+refugio	295	135	0.458
+administrator	297	118	0.401
+parishioner	297	135	0.458
+tap dancer	298	134	0.453
+steve's friend	300	137	0.457
+mica	305	144	0.475
+hospital visitor	306	135	0.444
+church goer	309	143	0.466
+tv presenter	310	134	0.432
+party person	310	132	0.429
+k	317	135	0.426
+birthday party guest	319	180	0.567
+partier	319	133	0.420
+soloist	322	158	0.494
+economics reporter	330	176	0.533
+ballroom dancer	330	160	0.488
+patrice	330	181	0.548
+background talent	330	150	0.455
+airline passenger	333	135	0.408
+cassidy	334	183	0.548
+entertainment correspondent	334	169	0.506
+jet	334	139	0.419
+featured dancer	336	180	0.539
+couple	338	148	0.441
+escort	339	182	0.537
+teller	341	142	0.416
+kennedy	342	149	0.436
+conny	342	202	0.591
+jazz	344	159	0.465
+vocal coach	346	157	0.454
+family member	348	150	0.431
+kit	351	181	0.519
+pupil	358	168	0.472
+sports anchor	360	179	0.497
+blue team	364	147	0.407
+koror tribe	366	175	0.481
+swimmer	371	166	0.447
+theatre patron	375	163	0.435
+children	376	174	0.465
+ticket agent	377	172	0.456
+drama	378	167	0.442
+date	387	189	0.488
+m	392	172	0.441
+specialty dancer	393	159	0.407
+volunteer	396	161	0.409
+funeral mourner	397	182	0.461
+contender	398	224	0.563
+production assistant	399	176	0.441
+coffee shop patron	402	172	0.430
+self	404	187	0.463
+sky	408	189	0.463
+musical	408	197	0.483
+opera singer	410	234	0.573
+cantante	410	196	0.480
+comedy	414	200	0.483
+weather presenter	415	226	0.545
+cleaner	419	196	0.468
+cohost	427	189	0.443
+kind	435	198	0.457
+steve's friends	435	224	0.517
+blair	439	193	0.442
+florist	443	208	0.472
+realtor	446	257	0.576
+dee dee	448	245	0.547
+substitute co-host	456	198	0.436
+churchgoer	458	210	0.459
+zane	461	253	0.549
+auditioner	463	222	0.479
+visitor	477	219	0.461
+kris	488	265	0.545
+academy student	494	264	0.534
+registrar	505	223	0.442
+club dancer	507	273	0.540
+featured extra	511	230	0.450
+costume character	514	242	0.471
+counselor	518	210	0.407
+cris	518	302	0.583
+hairdresser	534	258	0.485
+sydney	550	294	0.536
+ica judge	550	270	0.491
+nicola	552	319	0.580
+hotel receptionist	559	326	0.583
+nonsex	565	236	0.418
+cookie	566	333	0.590
+orphan	566	239	0.422
+server	575	329	0.572
+traveler	586	241	0.413
+brady	610	250	0.410
+mouse	610	261	0.428
+real estate agent	611	289	0.473
+bubbles	617	335	0.543
+co-presenter	621	265	0.427
+weather anchor	635	286	0.452
+funeral attendee	645	302	0.468
+school kid	648	327	0.505
+yajirobe	656	324	0.495
+homeowner	658	309	0.471
+michele	663	376	0.569
+special appearance	689	276	0.401
+other voices	692	280	0.405
+meowth	694	378	0.546
+special correspondent	695	376	0.541
+zé	708	337	0.476
+newspaper reviewer	709	309	0.436
+barista	716	301	0.420
+hostage	724	359	0.497
+operator	735	313	0.427
+dispatcher	737	418	0.567
+choir member	738	393	0.533
+vocalist	742	387	0.522
+pinky	747	356	0.478
+alpha	748	440	0.590
+choir	748	353	0.473
+dinner guest	755	308	0.409
+happy	758	324	0.427
+diner	765	314	0.410
+sunny	782	452	0.578
+club goer	789	332	0.422
+bampira	798	382	0.479
+church member	811	390	0.482
+casting director	821	394	0.481
+sideline reporter	837	368	0.440
+cat	848	368	0.435
+tävlande	864	412	0.478
+field reporter	870	380	0.437
+duda	878	482	0.550
+cafe patron	905	395	0.438
+raven	938	472	0.504
+riley	945	380	0.403
+fame dancer	956	531	0.555
+bank teller	959	503	0.525
+twin	962	524	0.546
+ash	984	449	0.457
+kiddie cook	991	545	0.551
+guest expert	1019	479	0.470
+jogger	1025	437	0.426
+nicky	1027	494	0.481
+ariel	1033	520	0.503
+parent	1056	503	0.477
+android	1063	457	0.431
+protester	1068	444	0.417
+series regular	1071	544	0.508
+lead	1072	460	0.430
+therapist	1093	641	0.586
+age	1095	439	0.402
+finalist	1102	568	0.515
+alexis	1130	623	0.552
+audience	1145	585	0.511
+celebrity contestant	1148	515	0.449
+classmate	1185	523	0.441
+mel	1197	674	0.564
+casey	1214	565	0.465
+psychologist	1261	697	0.553
+ensemble	1344	596	0.443
+ship passenger	1396	704	0.504
+guest performer	1411	567	0.403
+college student	1468	652	0.445
+the director	1475	876	0.594
+taylor	1480	644	0.436
+high school student	1514	829	0.548
+neighbour	1519	827	0.544
+additional cast	1553	658	0.424
+auditionee	1593	656	0.412
+townsperson	1600	690	0.431
+mourner	1621	766	0.473
+tv reporter	1726	900	0.521
+fan	1835	852	0.464
+cashier	2010	1189	0.592
+baby	2131	1190	0.559
+guest judge	2241	1080	0.482
+party goer	2358	1025	0.435
+news anchor	2374	988	0.416
+partygoer	2426	1009	0.416
+news reporter	2538	1383	0.545
+regular performer	2647	1143	0.432
+newscaster	2914	1176	0.404
+jean	3054	1534	0.502
+neighbor	3109	1355	0.436
+angel	3140	1706	0.543
+victim	3385	1589	0.470
+co-anchor	3512	1934	0.551
+candidate	3629	1590	0.438
+jury member	3757	1544	0.411
+wedding guest	4084	1848	0.452
+restaurant patron	4140	1869	0.452
+child	4452	2052	0.461
+designer	5386	2715	0.504
+guest panelist	6233	2534	0.407
+teacher	6305	3416	0.542
+participant	6489	3022	0.466
+anchor	8702	4163	0.478
+weather forecaster	9111	4093	0.449
+housemate	9550	4445	0.466
+party guest	9871	4059	0.411
+audience member	10113	4509	0.446
+student	17635	7591	0.430
+correspondent	23033	10686	0.464
+singer	23935	11495	0.480
+panelist	43755	17801	0.407
+reporter	57021	25858	0.453
+contestant	59915	28565	0.477
+newsreader	66382	34114	0.514
+presenter	91248	39540	0.433

@@ -1,0 +1,21 @@
+FILM	female	FILM	male	TV	female	TV	male
+dancer	10775	narrator	20775	host	115040	host	353584
+nurse	9066	host	16210	hostess	72737	announcer	55780
+host	8647	policeman	9976	presenter	37632	narrator	54461
+mother	7089	doctor	9613	newsreader	33797	presenter	48813
+girl	7021	reporter	8750	model	27845	guest	42885
+waitress	6120	bartender	7778	contestant	27840	newsreader	31927
+woman	5765	man	7516	guest	27323	various	31009
+student	4850	extra	7216	reporter	22151	contestant	30638
+extra	4697	dancer	6883	panelist	17374	various characters	30190
+maria	4514	zombie	6810	various	13322	panelist	25272
+anna	4361	soldier	6750	judge	13150	reporter	22391
+sarah	4200	waiter	6507	nurse	11698	co-host	21312
+narrator	4091	cop	6335	co-host	11549	judge	21143
+mary	4005	police officer	6311	various characters	11287	performer	13795
+reporter	3686	student	6302	correspondent	10395	additional voices	13450
+zombie	3665	henchman	6094	narrator	9518	correspondent	12009
+party guest	3367	john	5620	singer	8575	various roles	11182
+laura	3334	detective	5556	dancer	8229	singer	9474
+lisa	3237	boy	5395	performer	7867	sports newsreader	9064
+singer	2913	father	5332	co-hostess	7809	doctor	8608

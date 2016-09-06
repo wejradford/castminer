@@ -1,0 +1,6394 @@
+amy adams	21	20	0.952
+young margaret	21	20	0.952
+young clara	21	20	0.952
+babel volleyball girl	21	19	0.952
+bus girl	21	19	0.952
+eine dame	21	19	0.952
+yin yin	21	20	0.952
+woman on subway	21	20	0.952
+miss mary	21	20	0.952
+elite model	21	19	0.952
+tulay	21	20	0.952
+tonja	21	20	0.952
+miss thing	21	20	0.952
+mlada	21	20	0.952
+momoko koigakubo	21	20	0.952
+monalisa	21	20	0.952
+mrs. wilkinson	21	20	0.952
+uso dancer	21	20	0.952
+ms. jackson	21	20	0.952
+ming-ming	21	20	0.952
+mary murphy	21	20	0.952
+pizza delivery girl	21	20	0.952
+chloë	21	20	0.952
+jane austen	21	20	0.952
+baby sophie	21	20	0.952
+justa	21	20	0.952
+la bambina	21	20	0.952
+lead female	21	20	0.952
+mary walker	21	20	0.952
+leandra	21	20	0.952
+woman on couch	21	19	0.905
+maggie murphy	21	20	0.952
+girl on sidewalk	21	19	0.905
+maid servant	21	20	0.952
+major's wife	21	20	0.952
+marjatta	21	20	0.952
+mary alice	21	20	0.952
+sister of mercy	21	20	0.952
+tiz	21	20	0.952
+mualla	21	20	0.952
+mujer de negro	21	20	0.952
+the vixen	21	20	0.952
+the new girl	21	20	0.952
+nyla	21	20	0.952
+the midwife	21	20	0.952
+grams	21	17	0.857
+meli	21	17	0.857
+page girl	21	20	0.952
+leo kakinoki	21	19	0.952
+pakka	21	20	0.952
+raped girl	21	20	0.952
+sam's mom	21	20	0.952
+sarah taylor	21	20	0.952
+schneiderin	21	20	0.952
+sue ann	21	20	0.952
+anna watson	21	20	0.952
+senior nurse	21	20	0.952
+poster girl	21	20	0.952
+sarah brown	21	18	0.857
+sallie	21	18	0.857
+the wicked witch of the west	21	20	0.952
+nadi	21	20	0.952
+nausicaa	21	20	0.952
+hajime aoyama	21	19	0.952
+lidiya	21	18	0.857
+young sophie	21	18	0.857
+hot party girl	21	19	0.952
+tilly moore	21	20	0.952
+camino	21	18	0.857
+comfort	21	18	0.857
+gertrude stein	21	18	0.857
+kitana	21	18	0.857
+las grecas	21	19	0.952
+maga	21	18	0.857
+mother teresa	21	18	0.857
+nude dancer	21	18	0.857
+ocho	21	18	0.857
+pammi	21	18	0.857
+alte	21	19	0.905
+jacqueline kennedy	21	20	0.952
+lile	21	20	0.952
+arbeitslose	21	19	0.905
+delila	21	20	0.952
+tsuruko	21	20	0.952
+tour girl	21	20	0.952
+stacia	21	20	0.952
+shot girl	21	20	0.952
+doña trini	21	20	0.952
+elaina	21	20	0.952
+simon's mother	21	19	0.905
+afrodite	21	20	0.952
+sally day	21	19	0.905
+elizabeth frankenstein	21	20	0.952
+evelyn johnson	21	20	0.952
+nitsa	21	19	0.905
+feike	21	20	0.952
+vonda	21	17	0.810
+amme	21	19	0.905
+theta	21	17	0.810
+stefka	21	17	0.810
+roxi	21	19	0.905
+claude lapierre	21	20	0.952
+claire armstrong	21	20	0.952
+cherish	21	20	0.952
+annabelle lee	21	20	0.952
+barri	21	20	0.952
+beggar girl	21	20	0.952
+bibliothekarin	21	20	0.952
+bria	21	20	0.952
+brio	21	20	0.952
+challenge assistant	21	18	0.905
+driver's wife	21	18	0.905
+younger girl	21	19	0.905
+veska	21	19	0.905
+tokie	21	19	0.905
+capucine	21	20	0.952
+teeny	21	19	0.905
+catie	21	20	0.952
+charlie's wife	21	20	0.952
+sweetpea	21	19	0.905
+stage girl	21	19	0.905
+charlotte's mother	21	20	0.952
+cheating wife	21	20	0.952
+poppi	21	17	0.810
+ponta	21	17	0.810
+sie selbst	21	20	0.952
+joolushko tunai fenta hovalis	21	19	0.905
+girl with pearls	21	20	0.952
+locker room girl	21	19	0.905
+biene	21	19	0.905
+carlene	21	19	0.905
+labelle	21	19	0.905
+katta	21	19	0.905
+otsu	21	17	0.810
+betty sue	21	19	0.905
+jiya	21	19	0.905
+heide	21	19	0.905
+charmy	21	19	0.905
+hedy	21	19	0.905
+girl on bridge	21	19	0.905
+christl	21	19	0.905
+detective rivera	21	19	0.905
+hey girl	21	20	0.952
+hecuba	21	20	0.952
+hibari	21	20	0.952
+mary davis	21	19	0.905
+female passerby	21	20	0.952
+nunnally	21	17	0.810
+au pair	21	19	0.905
+female news anchor	21	20	0.952
+lolli	21	17	0.810
+lisi	21	17	0.810
+bette davis	21	17	0.810
+nimmi	21	19	0.905
+cortney	21	19	0.905
+florentina	21	20	0.952
+girl in shop	21	20	0.952
+aunt anna	21	19	0.905
+baby mama	21	19	0.905
+girl one	21	20	0.952
+jô	21	17	0.810
+le mannequin	22	20	0.909
+lapdancer	22	20	0.909
+little indian	22	20	0.909
+turandot	22	21	0.955
+venetta	22	21	0.955
+oyone	22	21	0.955
+sister anna	22	21	0.955
+singing nun	22	21	0.955
+sameera	22	21	0.955
+nazife	22	21	0.955
+filio	22	20	0.909
+sally smith	22	21	0.955
+girl in white	22	20	0.909
+girl in woods	22	20	0.909
+nira	22	21	0.955
+harriet tubman	22	20	0.909
+hospice nurse	22	20	0.909
+noiva	22	21	0.955
+otaka	22	21	0.955
+thin woman	22	21	0.955
+rose marie	22	21	0.955
+ritsu	22	19	0.864
+wendi	22	21	0.955
+member, the australian ballet	22	19	0.909
+m people	22	19	0.909
+bridal shower guest	22	18	0.864
+afghan woman	22	18	0.864
+cell phone girl	22	18	0.864
+teen fan	22	19	0.864
+ruta	22	19	0.864
+daisy dukes	22	20	0.909
+restaurant girl	22	19	0.864
+knegoffsreklam	22	19	0.909
+maypole dancer	22	19	0.864
+kalinka	22	19	0.864
+ichino	22	19	0.864
+guta	22	19	0.864
+charisma	22	19	0.864
+behavioural psychologist	22	19	0.864
+babydoll	22	19	0.864
+zarah	22	19	0.864
+glamorous party-goer	22	19	0.864
+cariye	22	19	0.864
+mama-san	22	19	0.864
+livy	22	20	0.909
+fisherwoman	22	19	0.909
+young joan	22	20	0.909
+malla	22	20	0.909
+mama san	22	20	0.909
+morrigan	22	20	0.909
+nabila	22	20	0.909
+nandy	22	20	0.909
+prema	22	20	0.909
+wiebke	22	21	0.955
+woman in courtroom	22	21	0.955
+young tara	22	21	0.955
+alona	22	19	0.909
+zarana	22	21	0.955
+shabana	22	20	0.909
+sharada	22	20	0.909
+single mother	22	20	0.909
+stanich	22	20	0.909
+toshihiko	22	20	0.909
+item number	22	20	0.955
+obasan	22	20	0.955
+yoriki	22	20	0.909
+young barbara	22	20	0.909
+sexy secretary	22	20	0.909
+mrs. joe	22	21	0.955
+mamy	22	20	0.909
+mrs. grady	22	21	0.955
+anne sullivan	22	21	0.955
+amy's mom	22	21	0.955
+digna	22	21	0.955
+alise	22	21	0.955
+emily morgan	22	21	0.955
+estel	22	21	0.955
+fighting woman	22	21	0.955
+fliquette	22	21	0.955
+pregnant teen	22	21	0.955
+fran williams	22	21	0.955
+mike's girlfriend	22	21	0.955
+manjula	22	21	0.955
+girl in blue	22	21	0.955
+casandra	22	21	0.955
+girl on the beach	22	21	0.955
+breanna	22	21	0.955
+heiress	22	21	0.955
+house maid	22	21	0.955
+invitada a boda	22	21	0.955
+attending nurse	22	21	0.955
+janessa	22	21	0.955
+jennifer johnson	22	21	0.955
+adrianne	22	21	0.955
+annie porter	22	21	0.955
+women's marathon competitor	22	21	0.955
+austin townsperson	22	17	0.818
+mici	22	17	0.818
+canteen lady	22	21	0.955
+camerawoman	22	21	0.955
+black lady	22	21	0.955
+bethan	22	21	0.955
+cat girl	22	21	0.955
+sleeping woman	22	18	0.818
+belor	22	21	0.955
+call center employee	22	18	0.818
+battered woman	22	21	0.955
+chai li	22	21	0.955
+charlie's girl	22	21	0.955
+baska	22	21	0.955
+arwen	22	21	0.955
+hallway girl	22	18	0.818
+mrs. hernandez	22	21	0.955
+marlene dietrich	22	18	0.818
+neva	22	18	0.818
+rue	22	18	0.818
+tails	22	18	0.818
+tawney	22	18	0.818
+vanilla	22	18	0.818
+young liz	22	18	0.818
+marry	22	17	0.818
+auditonee	22	17	0.818
+sierra rose morasco	22	21	0.955
+girl at wedding	22	21	0.955
+la fée	22	21	0.955
+salima	22	20	0.909
+byte	22	20	0.909
+the heroine	22	20	0.909
+makise	22	21	0.955
+laundry lady	22	21	0.955
+alex jordan	22	20	0.909
+momoka	22	20	0.909
+aliyah	22	20	0.909
+mary queen of scots	22	21	0.955
+anna's assistant	22	20	0.909
+lota	22	21	0.955
+mary cook	22	21	0.955
+marlee	22	21	0.955
+lucy's mother	22	21	0.955
+melany	22	21	0.955
+concerned woman	22	20	0.909
+luella	22	21	0.955
+chica fiesta	22	20	0.909
+miss hawaii	22	21	0.955
+kikue	22	21	0.955
+kim kelly	22	21	0.955
+arizona woman	22	21	0.955
+movie actress	22	21	0.955
+invitée d'alice	22	21	0.955
+la femme enceinte	22	21	0.955
+motoko	22	21	0.955
+miss new york	22	21	0.955
+noemie	23	22	0.957
+jailbait	23	21	0.913
+woman tourist	23	22	0.957
+miss prism	23	22	0.957
+anne's mother	23	22	0.957
+female security guard	23	22	0.957
+woman at hotel	23	22	0.957
+nurse julie	23	22	0.957
+young karen	23	22	0.957
+porn girl	23	22	0.957
+the brunette	23	21	0.957
+girl victim	23	21	0.913
+faustine	23	21	0.913
+medico residente	23	21	0.913
+amish girl	23	21	0.957
+young olivia	23	22	0.957
+sachie	23	22	0.957
+yuzuki	23	22	0.957
+zully	23	22	0.957
+yadira	23	22	0.957
+nanou	23	22	0.957
+honor	23	20	0.870
+bonnie parker	23	19	0.870
+nurse jenny	23	22	0.957
+ohama	23	22	0.957
+osan	23	22	0.957
+panni	23	22	0.957
+perdy	23	22	0.957
+rainbow johnson	23	22	0.957
+retail analyst	23	22	0.957
+negra	23	21	0.913
+roselia	23	22	0.957
+saima	23	22	0.957
+silje	23	22	0.957
+mrs. mullen	23	22	0.957
+swedish girl	23	22	0.957
+mrs. meyers	23	22	0.957
+mrs. hendricks	23	22	0.957
+terry robinson	23	22	0.957
+mrs. diaz	23	22	0.957
+tina's mother	23	22	0.957
+une petite fille	23	22	0.957
+young maggie	23	20	0.870
+audry	23	20	0.870
+bo peep	23	20	0.870
+charu	23	20	0.870
+ethyl	23	20	0.870
+nurse a	23	22	0.957
+hyacinth	23	20	0.870
+nila	23	20	0.870
+oshin	23	20	0.870
+zombie woman	23	20	0.870
+valeska	23	22	0.957
+alondra	23	21	0.913
+zabimaru	23	21	0.957
+can-can dancer	23	21	0.913
+pumkin	23	21	0.913
+elettra	23	22	0.957
+prima donna	23	21	0.913
+polish woman	23	21	0.913
+joslyn	23	22	0.957
+pinta	23	21	0.913
+piff	23	21	0.913
+mirela	23	21	0.913
+saroja	23	21	0.913
+make-up lady	23	21	0.913
+donata	23	22	0.957
+district nurse	23	22	0.957
+city girl	23	22	0.957
+calendar girl	23	22	0.957
+amah	23	19	0.826
+dam	23	19	0.826
+girl in red dress	23	19	0.826
+lalla	23	19	0.826
+alex simpson	23	19	0.826
+the ballerina	23	21	0.913
+tokomon	23	21	0.913
+glenys	23	20	0.913
+fuki	23	22	0.957
+luisita	23	22	0.957
+malini	23	22	0.957
+lost woman	23	22	0.957
+gina rodriguez	23	22	0.957
+balerina	23	21	0.913
+gülcan	23	22	0.957
+hair model	23	22	0.957
+house mother	23	22	0.957
+lindiwe	23	22	0.957
+library girl	23	22	0.957
+jenny wilder	23	22	0.957
+jenny williams	23	22	0.957
+jess blake	23	22	0.957
+fashion host	23	22	0.957
+maricel	23	22	0.957
+master's wife	23	22	0.957
+mazsola	23	22	0.957
+sawa	23	20	0.913
+nikky	23	19	0.826
+lady montague	23	22	0.957
+sans	23	21	0.913
+tonko	23	19	0.826
+lucka	23	21	0.913
+julie's friend	23	21	0.913
+atropos	23	22	0.957
+another girl	23	22	0.957
+andromache	23	22	0.957
+improv comedian	23	21	0.913
+hip girl	23	21	0.913
+mendiga	23	22	0.957
+amy carter	23	22	0.957
+la propriétaire	23	22	0.957
+altena	23	22	0.957
+adoptive mother	23	22	0.957
+grandmama	23	21	0.913
+a model	23	22	0.957
+fotomodel	23	21	0.913
+young violet	23	22	0.957
+white queen	23	22	0.957
+shonda	23	22	0.957
+fatimah	23	21	0.913
+choni	23	21	0.913
+chilla	23	21	0.913
+autofahrerin	23	22	0.957
+lussan	23	21	0.913
+amanda's mother	23	22	0.957
+her friend	23	18	0.826
+la mere	23	22	0.957
+lilac	23	18	0.826
+baby katie	23	22	0.957
+katie's mother	23	22	0.957
+kelly chan	23	22	0.957
+korean girl	23	22	0.957
+kyle hart	23	22	0.957
+june nelson	23	22	0.957
+brea	24	23	0.958
+brunette woman	24	23	0.958
+commessa	24	23	0.958
+college coed	24	23	0.958
+dian	24	20	0.833
+covadonga	24	23	0.958
+danny's mom	24	23	0.958
+ceren	24	23	0.958
+mrs. anders	24	23	0.958
+krisse	24	23	0.958
+ashley burke	24	23	0.958
+circulating nurse	24	20	0.833
+mrs. griffiths	24	23	0.958
+anissa	24	22	0.917
+mrs. s	24	23	0.958
+nenê	24	23	0.958
+nurse williams	24	23	0.958
+odb	24	23	0.958
+aliza	24	22	0.917
+door girl	24	22	0.917
+makenna	24	22	0.917
+aunt agnes	24	23	0.958
+mrs. elton	24	23	0.958
+lalitha	24	23	0.958
+lady bracknell	24	23	0.958
+lady shopper	24	23	0.958
+klärchen	24	23	0.958
+kelly burns	24	23	0.958
+lainey	24	23	0.958
+the dame	24	22	0.917
+mother earth	24	23	0.958
+mistress of ceremonies	24	23	0.958
+kelly bailey	24	23	0.958
+miss spain	24	23	0.958
+jessica's mother	24	23	0.958
+imperia	24	23	0.958
+hédi	24	23	0.958
+lindsay walker	24	23	0.958
+guillemette	24	23	0.958
+mel bernstein	24	23	0.958
+mary collins	24	23	0.958
+girl at birthday party	24	23	0.958
+maguy	24	23	0.958
+the daily caller	24	20	0.833
+the whore	24	20	0.833
+ling ling	24	23	0.958
+gangster girl	24	23	0.958
+annie smith	24	20	0.833
+franzi reuter	24	23	0.958
+femme couple	24	23	0.958
+domenica	24	23	0.958
+misao	24	23	0.958
+arcadia	24	22	0.917
+female bar patron	24	21	0.875
+aunt fanny	24	22	0.917
+woman in the park	24	22	0.917
+vonnie	24	22	0.917
+verka	24	22	0.917
+the other girl	24	22	0.917
+supporting actress	24	22	0.917
+stoner girl	24	22	0.917
+cicciolina	24	21	0.917
+girl zombie	24	19	0.833
+Étudiante	24	20	0.833
+funeral woman	24	20	0.875
+stinks	24	22	0.917
+yoko ono	24	21	0.875
+preppy girl	24	22	0.917
+support stager	24	21	0.875
+contralto	24	19	0.833
+nera	24	22	0.917
+oprah	24	23	0.958
+pétronille	24	23	0.958
+loes bannink	24	22	0.958
+fleur fairy	24	22	0.958
+female masquerade dancer	24	22	0.958
+consol	24	22	0.958
+beauty shop customer	24	22	0.958
+zinnia	24	23	0.958
+patricia wright	24	23	0.958
+yesim	24	23	0.958
+viva	24	23	0.958
+susan barnes	24	23	0.958
+headless woman	24	21	0.917
+shelby haskell	24	23	0.958
+riina	24	23	0.958
+queen eleanor	24	23	0.958
+woman at wedding	24	23	0.958
+angry wife	24	23	0.958
+sekreterare	24	21	0.875
+komal	24	22	0.917
+astra	24	23	0.958
+elmira	24	23	0.958
+hawaiian girl	24	23	0.958
+cybil	24	21	0.875
+peter shepherd	24	21	0.875
+carlie	24	22	0.917
+cartomante	24	22	0.917
+vidente	24	20	0.833
+kim yoon-hee	24	23	0.958
+gerri	24	20	0.833
+adora	24	23	0.958
+fat pat	24	20	0.833
+afrodita	24	23	0.958
+emily's friend	24	20	0.833
+jungle girl	24	20	0.833
+manami	24	22	0.917
+diya	24	22	0.917
+drop	24	22	0.917
+kinu	24	22	0.917
+katie's mom	24	22	0.917
+jyothi	24	22	0.917
+hot model	24	22	0.917
+güllü	24	22	0.917
+moeder overste	24	21	0.875
+alex tanner	24	21	0.875
+girl in commercial	24	22	0.917
+grand mother	24	21	0.875
+rejection girl	24	23	0.958
+deaf girl	24	21	0.875
+cousine	24	21	0.875
+chita	24	21	0.875
+catherine the great	24	21	0.875
+bindu	24	21	0.875
+female clubber	24	22	0.917
+tía carmen	24	23	0.958
+maeva	25	23	0.920
+lingerie girl	25	23	0.920
+nui	25	22	0.880
+standardiste	25	21	0.840
+sprite	25	21	0.840
+shado	25	21	0.840
+sandy hunter	25	21	0.840
+meka	25	21	0.840
+julia's friend	25	21	0.840
+flaky	25	21	0.840
+adria	25	21	0.840
+karuna	25	21	0.840
+cocoa	25	22	0.880
+ariel moore	25	21	0.840
+domina	25	24	0.960
+mitsue	25	24	0.960
+tommy's mom	25	24	0.960
+water girl	25	24	0.960
+young lucy	25	24	0.960
+ajna	25	24	0.960
+amy winehouse	25	24	0.960
+ance	25	24	0.960
+aska	25	24	0.960
+biddie	25	24	0.960
+rhian	25	20	0.840
+corps dancer	25	20	0.840
+suor angelica	25	23	0.920
+keren	25	23	0.920
+merlinka	25	23	0.920
+the veronicas	25	20	0.800
+mahi	25	20	0.800
+mrs. yates	25	23	0.920
+nurse wilson	25	23	0.920
+janny	25	23	0.920
+evey	25	23	0.920
+dean's secretary	25	23	0.920
+danika	25	23	0.920
+ceres	25	23	0.920
+black scorpion	25	24	0.960
+boncuk	25	23	0.920
+young marie	25	23	0.920
+sangeeta	25	23	0.920
+young annie	25	23	0.920
+tameka	25	23	0.920
+strip club dancer	25	23	0.920
+saira	25	23	0.920
+girl in black	25	23	0.920
+sookie	25	23	0.920
+woman at meeting	25	23	0.920
+zari	25	23	0.920
+barbarella	25	23	0.920
+bryony	25	24	0.960
+gowri	25	21	0.840
+cici	25	24	0.960
+sayo	25	24	0.960
+rachel's friend	25	24	0.960
+penny baker	25	24	0.960
+pascuala	25	24	0.960
+car girl	25	24	0.960
+orie	25	24	0.960
+nurse maggie	25	24	0.960
+sirin	25	24	0.960
+nicha	25	24	0.960
+moukaku	25	24	0.960
+marzia	25	24	0.960
+maring	25	24	0.960
+marella	25	24	0.960
+lady in car	25	24	0.960
+kimie	25	24	0.960
+josephina	25	24	0.960
+mrs. fields	25	24	0.960
+jordana	25	24	0.960
+stasa	25	24	0.960
+terrified woman	25	24	0.960
+burlesque performer	25	22	0.880
+cacau	25	22	0.880
+epiphany	25	22	0.880
+golda	25	22	0.880
+hot date	25	22	0.880
+jenny's friend	25	22	0.880
+majo	25	22	0.880
+sussi	25	24	0.960
+runa	25	22	0.880
+the rose	25	22	0.880
+lead girl	25	23	0.960
+zoraida	25	24	0.960
+zillah	25	24	0.960
+young rebecca	25	24	0.960
+woman b	25	24	0.960
+van den brink	25	24	0.960
+sei	25	22	0.880
+institutrice	25	24	0.960
+jess campbell	25	24	0.960
+flisa	25	24	0.960
+colombe	25	24	0.960
+communion girl	25	24	0.960
+crack whore	25	24	0.960
+dinner lady	25	24	0.960
+ekaterina	25	24	0.960
+evette	25	24	0.960
+fealy	25	24	0.960
+female assistant	25	24	0.960
+fotografin	25	24	0.960
+helen wilson	25	24	0.960
+lady in bar	26	24	0.923
+latina	26	24	0.923
+mame	26	24	0.923
+la pianiste	26	25	0.962
+maître girard	26	24	0.923
+neelu	26	24	0.923
+la mujer	26	24	0.923
+margita	26	24	0.923
+khurshid	26	24	0.923
+fermina	26	24	0.923
+ingenue	26	24	0.923
+ikushima	26	24	0.923
+grieving woman	26	24	0.923
+fubuki	26	24	0.923
+olympias	26	24	0.923
+dochter	26	24	0.923
+cressida	26	24	0.923
+kaisla	26	24	0.923
+padmini	26	24	0.923
+scared girl	26	23	0.923
+rupinder	26	24	0.923
+chum chum	26	24	0.962
+awesome kong	26	24	0.962
+waltraud	26	25	0.962
+vesta	26	25	0.962
+thomasina	26	25	0.962
+tanajura	26	25	0.962
+sophy	26	25	0.962
+skolelægen	26	25	0.962
+shante	26	25	0.962
+sam holden	26	25	0.962
+rose kennedy	26	25	0.962
+roller girl	26	25	0.962
+pussycat	26	25	0.962
+charity kid	26	24	0.923
+aysha	26	23	0.923
+yagmur	26	24	0.923
+vaca	26	24	0.923
+pigu	26	24	0.923
+caramelo	26	24	0.923
+capri	26	24	0.923
+asuman	26	24	0.923
+euridice	26	25	0.962
+female lawyer	26	25	0.962
+filippa	26	25	0.962
+félicité	26	25	0.962
+ghost woman	26	25	0.962
+persa	26	25	0.962
+nick's mother	26	25	0.962
+newspaper woman	26	25	0.962
+musette	26	25	0.962
+mrs. verma	26	25	0.962
+dorie	26	25	0.962
+mrs. callahan	26	25	0.962
+milkmaid	26	25	0.962
+mike's wife	26	25	0.962
+mary green	26	25	0.962
+mall girl	26	25	0.962
+luzie	26	25	0.962
+lily parsons	26	25	0.962
+ingela	26	25	0.962
+innocent girl	26	25	0.962
+kissy	26	25	0.962
+klepto	26	25	0.962
+modista	26	25	0.962
+devojcica	26	25	0.962
+danna	26	25	0.962
+dana sterling	26	25	0.962
+annabell	26	24	0.923
+andy jensen	26	24	0.923
+andrea conti	26	24	0.923
+handan	26	24	0.923
+angry girlfriend	26	24	0.923
+burnt meatballs	26	25	0.962
+shado operative	26	25	0.962
+brienne of tarth	26	25	0.962
+miss lewis	26	25	0.962
+the red queen	26	25	0.962
+young eva	26	25	0.962
+#9	26	25	0.962
+alanna	26	25	0.962
+alcmene	26	25	0.962
+alex drake	26	25	0.962
+amanda waller	26	25	0.962
+amapola	26	25	0.962
+andy's mother	26	25	0.962
+prune	26	25	0.962
+beti	26	25	0.962
+charlady	26	25	0.962
+claire matthews	26	25	0.962
+concerned mother	26	25	0.962
+lady at party	26	25	0.962
+anwältin	26	25	0.962
+linda green	26	25	0.962
+suma	26	21	0.808
+ilka	26	23	0.885
+sally's friend	26	21	0.846
+modern	26	21	0.808
+george lundgren	26	21	0.846
+emma's mother	26	22	0.885
+baby-sitter	26	23	0.885
+bharathi	26	23	0.885
+alberte	26	23	0.885
+prologue umbrella dancer	26	23	0.885
+seda	26	23	0.885
+du	26	21	0.808
+brown sugar	26	23	0.885
+sati	26	23	0.885
+rebound	26	23	0.885
+randa	26	23	0.885
+megha	26	23	0.885
+shinji kazama	26	20	0.808
+teddi	26	21	0.808
+boof	26	23	0.885
+celine dion	26	21	0.846
+nala	26	21	0.808
+pædagog	26	20	0.808
+psych nurse	26	21	0.808
+youngest daughter	26	22	0.846
+i want it all	26	20	0.808
+bua	26	22	0.846
+kairi	26	23	0.885
+salon client	26	22	0.846
+mrs. goldstein	27	26	0.963
+montmorency	27	24	0.889
+real estate lady	27	26	0.963
+armor	27	24	0.889
+aruna	27	24	0.889
+jakie	27	23	0.852
+sunanda	27	24	0.889
+young hannah	27	23	0.852
+guro	27	22	0.852
+petronella	27	26	0.963
+nurse kate	27	26	0.963
+kusano	27	24	0.889
+michelle obama	27	26	0.963
+peggotty	27	26	0.963
+flirting girl	27	24	0.889
+table dancer	27	22	0.852
+okami	27	26	0.963
+mitch larsen	27	26	0.963
+barbe	27	24	0.889
+bruxa	27	24	0.889
+panchita	27	25	0.926
+jacy	27	24	0.889
+noboru maeda	27	26	0.963
+chief correspondent	27	24	0.889
+riley adams	27	26	0.963
+woman at window	27	26	0.963
+woman in queue	27	26	0.963
+spa receptionist	27	25	0.926
+stassi	27	25	0.926
+young michelle	27	26	0.963
+zenobia	27	26	0.963
+tüte	27	24	0.889
+bettie	27	25	0.963
+nurse baker	27	25	0.963
+claus valca	27	25	0.963
+tulsi	27	24	0.889
+title narrator	27	24	0.889
+sury	27	24	0.889
+support group	27	24	0.889
+woman with child	27	24	0.926
+nikki bailey	27	25	0.963
+shellsea	27	25	0.963
+white rose	27	26	0.963
+vilde	27	26	0.963
+enfant spectacle	27	22	0.815
+the madam	27	26	0.963
+sally's mother	27	26	0.963
+sam's wife	27	26	0.963
+sarah's mom	27	26	0.963
+sarara	27	26	0.963
+orsi	27	24	0.889
+saraswati	27	26	0.963
+sille	27	26	0.963
+passion	27	24	0.889
+restaurant woman	27	26	0.963
+the hot hoofers	27	21	0.815
+baby sarah	27	21	0.815
+rasha	27	21	0.815
+panna	27	22	0.815
+lollo	27	22	0.815
+koka	27	22	0.815
+terry driver	27	26	0.963
+the ladies	27	26	0.963
+kita	27	22	0.815
+sport news	27	21	0.815
+roula	27	26	0.963
+siivooja	27	23	0.852
+tourist girl	27	23	0.852
+elegant lady	27	26	0.963
+dulcy	27	26	0.963
+diedre	27	26	0.963
+captive girl	27	25	0.926
+iselin	27	26	0.963
+cissi	27	25	0.926
+jammie	27	26	0.963
+jan evans	27	26	0.963
+emma taylor	27	26	0.963
+jason's mother	27	26	0.963
+jewish girl	27	26	0.963
+jimsy	27	26	0.963
+baby jane	27	23	0.852
+jinja	27	26	0.963
+joy campbell	27	26	0.963
+kelly green	27	26	0.963
+chibi maru	27	26	0.963
+carmelina	27	26	0.963
+jewell	27	26	0.963
+café employee	27	26	0.963
+isabel pantoja	27	26	0.963
+female witness	27	26	0.963
+amelia earhart	27	25	0.926
+alex wilde	27	25	0.926
+girl at park	27	25	0.926
+dolly parton	27	25	0.926
+cintia	27	25	0.926
+inari	27	26	0.963
+baby duck	27	25	0.926
+l'employée	27	25	0.926
+erica reed	27	26	0.963
+hettie	27	26	0.963
+gwenda	27	26	0.963
+women for worlds united	27	25	0.926
+goth chick	27	26	0.963
+girl no.	27	26	0.963
+girl in love	27	26	0.963
+gemela	27	26	0.963
+fan de jeannot	27	25	0.926
+frau schulz	27	26	0.963
+henna	27	26	0.963
+kicsi	27	26	0.963
+derya	27	25	0.926
+koula	27	25	0.926
+lissi	27	26	0.963
+lou jackson	27	26	0.963
+mel dyson	27	26	0.963
+henry wiggins	27	25	0.926
+girl on date	27	23	0.852
+kirstie	27	26	0.963
+lady godiva	27	25	0.926
+linda jones	27	26	0.963
+leann	27	25	0.926
+maître roux	27	26	0.963
+aliya	27	24	0.889
+ottavia	27	25	0.926
+mazz	27	26	0.963
+bike girl	27	23	0.852
+madelon	27	26	0.963
+mutoid	27	24	0.889
+miyo	27	25	0.926
+lil' b	27	26	0.963
+lilica	27	26	0.963
+melodie	27	26	0.963
+la présidente	27	26	0.963
+becky thompson	27	26	0.963
+balsa	27	26	0.963
+ayu	27	26	0.963
+astu	27	26	0.963
+anna rose	27	26	0.963
+amy johnson	27	26	0.963
+licha	27	26	0.963
+leontine	27	26	0.963
+market woman	27	26	0.963
+grieving mother	27	25	0.926
+theatre nurse	27	26	0.963
+selen	27	26	0.963
+anna moore	27	26	0.963
+lianna	27	26	0.963
+gulabo	27	25	0.926
+flight attendent	27	25	0.926
+cissa	28	27	0.964
+burglary victim	28	27	0.964
+camera woman	28	27	0.964
+cornflower	28	27	0.964
+casino dancer	28	27	0.964
+frau graber	28	27	0.964
+kleines mädchen	28	27	0.964
+kit marlowe	28	27	0.964
+dorrit	28	27	0.964
+kaylie	28	27	0.964
+iwana	28	27	0.964
+edele	28	27	0.964
+hisa	28	27	0.964
+julienne	28	27	0.964
+female fbi agent	28	27	0.964
+julie marshall	28	27	0.964
+julia's mother	28	27	0.964
+fred's wife	28	27	0.964
+la dactylo	28	27	0.964
+bob's wife	28	27	0.964
+oregon	28	25	0.893
+barby	28	27	0.964
+groomer	28	24	0.857
+lady in park	28	24	0.857
+makara	28	24	0.857
+make out girl	28	24	0.857
+young dancer	28	24	0.857
+aja	28	23	0.857
+winnie tibideaux	28	23	0.857
+synchronized swimmer	28	27	0.964
+lillifee	28	27	0.964
+bar lady	28	27	0.964
+charlie's mother	28	27	0.964
+deedlit	28	27	0.964
+turret	28	25	0.929
+la donna	28	27	0.964
+lollipop girl	28	27	0.964
+tammie	28	27	0.964
+woman in coffee shop	28	27	0.964
+bank secretary	28	27	0.964
+baby adriana castillo	28	25	0.929
+belle starr	28	27	0.964
+little princess	28	27	0.964
+oyoshi	28	27	0.964
+sumitra	28	27	0.964
+shaila	28	27	0.964
+sheila hayes	28	27	0.964
+female assassin	28	26	0.929
+tim's mother	28	27	0.964
+kikki	28	26	0.929
+kis	28	26	0.929
+fillette	28	25	0.893
+tsuru	28	27	0.964
+drea	28	25	0.893
+thandi	28	25	0.893
+davey hansen	28	25	0.893
+la llorona	28	26	0.929
+pankkivirkailija	28	25	0.893
+salmacis	28	27	0.964
+sex worker	28	25	0.893
+pregnant wife	28	26	0.929
+waleska	28	25	0.893
+cranberry	28	26	0.929
+younger daughter	28	26	0.929
+woman in hallway	28	26	0.929
+vampirette	28	26	0.929
+djamila	28	26	0.929
+florette	28	26	0.929
+sister ruth	28	26	0.929
+sam goldman	28	26	0.929
+mrs. hubbard	28	26	0.929
+meadow	28	26	0.929
+little mary	28	26	0.929
+gaila	28	26	0.929
+rossella	28	27	0.964
+grace's mother	28	26	0.929
+reet	28	27	0.964
+jacquie	28	25	0.893
+oriana	28	27	0.964
+rocker chick	28	27	0.964
+nené	28	27	0.964
+mrs. maxwell	28	27	0.964
+meme	28	23	0.821
+det	28	23	0.821
+pituca	28	27	0.964
+plom	28	27	0.964
+rabia	28	27	0.964
+patient's mother	28	27	0.964
+prison nurse	28	23	0.821
+mellie	28	27	0.964
+marie-anne	28	27	0.964
+maria sanchez	28	27	0.964
+marcelina	28	27	0.964
+makoto hozumi	28	27	0.964
+raggedy ann	28	27	0.964
+greek commentator	28	26	0.929
+mary louise	28	25	0.893
+mouk	28	27	0.964
+aspen	28	23	0.821
+mary-ann	29	28	0.966
+vieja	29	28	0.966
+agda	29	28	0.966
+estelita	29	26	0.897
+catwalk model	29	25	0.897
+nyx	29	26	0.897
+cassandre	29	26	0.897
+betta	29	26	0.897
+mrs. robin	29	28	0.966
+pretty lady	29	28	0.966
+mrs. sloan	29	28	0.966
+prom queen	29	26	0.897
+pippi	29	26	0.897
+oprah winfrey	29	26	0.897
+mrs. wagner	29	28	0.966
+nurse kim	29	28	0.966
+glamorous gyno-american	29	28	0.966
+aaliyah	29	28	0.966
+female co-worker	29	25	0.897
+sexy waitress	29	24	0.828
+vendetta	29	28	0.966
+raylene	29	28	0.966
+anna's friend	29	25	0.862
+car hop	29	25	0.862
+behavioral psychologist	29	25	0.862
+cherubino	29	27	0.931
+princess margaret	29	27	0.931
+the redhead	29	27	0.931
+efi	29	25	0.862
+grit	29	25	0.862
+manja	29	25	0.862
+nomi	29	25	0.862
+shampoo	29	25	0.862
+vod	29	25	0.862
+young darcy	29	25	0.862
+miley	29	24	0.862
+vriendin	29	27	0.931
+klingsors zaubermädchen, höchste und mittlere höhen	29	26	0.931
+amazon queen	29	28	0.966
+stocking	29	28	0.966
+standesbeamtin	29	28	0.966
+sien	29	28	0.966
+sibylle	29	28	0.966
+sally miller	29	28	0.966
+woman on stairs	29	27	0.931
+woman in alley	29	27	0.931
+mrs. robbins	29	28	0.966
+club hostess	29	28	0.966
+eclair	29	28	0.966
+helen of troy	29	28	0.966
+garudamon	29	27	0.931
+drunk chick	29	28	0.966
+lady on train	29	28	0.966
+kate redding	29	28	0.966
+gram gram	29	28	0.966
+hot babe	29	28	0.966
+devaki	29	27	0.931
+floor nurse	29	28	0.966
+joey's mom	29	28	0.966
+ivanna	29	28	0.966
+feli	29	27	0.931
+eole	29	27	0.931
+dusica	29	28	0.966
+emanuela	29	27	0.931
+ineke	29	28	0.966
+a dancer	29	24	0.828
+dorte	29	28	0.966
+1995-199	29	27	0.931
+ginger jones	29	27	0.931
+puddle	29	27	0.931
+mrs. goodman	29	28	0.966
+ann-kristin	29	28	0.966
+maysa	29	27	0.931
+fashion police	29	24	0.828
+dog lady	29	28	0.966
+etna	29	28	0.966
+mrs. cummings	29	28	0.966
+elpida	29	28	0.966
+dafna	29	28	0.966
+emer	29	28	0.966
+diane hunter	29	28	0.966
+matronly woman	29	28	0.966
+mad woman	29	28	0.966
+dilys	29	28	0.966
+jackie warren	29	27	0.931
+maha	30	24	0.800
+amrita	30	29	0.967
+riya	30	25	0.833
+aunt grace	30	29	0.967
+black girl	30	29	0.967
+belladonna	30	29	0.967
+mrs. b	30	29	0.967
+grammy	30	24	0.800
+a nurse	30	26	0.867
+sleeping girl	30	29	0.967
+alegria	30	29	0.967
+vena	30	26	0.867
+salwa	30	26	0.867
+older daughter	30	26	0.867
+marny	30	26	0.867
+chota	30	26	0.867
+cherri	30	26	0.867
+bishu	30	26	0.867
+aunt gertrude	30	29	0.967
+merel	30	29	0.967
+girl by pool	30	29	0.967
+neus	30	25	0.833
+ellie collins	30	29	0.967
+dumpling	30	29	0.967
+deaf woman	30	29	0.967
+catharine	30	29	0.967
+brothel madam	30	29	0.967
+women of the gold pavilion	30	29	0.967
+interior design expert	30	29	0.967
+jordan roberts	30	29	0.967
+katniss	30	29	0.967
+laundry girl	30	29	0.967
+linda brown	30	29	0.967
+lucy daniels	30	29	0.967
+stepsister	30	28	0.933
+florence nightingale	30	29	0.967
+bride-to-be	30	29	0.967
+vivianne	30	28	0.933
+carry	30	25	0.833
+maike	30	29	0.967
+otaki	30	25	0.833
+cyan	30	25	0.833
+woman in office	30	28	0.933
+manang	30	29	0.967
+mary ward	30	29	0.967
+nesta	30	25	0.833
+mayuri	30	29	0.967
+meliha	30	29	0.967
+date girl	30	26	0.867
+food expert	30	29	0.967
+natali	30	29	0.967
+brunette girl	30	28	0.933
+petula	30	27	0.900
+taja	30	29	0.967
+neighbor's wife	30	27	0.900
+nea	30	27	0.900
+gro	30	28	0.933
+jack's mom	30	28	0.933
+ms. green	30	27	0.900
+mitra	30	27	0.900
+street hooker	30	28	0.933
+maharani	30	27	0.900
+mrs. sutton	30	29	0.967
+young catherine	30	28	0.933
+harmonika	30	27	0.900
+girl at beach	30	27	0.900
+flashback girl	30	27	0.900
+yoha	30	29	0.967
+zigeunerin	30	27	0.900
+strange woman	30	27	0.900
+little girl in park	30	27	0.900
+kate's mother	30	27	0.900
+chameli	30	28	0.933
+pink lady	30	27	0.900
+zulema	30	29	0.967
+parvathi	30	29	0.967
+mulan	30	28	0.933
+paul's wife	30	29	0.967
+poor woman	30	29	0.967
+qt	30	29	0.967
+sevy	30	28	0.933
+nanase	30	29	0.967
+rosaline	30	29	0.967
+roslyn	30	29	0.967
+yu fang	30	29	0.967
+sarada	30	29	0.967
+la abuela	30	28	0.933
+fortunata	30	28	0.933
+female villager	30	28	0.933
+aria shacho	30	28	0.967
+snow fairy	30	28	0.933
+shruti	30	29	0.967
+mrs. x	30	29	0.967
+snowdrop	30	29	0.967
+sushila	30	29	0.967
+savanna	30	29	0.967
+mrs. danvers	30	29	0.967
+mrs. poole	30	28	0.933
+warden smith	30	29	0.967
+the girl's mother	30	29	0.967
+woman in gallery	30	29	0.967
+business and economics correspondent	30	28	0.933
+calimero	30	28	0.933
+genny	31	28	0.903
+card girl	31	29	0.935
+barborka	31	29	0.935
+aiden burn	31	29	0.935
+smoking girl	31	29	0.935
+cori	31	29	0.935
+skits	31	28	0.903
+peggy sue	31	30	0.968
+naina	31	28	0.903
+theres	31	30	0.968
+tageszeitung	31	29	0.935
+panini	31	30	0.968
+natasja	31	30	0.968
+hadas	31	28	0.903
+kenna	31	30	0.968
+gili	31	28	0.903
+carlita	31	30	0.968
+dream	31	27	0.871
+female neighbor	31	28	0.903
+mrs. tate	31	30	0.968
+bikini contestant	31	28	0.903
+kiva	31	29	0.935
+host & judge	31	30	0.968
+helen russell	31	30	0.968
+sylvana	31	30	0.968
+mrs. pringle	31	30	0.968
+ruri	31	30	0.968
+purdey	31	30	0.968
+daizy	31	30	0.968
+eddie's wife	31	30	0.968
+eufemia	31	30	0.968
+pool party girl	31	30	0.968
+piroska	31	30	0.968
+floria tosca	31	30	0.968
+frankie page	31	30	0.968
+girl in disco	31	30	0.968
+hotarubi	31	27	0.871
+pauletta	31	30	0.968
+female driver	31	27	0.903
+stage actress	31	28	0.903
+snow queen	31	30	0.968
+weeping woman	31	29	0.935
+cari	31	29	0.935
+girl in school	31	30	0.968
+councilwoman	31	29	0.935
+floozy	31	29	0.935
+wenche	31	29	0.935
+danny's mother	31	28	0.935
+rihanna	31	26	0.839
+ammu	31	30	0.968
+space girl	31	29	0.935
+foxy lady	31	30	0.968
+mrs. fleming	31	30	0.968
+viveka	31	30	0.968
+mrs. carey	31	30	0.968
+linh	31	29	0.935
+alys	31	30	0.968
+xj	31	30	0.968
+amala	31	30	0.968
+anchor host	31	30	0.968
+mrs. billings	31	30	0.968
+melia	31	30	0.968
+jumble	31	25	0.806
+anne d'autriche	31	30	0.968
+young beth	31	30	0.968
+young katie	31	30	0.968
+yubel	31	30	0.968
+ayah	31	25	0.806
+chen lin	31	25	0.806
+fractievoorzitter groenlinks	31	25	0.806
+arantxa	31	30	0.968
+moly	31	30	0.968
+hansje	31	27	0.871
+mapi	31	30	0.968
+mixy	31	30	0.968
+malaysia	31	30	0.968
+muslim woman	31	29	0.935
+armi	31	30	0.968
+nurses	31	29	0.935
+shilpa	31	29	0.935
+avó	31	28	0.903
+bade	31	28	0.903
+bayley	31	28	0.903
+shyama	31	29	0.935
+nurse helen	31	30	0.968
+aunt maggie	31	30	0.968
+shanda	31	30	0.968
+soccer girl	31	29	0.935
+mrs. gibbons	31	30	0.968
+yurie	31	30	0.968
+swapna	31	29	0.935
+taya	31	25	0.806
+toshie	31	29	0.935
+laborantin	31	25	0.806
+sgt. clancy	32	27	0.844
+mamasan	32	27	0.844
+backstage interviewer	32	27	0.844
+adam's mother	32	31	0.969
+hedvig	32	30	0.938
+siana	32	30	0.938
+fangirl	32	30	0.938
+kaho	32	30	0.938
+the mother-in-law	32	30	0.938
+marcellina	32	31	0.969
+fannie	32	31	0.969
+aparna	32	30	0.938
+veruska	32	30	0.938
+ziva	32	26	0.812
+nurse jane	32	30	0.938
+voicemail	32	26	0.812
+shasta	32	26	0.812
+martha washington	32	30	0.938
+collien fernandes	32	30	0.938
+bulder	32	30	0.938
+kamui	32	26	0.812
+woman in wheelchair	32	30	0.938
+katey	32	30	0.938
+marquise	32	26	0.812
+kellar	32	26	0.812
+sweetie belle	32	30	0.938
+wardrobe lady	32	30	0.938
+nuala	32	31	0.969
+gossip reporter	32	30	0.938
+holly levine	32	31	0.969
+petal	32	28	0.875
+picnic girl	32	28	0.875
+neta	32	29	0.906
+menina	32	29	0.906
+beda	32	29	0.906
+vina	32	29	0.906
+titti	32	29	0.906
+shawnee	32	29	0.906
+lyolya	32	31	0.969
+young samantha	32	31	0.969
+sussie	32	31	0.969
+mrs. partridge	32	31	0.969
+lizzie borden	32	31	0.969
+legal secretary	32	31	0.969
+tabatha	32	31	0.969
+young susan	32	31	0.969
+marion jefferson	32	31	0.969
+the heiress	32	31	0.969
+kristel	32	31	0.969
+v lab tech	32	31	0.969
+mary blake	32	31	0.969
+kate smith	32	31	0.969
+marylou	32	31	0.969
+tumi	32	28	0.875
+milada	32	31	0.969
+angry girl	32	29	0.906
+goca	32	31	0.969
+nixie	32	28	0.875
+gentlewoman	32	31	0.969
+galatea	32	30	0.938
+alice fisher	32	31	0.969
+ansa	32	31	0.969
+astrology presenter	32	31	0.969
+pietra	32	31	0.969
+possessed girl	32	31	0.969
+rocket j. squirrel	32	31	0.969
+babeth	32	31	0.969
+barbara walters	32	31	0.969
+charie	32	31	0.969
+sneha	32	31	0.969
+house keeper	32	28	0.875
+moderen	32	31	0.969
+duenna	32	31	0.969
+arguing woman	32	28	0.875
+new bride	32	31	0.969
+kemi	32	28	0.875
+alya	32	28	0.875
+street woman	32	31	0.969
+mrs. winslow	32	31	0.969
+ume	32	29	0.906
+fisherman's wife	32	31	0.969
+emergency nurse	32	31	0.969
+latifa	33	32	0.970
+young molly	33	30	0.909
+bice	33	27	0.818
+lucy jones	33	32	0.970
+chiku	33	27	0.818
+wicked witch	33	30	0.909
+features editor	33	27	0.818
+rupa	33	29	0.909
+helen's mother	33	32	0.970
+malinda	33	31	0.939
+girl in office	33	32	0.970
+frau fischer	33	32	0.970
+cita	33	32	0.970
+briony	33	32	0.970
+aunt kate	33	32	0.970
+shizue	33	31	0.939
+woman in hospital	33	32	0.970
+tiziana	33	32	0.970
+girl in the bar	33	32	0.970
+italia	33	32	0.970
+item girl	33	32	0.970
+ariadna	33	32	0.970
+vala mal doran	33	32	0.970
+rachel's mother	33	31	0.939
+julie davis	33	32	0.970
+la vieille	33	32	0.970
+la voyante	33	32	0.970
+gayathri	33	31	0.939
+mariann	33	32	0.970
+jacki	33	30	0.909
+madame x	33	31	0.939
+sister beatrice	33	32	0.970
+brassy	33	31	0.939
+sweety	33	29	0.879
+diner girl	33	28	0.879
+cat woman	33	31	0.939
+red cross nurse	33	30	0.909
+congresswoman	33	31	0.939
+fatou	33	31	0.939
+lieutenant french	33	31	0.939
+little frankie	33	31	0.939
+journey	33	27	0.818
+nataku	33	31	0.939
+sofía lópez	33	32	0.970
+latha	33	30	0.909
+playground girl	33	30	0.909
+young lily	33	31	0.939
+penne	33	30	0.909
+tweet	33	31	0.939
+studentessa	33	32	0.970
+suzie wong	33	32	0.970
+svea	33	32	0.970
+sindy	33	31	0.939
+terka	33	32	0.970
+ratna	33	31	0.939
+roya	33	29	0.879
+zoska	33	32	0.970
+sheetal	33	32	0.970
+chana	33	28	0.848
+marilu	33	32	0.970
+evita	33	30	0.909
+herelf	33	28	0.848
+ensemble member	33	28	0.848
+girl at bus stop	33	29	0.879
+joseito	33	30	0.909
+guddi	33	32	0.970
+jovi	33	30	0.909
+sister angela	33	32	0.970
+mecha	33	32	0.970
+baba yaga	33	29	0.879
+norma jean	33	32	0.970
+trauma nurse	33	30	0.909
+omarosa	33	32	0.970
+souad	33	30	0.909
+radio talk show hostess	33	32	0.970
+rozi	33	32	0.970
+samantha thompson	33	32	0.970
+sandpiper	33	32	0.970
+ripple	33	30	0.909
+sarah wilson	33	32	0.970
+miss perkins	33	32	0.970
+cult girl	34	33	0.971
+elana	34	33	0.971
+female vampire	34	33	0.971
+eija	34	33	0.971
+di lane	34	33	0.971
+rukmini	34	33	0.971
+gerdi	34	33	0.971
+shifra	34	33	0.971
+pegs	34	33	0.971
+pediatric nurse	34	33	0.971
+musetta	34	33	0.971
+mrs. thornton	34	33	0.971
+mitsuki	34	33	0.971
+the white lady	34	33	0.971
+ticket lady	34	33	0.971
+woman in kitchen	34	33	0.971
+freshman girl	34	33	0.971
+young prostitute	34	33	0.971
+local girl	34	33	0.971
+jessika	34	33	0.971
+jackie clarke	34	33	0.971
+hot mom	34	33	0.971
+snivy	34	27	0.824
+guinan	34	33	0.971
+aerobics dancer	34	27	0.824
+animation voices	34	28	0.824
+amani	34	28	0.824
+marie curie	34	33	0.971
+sarina	34	33	0.971
+tessy	34	33	0.971
+sahar	34	28	0.853
+abigail williams	34	33	0.971
+queen mary	34	31	0.912
+goo	34	32	0.941
+heidi klum	34	32	0.941
+laughing woman	34	31	0.912
+klava	34	32	0.941
+young jess	34	30	0.882
+kleo	34	32	0.941
+mother with baby	34	32	0.941
+mrs. schultz	34	32	0.941
+mysterious girl	34	32	0.941
+girl in photo	34	31	0.912
+nick dean	34	32	0.941
+liora	34	33	0.971
+s.i.r.	34	32	0.941
+tannis	34	32	0.941
+vana	34	32	0.941
+sassy	34	30	0.912
+yuppie woman	34	32	0.941
+vica	34	31	0.912
+kodomo	34	31	0.941
+jamie lee	34	31	0.941
+lerato	34	31	0.912
+verslaggeefster	34	31	0.912
+bordello girl	34	33	0.971
+neighbor girl	34	29	0.853
+florentine	34	32	0.941
+blenda	34	29	0.853
+cinderela	34	33	0.971
+ceca	34	33	0.971
+camelia	34	33	0.971
+bunny girl	34	33	0.971
+benedicte	34	33	0.971
+antonica	34	33	0.971
+nicol	34	30	0.882
+nagi	34	30	0.882
+lady macduff	34	32	0.941
+anki	34	33	0.971
+alis	34	28	0.853
+avis	34	29	0.853
+reni	34	29	0.853
+gaynor	34	30	0.882
+cielo	34	30	0.882
+celebrity makeup artist	34	31	0.912
+erni	34	32	0.941
+sick girl	34	31	0.912
+fumi	34	31	0.912
+a woman	34	31	0.912
+dorien	34	32	0.941
+eric's mother	34	32	0.941
+moonbeam	34	29	0.853
+abbi	34	32	0.941
+office receptionist	34	31	0.912
+kove	35	33	0.943
+girl at school	35	32	0.914
+elevator woman	35	33	0.943
+la cantatrice	35	34	0.971
+lamie	35	34	0.971
+erma	35	33	0.943
+female hostage	35	33	0.943
+female tourist	35	33	0.943
+anat	35	33	0.943
+chairry	35	34	0.971
+mrs. lopez	35	33	0.943
+cocktail server	35	31	0.886
+rockette	35	34	0.971
+alka	35	31	0.886
+girl on swing	35	31	0.886
+young mum	35	34	0.971
+alice jones	35	34	0.971
+amel	35	34	0.971
+virgie	35	33	0.943
+nanami	35	33	0.943
+ann-marie	35	34	0.971
+armadimon	35	34	0.971
+smoking woman	35	32	0.914
+young angel	35	30	0.857
+female scientist	35	34	0.971
+savka	35	30	0.857
+satin	35	30	0.857
+frank's wife	35	34	0.971
+tiara	35	33	0.943
+arab woman	35	34	0.971
+young jennifer	35	32	0.914
+young lisa	35	33	0.943
+old hag	35	34	0.971
+spokeswoman	35	34	0.971
+prissy	35	34	0.971
+girl on bench	35	29	0.829
+book club member	35	29	0.829
+perona	35	33	0.943
+nurse's aide	35	33	0.943
+moren	35	33	0.943
+mady	35	33	0.943
+fiancée	35	30	0.857
+vanina	35	34	0.971
+shyla	35	34	0.971
+sharon robinson	35	34	0.971
+lisa brunner	35	34	0.971
+seine mutter	35	34	0.971
+sarah williams	35	34	0.971
+mary malone	35	34	0.971
+mirai	35	34	0.971
+mrs. wang	35	34	0.971
+nurse andrews	35	34	0.971
+berna	35	32	0.914
+laura miller	35	34	0.971
+stanka	35	34	0.971
+supermarket cashier	35	29	0.829
+ruth's mother	35	34	0.971
+totodile	35	34	0.971
+tony's wife	35	34	0.971
+pru	35	31	0.914
+magic assistant	35	32	0.914
+kevin's mother	35	32	0.914
+sundari	35	34	0.971
+treasure	35	33	0.943
+bowser jr.	35	32	0.914
+stána	35	33	0.943
+sabel	36	33	0.917
+nelli	36	34	0.944
+callisto	36	30	0.833
+camera girl	36	33	0.917
+cool girl	36	31	0.889
+manta	36	33	0.917
+nessie	36	32	0.889
+jarka	36	30	0.833
+welfare worker	36	32	0.889
+omatsu	36	34	0.944
+ursa	36	32	0.889
+spiral	36	30	0.833
+armelle	36	35	0.972
+poof	36	32	0.889
+suzuka	36	29	0.806
+head cheerleader	36	33	0.917
+pushpa	36	34	0.944
+delivery woman	36	35	0.972
+sandie	36	33	0.944
+grindl	36	33	0.917
+teta	36	34	0.944
+ashlyn	36	33	0.917
+sheree	36	35	0.972
+girl in alley	36	32	0.889
+deja	36	32	0.889
+aunt betty	36	32	0.889
+reka	36	33	0.917
+darci	36	33	0.917
+young actress	36	35	0.972
+girl at table	36	33	0.917
+corresepondent	36	34	0.944
+suicide girl	36	34	0.944
+audra	36	35	0.972
+adelheid	36	35	0.972
+alex foxe	36	35	0.972
+alex's mother	36	35	0.972
+missing girl	36	32	0.889
+assistante sociale	36	35	0.972
+bella swan	36	33	0.917
+madelyn	36	33	0.917
+johnny's mother	36	33	0.917
+jail matron	36	35	0.972
+sarah parker	36	34	0.944
+cristiana	36	35	0.972
+daiana	36	34	0.944
+susan turner	36	35	0.972
+aunt millie	36	35	0.972
+roswitha	36	35	0.972
+rachele	36	35	0.972
+karishma	36	34	0.944
+penny foster	36	35	0.972
+paolina	36	35	0.972
+elizabeth taylor	36	34	0.944
+okuni	36	35	0.972
+niecy	36	35	0.972
+mémé	36	35	0.972
+miss grundy	36	35	0.972
+mariuccia	36	35	0.972
+louisette	36	35	0.972
+empress	36	35	0.972
+lisa's mother	36	35	0.972
+kelsie	36	35	0.972
+kagero	36	35	0.972
+judge's wife	36	35	0.972
+girl b	36	35	0.972
+george's wife	36	34	0.944
+giuditta	36	35	0.972
+jennifer taylor	36	35	0.972
+tall woman	36	35	0.972
+minx	36	32	0.917
+sebnem	36	35	0.972
+daughter-in-law	36	32	0.917
+chorus of singers	36	29	0.833
+bon bon	36	31	0.861
+naama	36	31	0.861
+sarah davis	36	31	0.861
+basanti	36	35	0.972
+ex girlfriend	36	34	0.972
+zamira	36	35	0.972
+yasmeen	36	35	0.972
+volleyball girl	36	35	0.972
+office secretary	36	30	0.861
+tyne	36	35	0.972
+marisela	36	32	0.917
+kicki	36	34	0.944
+kiera	36	34	0.944
+prostituee	36	35	0.972
+cyndaquil	36	34	0.944
+the baroness	36	35	0.972
+young helen	36	34	0.944
+bára	36	35	0.972
+cemre	36	34	0.944
+spuggie	37	34	0.919
+galia	37	34	0.919
+zhanna	37	34	0.919
+young julia	37	33	0.919
+ny times	37	33	0.892
+the nanny	37	33	0.919
+criminal profiler	37	33	0.892
+dirkje	37	33	0.892
+legay	37	32	0.865
+alyona	37	34	0.946
+miku	37	33	0.892
+jannu	37	33	0.892
+koi	37	34	0.946
+crazy girl	37	34	0.946
+prom girl	37	32	0.865
+raymonde	37	34	0.919
+suora	37	35	0.946
+babushka	37	32	0.865
+sam hagen	37	34	0.919
+zorka	37	36	0.973
+ben's mother	37	36	0.973
+julia santos	37	36	0.973
+hanicka	37	36	0.973
+gardienne	37	36	0.973
+funcionaria	37	36	0.973
+frau werner	37	36	0.973
+ceyda	37	36	0.973
+carmilla	37	36	0.973
+bess marvin	37	36	0.973
+aunt sophie	37	36	0.973
+aunt ruth	37	36	0.973
+kelly parker	37	35	0.946
+anna karenina	37	36	0.973
+andrée	37	36	0.973
+alice murphy	37	36	0.973
+alex mitchum	37	36	0.973
+young rose	37	35	0.946
+adelle	37	36	0.973
+aviva	37	35	0.946
+shopgirl	37	36	0.973
+mrs. gilbert	37	36	0.973
+naked girl	37	35	0.946
+adder	37	35	0.946
+'rocky'	37	35	0.946
+jun suzuki	37	36	0.973
+kaaya	37	36	0.973
+jerri	37	36	0.973
+la maquilleuse	37	36	0.973
+shivani	37	35	0.946
+vanna	37	30	0.811
+hind	37	30	0.811
+reva	37	35	0.946
+local woman	37	35	0.946
+puck rademaker	37	35	0.973
+noor rademaker	37	35	0.973
+kinuko	37	36	0.973
+twin girl	37	36	0.973
+teresina	37	36	0.973
+veta	37	36	0.973
+neeta	37	36	0.973
+mrs. hayes	37	36	0.973
+sue godfrey	37	36	0.973
+ronnie clayton	37	36	0.973
+queen isabella	37	36	0.973
+ozlem	37	36	0.973
+nurse kathy	37	36	0.973
+nominee: best supporting actress	37	36	0.973
+tamra	37	36	0.973
+ambika	38	36	0.947
+playboy bunny	38	36	0.947
+girl a	38	35	0.921
+jeni	38	35	0.921
+mother mary	38	34	0.921
+pearlie	38	35	0.921
+baby boo	38	36	0.947
+sarit	38	35	0.921
+mata hari	38	34	0.921
+pidgeotto	38	36	0.974
+ora	38	31	0.816
+Ältere dame	38	37	0.974
+commercial girl	38	36	0.947
+club extras	38	31	0.816
+christi	38	34	0.895
+dierdre	38	36	0.947
+fafá	38	36	0.947
+gladis	38	36	0.947
+henry's wife	38	36	0.947
+cosima	38	34	0.895
+red head	38	34	0.895
+bitten	38	35	0.921
+masami	38	33	0.868
+workout girl	38	33	0.868
+lyric	38	33	0.868
+marie-pierre	38	33	0.868
+misery	38	31	0.816
+bellydancer	38	35	0.921
+undine	38	36	0.947
+yeliz	38	37	0.974
+girl at airport	38	37	0.974
+miss havisham	38	37	0.974
+cassy	38	35	0.947
+zaira	38	36	0.947
+balalaika	38	37	0.974
+betka	38	37	0.974
+misato	38	37	0.974
+bluebell	38	37	0.974
+hot teacher	38	36	0.947
+cabaretera	38	37	0.974
+clarisa	38	37	0.974
+elfriede	38	37	0.974
+female worker	38	37	0.974
+malti	38	37	0.974
+la nourrice	38	37	0.974
+tourist woman	38	36	0.947
+l'hôtelière	38	37	0.974
+filiz	38	37	0.974
+jim's mother	38	37	0.974
+raffaella	38	32	0.842
+office lady	38	37	0.974
+garderobiere	38	37	0.974
+dorcas	38	32	0.842
+hure	38	36	0.947
+kusum	38	36	0.947
+ming li	38	36	0.947
+niobe	38	36	0.947
+eveline	38	37	0.974
+sanshirô	38	37	0.974
+tomoka	38	37	0.974
+sumi	38	32	0.842
+vieille dame	38	37	0.974
+mud wrestler	38	35	0.921
+peter's mother	38	37	0.974
+rachel greene	38	37	0.974
+razia	38	36	0.947
+woman in lobby	38	37	0.974
+professor wiseman	38	37	0.974
+ophélie	38	37	0.974
+roseline	38	37	0.974
+mary poppins	38	37	0.974
+the barmaid	39	36	0.923
+terese	39	38	0.974
+trudie	39	38	0.974
+truus	39	38	0.974
+tía	39	38	0.974
+solomon moto	39	35	0.923
+cafeteria lady	39	36	0.923
+ambrosia	39	36	0.923
+pedicurist	39	36	0.923
+nightclub girl	39	38	0.974
+sister marie	39	37	0.949
+opening sequence girl	39	38	0.974
+abuelita	39	38	0.974
+alcina	39	38	0.974
+aunt louise	39	38	0.974
+baby's mother	39	38	0.974
+bella donna	39	38	0.974
+daniel's mother	39	38	0.974
+chelsey	39	36	0.923
+doctor's receptionist	39	38	0.974
+dr. blight	39	38	0.974
+garance	39	38	0.974
+gundi	39	38	0.974
+hela	39	38	0.974
+jane seymour	39	38	0.974
+julia collins	39	38	0.974
+lianne	39	38	0.974
+make up girl	39	38	0.974
+maria ruiz	39	38	0.974
+mike's mother	39	38	0.974
+mrs. lloyd	39	38	0.974
+paul's mother	39	38	0.974
+piera	39	38	0.974
+pierette	39	38	0.974
+anjana	39	36	0.923
+pammy	39	36	0.923
+Åse	39	37	0.949
+ornella	39	35	0.897
+lika	39	37	0.949
+jannie	39	35	0.897
+maquilladora	39	35	0.897
+amora	39	37	0.949
+lije	39	37	0.949
+beyonce	39	34	0.897
+akari	39	37	0.949
+girl in hallway	39	34	0.897
+juani	39	34	0.897
+webcam girl	39	34	0.897
+la niña	39	37	0.949
+mudkip	39	37	0.949
+archy	39	32	0.821
+jay harper	39	37	0.949
+ione	39	37	0.949
+snooki	39	33	0.872
+sykepleier	39	33	0.872
+lexy	39	33	0.846
+poly	39	34	0.872
+older girl	39	34	0.872
+miley cyrus	39	34	0.872
+krazy kat	39	34	0.872
+girl in store	39	37	0.949
+female jogger	39	34	0.872
+costanza	39	34	0.872
+lison	40	39	0.975
+robbie dean	40	39	0.975
+rivka	40	39	0.975
+princess zelda	40	39	0.975
+shower guest	40	36	0.900
+la negra	40	39	0.975
+nurse kelly	40	39	0.975
+namiko	40	39	0.975
+mrs. oliver	40	39	0.975
+mrs. gardner	40	39	0.975
+isay	40	39	0.975
+mrs. cook	40	39	0.975
+morca	40	39	0.975
+mark's mother	40	39	0.975
+manchón	40	39	0.975
+nya	40	39	0.975
+rouva	40	39	0.975
+backing vocal	40	36	0.925
+suse	40	39	0.975
+young sara	40	34	0.850
+martha stewart	40	33	0.850
+park girl	40	35	0.875
+tova	40	37	0.925
+rayne	40	33	0.825
+dilber	40	33	0.825
+tru	40	33	0.825
+ms. johnson	40	38	0.950
+day nurse	40	38	0.950
+aziza	40	38	0.950
+bar woman	40	38	0.950
+harem	40	38	0.950
+kacey	40	38	0.950
+maisy	40	38	0.950
+mary shelley	40	38	0.950
+tv anchorwoman	40	38	0.950
+madelyn flora 'maddie' grey	40	37	0.950
+harima	40	39	0.975
+yukino	40	39	0.975
+virpi	40	39	0.975
+tv hostess	40	39	0.975
+sister teresa	40	39	0.975
+greet	40	39	0.975
+pamina	40	39	0.975
+fister	40	39	0.975
+female paramedic	40	36	0.900
+arachne	40	36	0.900
+female friend	40	36	0.900
+anemone	40	39	0.975
+cave girl	40	39	0.975
+jack's wife	40	39	0.975
+cordelia abbott	40	36	0.900
+postwoman	40	39	0.975
+girl in diner	40	37	0.925
+little bo peep	40	36	0.900
+aspasia	40	39	0.975
+hula girl	40	37	0.925
+dorka	40	39	0.975
+fumiko	41	39	0.951
+ioana	41	39	0.951
+loraine	41	39	0.951
+lorrie	41	39	0.951
+shir	41	38	0.927
+mizuho	41	39	0.951
+priyanka	41	40	0.976
+rusty collins	41	39	0.951
+rosie the robot	41	39	0.951
+maggie simpson	41	38	0.951
+sif	41	39	0.951
+draga	41	39	0.951
+süni	41	39	0.951
+dying woman	41	38	0.927
+the farmer's wife	41	39	0.951
+adelita	41	38	0.927
+slavka	41	34	0.829
+shania	41	39	0.951
+sanjana	41	39	0.951
+zooey	41	38	0.927
+teenage alex	41	38	0.927
+women coalation diner patron	41	35	0.854
+mimì	41	35	0.854
+neena	41	38	0.927
+loca	41	38	0.927
+emanuelle	41	38	0.927
+saida	41	36	0.878
+administrative assistant	41	36	0.878
+clinic receptionist	41	38	0.927
+bailaora	41	40	0.976
+new york majesty	41	39	0.951
+bus stop girl	41	39	0.951
+female judge	41	39	0.951
+rhona	41	39	0.951
+blue fairy	41	39	0.951
+bathsheba	41	40	0.976
+baronin	41	40	0.976
+cindy aus marzahn	41	40	0.976
+charge nurse	41	37	0.902
+big sister	41	36	0.902
+woman's voice	41	37	0.902
+tallulah	41	37	0.902
+pattie	41	37	0.902
+marte	41	37	0.902
+caren	41	40	0.976
+woman in waiting room	41	40	0.976
+woman in shop	41	40	0.976
+topless dancer	41	40	0.976
+tommy's mother	41	40	0.976
+shona campbell	41	40	0.976
+lollipop	41	33	0.805
+native woman	41	40	0.976
+marquesa	41	40	0.976
+milady de winter	41	40	0.976
+kalpana	41	40	0.976
+dennis chan	41	40	0.976
+kandy	41	40	0.976
+freira	41	40	0.976
+governor's wife	41	40	0.976
+natsu	41	37	0.902
+jimmy gibson	41	40	0.976
+anchor tongan edition	41	33	0.805
+héloïse	41	40	0.976
+skater girl	42	38	0.905
+shaniqua	42	38	0.929
+mela	42	39	0.929
+jimmy's mother	42	38	0.905
+isla	42	38	0.905
+inna	42	40	0.952
+morning star	42	39	0.929
+rajni	42	39	0.929
+merete	42	40	0.952
+sniffles	42	38	0.905
+jewish woman	42	40	0.952
+girl in class	42	38	0.905
+the young girl	42	38	0.929
+jazmine	42	39	0.929
+debi	42	40	0.952
+toph	42	37	0.881
+janka	42	39	0.929
+ilke	42	39	0.929
+gramma	42	39	0.929
+columbine	42	39	0.929
+marie's mother	42	40	0.952
+female zombie	42	37	0.881
+noora	42	37	0.881
+masumi	42	37	0.881
+kina	42	37	0.881
+bloody mary	42	37	0.881
+young angela	42	39	0.929
+gorda	42	40	0.952
+meri	42	40	0.952
+vidya	42	41	0.976
+miss usa	42	41	0.976
+sigourney	42	41	0.976
+shimmer	42	41	0.976
+mrs. saunders	42	41	0.976
+mrs. norris	42	41	0.976
+mrs. blair	42	41	0.976
+miss lemon	42	41	0.976
+mikiko	42	41	0.976
+melissa walker	42	41	0.976
+linda stotch	42	41	0.976
+leire	42	41	0.976
+la postière	42	41	0.976
+duchess of york	42	41	0.976
+lutin	42	34	0.810
+dash employee	42	41	0.976
+clinical and forensic psychologist	42	41	0.976
+angry mother	42	41	0.976
+alien woman	42	41	0.976
+a maid	42	41	0.976
+lera	42	41	0.976
+asiye	42	41	0.976
+single woman	42	41	0.976
+sister anne	42	41	0.976
+susan johnson	42	41	0.976
+random girl	42	34	0.810
+süreyya	42	41	0.976
+une commère	42	41	0.976
+ulrika	42	41	0.976
+jena	42	36	0.857
+agni	42	36	0.857
+crone	42	36	0.857
+armande	42	36	0.857
+breanne	42	36	0.857
+photo model	42	36	0.857
+sükran	42	41	0.976
+pat o'connell	42	40	0.952
+officer's wife	42	40	0.952
+sela	42	40	0.952
+cati	42	39	0.952
+nurse jones	42	39	0.952
+whitney houston	42	35	0.833
+philomena	42	40	0.952
+giza	43	42	0.977
+aika	43	42	0.977
+aunt ida	43	42	0.977
+b.j. cummings	43	42	0.977
+agnetha	43	42	0.977
+sridevi	43	42	0.977
+big sis	43	42	0.977
+harry's wife	43	42	0.977
+glynis	43	42	0.977
+gülsüm	43	42	0.977
+mrs. patel	43	42	0.977
+floss	43	37	0.860
+ralph monroe	43	42	0.977
+sam mackenzie	43	42	0.977
+the checkout chicks	43	41	0.977
+robert's mother	43	42	0.977
+tracie	43	39	0.907
+maira	43	39	0.907
+kindergarten teacher	43	39	0.907
+girl next door	43	39	0.907
+girl in the park	43	39	0.907
+young maria	43	39	0.907
+orphan girl	43	42	0.977
+mucama	43	42	0.977
+shaz	43	35	0.837
+gerta	43	41	0.953
+miche	43	35	0.814
+jovana	43	41	0.953
+mother nature	43	41	0.953
+ms. jones	43	41	0.953
+pruneau	43	41	0.953
+cheerio	43	40	0.930
+young daughter	43	40	0.930
+nar	43	36	0.837
+trophy wife	43	39	0.930
+homeless lady	43	39	0.930
+rubia	43	40	0.930
+restaurant waitress	43	40	0.930
+majorette	43	40	0.930
+holo	43	40	0.930
+honk	43	38	0.884
+girls	43	37	0.884
+miwa	43	35	0.814
+female employee	43	41	0.953
+dorrie	43	41	0.953
+giggling girl	43	40	0.930
+chola	43	41	0.953
+chitra	43	41	0.953
+anne frank	43	41	0.953
+angry mom	43	41	0.953
+triage nurse	43	41	0.953
+bobby's mother	43	41	0.953
+zohra	43	41	0.953
+zarina	43	41	0.953
+carhop	43	37	0.860
+kristie	43	42	0.977
+clo	43	41	0.953
+office woman	43	37	0.860
+glitter	44	38	0.864
+latisha	44	41	0.932
+psykologen	44	36	0.818
+marigold	44	40	0.909
+fluffer	44	36	0.818
+orchid	44	40	0.909
+shosho	44	40	0.909
+vita	44	40	0.909
+tinka	44	37	0.841
+anya king	44	37	0.841
+neighborhood girl	44	40	0.909
+charm	44	42	0.955
+manya	44	39	0.886
+queen bee	44	39	0.886
+porsche	44	39	0.886
+fact	44	42	0.955
+denver dream	44	41	0.932
+maggan	44	39	0.886
+jewels	44	39	0.886
+manju	44	41	0.955
+west coast correspondent	44	42	0.955
+raija	44	42	0.955
+mrs. li	44	42	0.955
+minou	44	42	0.955
+karai	44	42	0.955
+ismene	44	42	0.955
+lady of the evening	44	42	0.955
+clorinda	44	41	0.932
+jim's wife	44	42	0.955
+shae	44	41	0.932
+spomenka	44	43	0.977
+skuld	44	43	0.977
+sisi	44	43	0.977
+laura's mother	44	43	0.977
+korra	44	43	0.977
+jetta	44	43	0.977
+girl on the street	44	43	0.977
+girl in crowd	44	43	0.977
+english girl	44	43	0.977
+woman on tv	44	43	0.977
+duchesse de polignac	44	43	0.977
+dibu	44	43	0.977
+ilene	44	43	0.977
+brigida	44	43	0.977
+aude	44	43	0.977
+ashley davies	44	43	0.977
+anikó	44	43	0.977
+shazza	45	44	0.978
+girl in library	45	38	0.844
+irene adler	45	37	0.844
+woman at funeral	45	44	0.978
+joan collins	45	43	0.978
+rufina	45	44	0.978
+rita bennett	45	44	0.978
+girl in line	45	42	0.933
+candida	45	43	0.956
+nerdy girl	45	44	0.978
+doraemon	45	43	0.956
+salani tribe	45	39	0.867
+rouge	45	39	0.867
+jolie	45	39	0.867
+dani burns	45	44	0.978
+young emma	45	41	0.911
+soli	45	41	0.911
+invitée	45	44	0.978
+suman	45	41	0.911
+l'amie	45	44	0.978
+shayna	45	44	0.978
+anabelle	45	44	0.978
+ayaka	45	44	0.978
+church girl	45	44	0.978
+ellinor	45	44	0.978
+elma	45	44	0.978
+german girl	45	44	0.978
+jadzia	45	44	0.978
+kilt	45	44	0.978
+mrs. lawrence	45	44	0.978
+mrs. sanchez	45	44	0.978
+nilda	45	44	0.978
+p.j. moore	45	44	0.978
+tolosa	45	44	0.978
+dani díez	45	42	0.933
+one of the twins	45	43	0.956
+rea	45	43	0.956
+mama bear	45	37	0.822
+kocha	45	42	0.933
+sarah miller	45	42	0.933
+tinker bell	45	43	0.956
+brenna	45	40	0.889
+aunt may	45	42	0.956
+salon patron	45	40	0.889
+lost girl	45	40	0.889
+cammie	45	42	0.933
+presa	45	40	0.889
+rima	45	42	0.956
+maaike	45	43	0.956
+young rachel	45	42	0.933
+backstage host	45	39	0.889
+girl dancer	45	43	0.956
+mera	45	43	0.956
+turtles	45	42	0.933
+girl singer	46	42	0.913
+odessa	46	41	0.891
+hausmeisterin	46	45	0.978
+helen porter	46	45	0.978
+hispanic woman	46	45	0.978
+jackie parker	46	45	0.978
+jinny	46	45	0.978
+marie-claude	46	44	0.957
+lero	46	44	0.957
+josepha	46	45	0.978
+madame butterfly	46	45	0.978
+cami	46	43	0.935
+funda	46	45	0.978
+grayling	46	45	0.978
+other girl	46	40	0.891
+kora	46	41	0.891
+supergirl	46	43	0.935
+amethyst	46	43	0.935
+biba	46	45	0.978
+lyusya	46	45	0.978
+bec	46	42	0.935
+malia	46	45	0.978
+anca	46	45	0.978
+sumiko	46	42	0.935
+beep beep	46	45	0.978
+julianna	46	43	0.935
+bill's wife	46	45	0.978
+cora crawley, countess of grantham	46	45	0.978
+crazy lady	46	45	0.978
+sister-in-law	46	44	0.957
+viuda	46	44	0.957
+la psychologue	46	43	0.957
+joe's mother	46	43	0.935
+go-go girl	46	43	0.957
+elvan	46	45	0.978
+chrystal	46	42	0.913
+puk	46	41	0.891
+deepa	46	41	0.891
+koromon	46	44	0.957
+lanie	46	43	0.935
+drew jacobs	46	44	0.957
+terk	46	42	0.913
+the mom	46	38	0.848
+hotel inspector	46	39	0.848
+dilan	46	39	0.848
+lady gaga	46	39	0.848
+aoife	46	41	0.913
+circuit	46	44	0.957
+dayna	46	44	0.957
+petite fille	46	44	0.957
+manola	46	40	0.870
+young amy	46	42	0.913
+crickett	46	44	0.957
+sister catherine	46	45	0.978
+shoukei	46	45	0.978
+serveerster	46	45	0.978
+plum pudding	46	45	0.978
+moana	46	42	0.913
+nayana	46	45	0.978
+maudie	46	45	0.978
+marilena	46	45	0.978
+hala	46	44	0.957
+maria rodriguez	46	45	0.978
+alzbeta	46	38	0.826
+child chorus	46	37	0.826
+the wasp	47	44	0.936
+marie-antoinette	47	45	0.957
+nel	47	42	0.915
+marie-christine	47	45	0.957
+khloe	47	46	0.979
+lead actress	47	46	0.979
+nursie	47	45	0.957
+ona	47	45	0.957
+konan	47	42	0.894
+bargirl	47	46	0.979
+tiphaine	47	44	0.936
+mausi	47	45	0.957
+talita	47	46	0.979
+homewrecker	47	45	0.957
+mariane	47	45	0.957
+tootie	47	38	0.809
+rachelle	47	44	0.936
+debs	47	44	0.936
+fortuna	47	44	0.936
+ima	47	44	0.936
+bridgett	47	45	0.957
+die mutter	47	45	0.957
+mai ling	47	44	0.936
+dorthe	47	45	0.957
+fi	47	45	0.957
+koor	47	44	0.936
+brynn	47	41	0.894
+xuan	47	42	0.894
+jimmy b	47	45	0.957
+kathrine	47	45	0.957
+lead instructor	47	45	0.957
+katica	47	44	0.936
+spritle racer	47	45	0.957
+divorcee	47	41	0.872
+calamity	47	46	0.979
+kismet	47	40	0.851
+kwesi	47	40	0.851
+sam waters	47	40	0.851
+mystery girl	47	43	0.936
+young grace	47	43	0.936
+tosha	47	44	0.936
+mable	47	41	0.872
+tomoe	47	44	0.936
+beyoncé	47	46	0.979
+home invasion victim	47	45	0.979
+ronda	47	39	0.830
+valley girl	47	46	0.979
+udon	47	46	0.979
+tough girl	47	46	0.979
+une jeune fille	47	46	0.979
+miss taylor	47	46	0.979
+general's wife	47	46	0.979
+kazue	47	46	0.979
+la belle-mère	47	46	0.979
+sarah jane	47	46	0.979
+la duchesse	47	46	0.979
+lady mary crawley	47	46	0.979
+andromeda	47	38	0.830
+lilach	47	46	0.979
+madre superior	47	46	0.979
+mema	47	46	0.979
+mimsy	47	46	0.979
+leta	47	46	0.979
+donna elvira	48	47	0.979
+elegant woman	48	47	0.979
+ginger snap	48	47	0.979
+dietician	48	43	0.896
+la maîtresse	48	47	0.979
+patro	48	45	0.938
+jump rope girl	48	42	0.896
+apollonia	48	47	0.979
+mrs. dixon	48	47	0.979
+marni	48	47	0.979
+mrs. crabtree	48	47	0.979
+ocean	48	43	0.896
+mónika	48	47	0.979
+rut	48	45	0.938
+munni	48	45	0.938
+axelle	48	47	0.979
+shannon beiste	48	47	0.979
+katharine	48	46	0.958
+glinda	48	46	0.958
+rotem	48	44	0.917
+police matron	48	47	0.979
+clotho	48	47	0.979
+pamela anderson	48	42	0.875
+doria	48	42	0.875
+katrien	48	46	0.958
+primrose	48	42	0.875
+verona	48	41	0.875
+jaque	48	44	0.917
+gaya	48	44	0.917
+various character voices	48	40	0.854
+califa	48	44	0.917
+dancing woman	48	45	0.938
+emergency room nurse	48	44	0.917
+starling	48	42	0.875
+roisin	48	46	0.958
+presenter: best actor in a leading role	48	44	0.917
+biyomon	48	46	0.958
+tippi	48	46	0.958
+soubrette	48	46	0.958
+sema	48	46	0.958
+sales woman	48	46	0.958
+young claire	48	46	0.958
+naima	48	46	0.958
+mundi	48	46	0.958
+minori	48	46	0.958
+mayu	48	46	0.958
+chloe waters	48	47	0.979
+vampiress	48	47	0.979
+wilhelmina	48	47	0.979
+woman at table	48	47	0.979
+zsuzsi	48	47	0.979
+crazy woman	48	43	0.917
+tiffani	48	44	0.917
+flipz	48	46	0.958
+corrie	48	46	0.958
+ticket girl	48	47	0.979
+female singer	49	45	0.918
+chika	49	45	0.918
+paro	49	45	0.918
+shiela	49	45	0.918
+charlotte lewis	49	44	0.918
+frigimon	49	45	0.918
+mikaela	49	45	0.918
+sia	49	45	0.918
+female lead	49	42	0.878
+buba	49	45	0.918
+young alice	49	41	0.857
+une enfant	49	46	0.939
+toya	49	44	0.898
+beena	49	48	0.980
+bete	49	48	0.980
+claudie	49	48	0.980
+gioia	49	48	0.980
+glimmer	49	48	0.980
+jiyoung	49	48	0.980
+b.j. walker	49	48	0.980
+julia stone	49	48	0.980
+leelee	49	48	0.980
+luanne	49	48	0.980
+marfa	49	48	0.980
+marka	49	48	0.980
+maternity nurse	49	48	0.980
+mrs. cratchit	49	48	0.980
+kiti	49	48	0.980
+xochitl	49	46	0.959
+renu	49	47	0.959
+lydie	49	47	0.959
+young anna	49	46	0.939
+suzu	49	46	0.939
+party hostess	49	46	0.939
+yukie	49	44	0.898
+femke	49	46	0.939
+bouquet	49	46	0.939
+perle	49	46	0.939
+george sand	49	48	0.980
+une élève	49	48	0.980
+2000-200	49	48	0.980
+laurie morgan	49	47	0.959
+afra	49	48	0.980
+jeune femme	49	47	0.959
+joa	49	47	0.959
+la princesse	49	47	0.959
+mylene	49	48	0.980
+nazan	49	48	0.980
+la dame	49	46	0.939
+shizu	49	44	0.898
+geni	49	44	0.898
+cabaret singer	49	44	0.898
+jaclyn	49	44	0.898
+wisniewska	49	48	0.980
+soeur	49	47	0.980
+reception nurse	49	48	0.980
+lenora	49	47	0.980
+sedef	49	48	0.980
+zdena	49	48	0.980
+cuqui	50	48	0.960
+hippie chick	50	48	0.960
+hippolyta	50	48	0.960
+vampira	50	49	0.980
+inka	50	48	0.960
+karyn	50	49	0.980
+lona	50	48	0.960
+stormer	50	48	0.960
+girl at the party	50	47	0.960
+hotaru	50	48	0.960
+coffee girl	50	48	0.960
+caissière	50	48	0.960
+young elizabeth	50	47	0.940
+juanita ramírez	50	49	0.980
+white girl	50	44	0.900
+player in 'ha-tzehubot'	50	45	0.900
+josy	50	46	0.920
+ninette	50	49	0.980
+maripaz	50	49	0.980
+la paysanne	50	49	0.980
+coat check girl	50	48	0.960
+kissing woman	50	49	0.980
+squaw	50	49	0.980
+ranka	50	44	0.880
+miss kitty	50	44	0.880
+ilaria	50	48	0.960
+lettie	50	48	0.960
+swee'pea	50	49	0.980
+wealthy woman	50	48	0.960
+piyomon	50	49	0.980
+mamiya	50	47	0.940
+empress hysteria	50	49	0.980
+kanae	50	47	0.940
+lotti	50	47	0.940
+baby sitter	50	45	0.900
+cecelia	50	49	0.980
+gardenia	50	45	0.900
+ena	50	49	0.980
+allura	50	49	0.980
+angela williams	50	49	0.980
+annick	50	49	0.980
+harlot	50	45	0.900
+sonographer	50	47	0.940
+deepti	50	49	0.980
+la chica	50	46	0.920
+snooky	50	40	0.820
+emel	50	49	0.980
+kt	50	45	0.900
+lilah	50	46	0.920
+kujaku	51	41	0.804
+married woman	51	49	0.980
+girl on couch	51	46	0.922
+brianne	51	50	0.980
+aase	51	50	0.980
+atsuko	51	50	0.980
+her self	51	43	0.843
+henchwoman	51	49	0.980
+mother in park	51	46	0.902
+adjutant shiima	51	49	0.980
+vizinha	51	50	0.980
+godmother	51	47	0.922
+sheba	51	47	0.922
+lucrezia	51	50	0.980
+hot blonde	51	50	0.980
+mike mccall	51	50	0.980
+gurpreet	51	50	0.980
+celebrity co-host	51	42	0.824
+girl in shower	51	50	0.980
+george fitzgerald	51	50	0.980
+female clerk	51	50	0.980
+danielle lloyd	51	50	0.980
+cindy lee	51	50	0.980
+misako	51	50	0.980
+mrs. sanders	51	50	0.980
+ragnhild	51	50	0.980
+reshma	51	50	0.980
+carol johnson	51	50	0.980
+female agent	51	47	0.922
+leading lady	51	47	0.922
+cardassian computer	51	50	0.980
+shelia	51	47	0.922
+tish	51	47	0.922
+hideko	51	50	0.980
+fortune-teller	51	46	0.902
+neela	51	49	0.961
+blond girl	51	48	0.961
+nermin	51	45	0.882
+pola	51	48	0.941
+mari carmen	51	48	0.941
+kassandra	51	49	0.961
+mirabelle	51	49	0.961
+crona	51	49	0.961
+danka	51	48	0.941
+flirty girl	51	49	0.961
+lillith	51	45	0.902
+sarah palin	51	46	0.902
+weng	51	46	0.902
+conductora	51	45	0.902
+sarah connor	51	49	0.961
+neve	51	48	0.941
+lucy stevens	51	49	0.961
+mariska	52	51	0.981
+yukito tsukishiro	52	51	0.981
+miss clarke	52	51	0.981
+myrto	52	51	0.981
+forewoman	52	51	0.981
+armida	52	51	0.981
+narda	52	51	0.981
+pumo	52	51	0.981
+secretária	52	51	0.981
+shandra	52	51	0.981
+marie dumont	52	51	0.981
+imogene	52	51	0.981
+nobuko	52	49	0.962
+telephonist	52	43	0.827
+sam fox	52	46	0.885
+kayleigh	52	46	0.885
+2012-20	52	51	0.981
+dream woman	52	47	0.904
+jinta hanakari	52	47	0.904
+alex young	52	47	0.904
+iona	52	47	0.904
+marit	52	42	0.808
+pedestrian in park	52	41	0.808
+fat girl	52	48	0.942
+jueza	52	49	0.942
+bijli	52	49	0.962
+alex garrett	52	46	0.885
+susan smith	52	51	0.981
+rumi	52	44	0.865
+azra	52	50	0.962
+hellen	52	50	0.962
+karahashi	52	50	0.962
+letizia	52	50	0.962
+tosca	52	48	0.923
+haruna	52	47	0.923
+mrs. thatcher	52	50	0.962
+phillipa	52	50	0.962
+alex blake	53	48	0.906
+suze	53	52	0.981
+host and sketches	53	46	0.887
+bubbie	53	50	0.943
+ward nurse	53	50	0.943
+vancouver reporter	53	52	0.981
+evangeline	53	51	0.962
+nata	53	48	0.906
+jane andrews	53	51	0.981
+beach babe	53	51	0.962
+makiko	53	51	0.962
+reyhan	53	52	0.981
+peebo	53	49	0.925
+okiku	53	52	0.981
+marie-claire	53	52	0.981
+kurumi	53	52	0.981
+tamayo	53	46	0.868
+hyatt	53	46	0.868
+desire	53	46	0.868
+rica	53	49	0.925
+elissa	53	50	0.943
+bathroom girl	53	49	0.943
+mist	53	49	0.925
+the supremes	53	52	0.981
+suna	53	52	0.981
+sarah jackson	53	52	0.981
+psi	53	52	0.981
+oopsy	53	52	0.981
+oharu	53	52	0.981
+mrs. turtle	53	52	0.981
+michael lai	53	52	0.981
+justin casey	53	52	0.981
+jules carter	53	52	0.981
+jane west	53	52	0.981
+amberley	53	52	0.981
+fie	53	52	0.981
+montserrat	53	44	0.830
+eva maría león jaramillo viuda de zuloaga	53	52	0.981
+fuu	53	52	0.981
+tera	53	51	0.962
+laughing girl	53	49	0.925
+baby emily	53	49	0.925
+babicka	53	52	0.981
+margarete	53	51	0.962
+bomper	53	52	0.981
+bosa	53	52	0.981
+duty nurse	53	52	0.981
+young amanda	53	51	0.962
+catherine hughes	53	52	0.981
+chante	53	52	0.981
+woman at bus stop	53	51	0.962
+sevda	54	52	0.963
+girl in elevator	54	52	0.963
+minka	54	51	0.944
+leia	54	51	0.944
+enrica	54	52	0.963
+dilara	54	52	0.963
+despina	54	52	0.963
+esra	54	51	0.944
+martien	54	52	0.963
+sarah's mother	54	50	0.944
+cody meyers	54	52	0.963
+young emily	54	51	0.944
+marica	54	51	0.944
+airi	54	52	0.963
+sylvi	54	52	0.963
+mikayla	54	51	0.944
+mohini	54	51	0.944
+uciteljica	54	51	0.963
+franchesca	54	53	0.981
+sherrie	54	50	0.926
+perihan	54	53	0.981
+linnea	54	49	0.926
+nirmala	54	53	0.981
+mrs. chambers	54	53	0.981
+mrs. barton	54	53	0.981
+marylin	54	53	0.981
+hysterical woman	54	53	0.981
+girl in nightclub	54	53	0.981
+aunt jane	54	53	0.981
+susa	54	53	0.981
+shanna	54	53	0.981
+girl in pool	54	53	0.981
+red carpet reporter	54	46	0.852
+lone	54	48	0.907
+sihteeri	54	45	0.833
+white swan	54	49	0.907
+woman at door	54	47	0.870
+virág	54	47	0.870
+veera	54	47	0.889
+elvire	55	54	0.982
+stefani	55	48	0.873
+shani	55	46	0.836
+maggi	55	46	0.836
+loni	55	51	0.927
+braut	55	54	0.982
+marjory	55	50	0.927
+dorine	55	54	0.982
+aideen	55	54	0.982
+baby doll	55	50	0.909
+mimí	55	54	0.982
+micchan	55	54	0.982
+liz taylor	55	54	0.982
+asako	55	54	0.982
+gül	55	54	0.982
+giorgia	55	54	0.982
+azafata 1 2	55	54	0.982
+liesl	55	54	0.982
+young jenny	55	53	0.964
+maruska	55	53	0.964
+lyra	55	52	0.945
+miyahara	55	52	0.945
+spokesmodel	55	52	0.945
+jale	55	51	0.945
+verity	55	51	0.945
+vocal student	55	48	0.891
+annelies	55	49	0.891
+cindi	55	53	0.964
+shirl	55	52	0.945
+lexus	55	44	0.818
+maiko	55	53	0.964
+carissa	55	49	0.909
+cecilie	55	53	0.964
+naked woman	55	53	0.964
+shaina	56	55	0.982
+sam goodson	56	55	0.982
+nozomi	56	55	0.982
+margery	56	55	0.982
+lucy snow	56	55	0.982
+locutora	56	55	0.982
+josa	56	55	0.982
+feride	56	55	0.982
+pina	56	54	0.964
+branka	56	55	0.982
+sleeping beauty	56	52	0.929
+l'épicière	56	54	0.964
+zeugin	56	55	0.982
+wonderland	56	55	0.982
+calpurnia	56	55	0.982
+antje	56	55	0.982
+cat lady	56	49	0.875
+mona lisa	56	49	0.875
+goei	56	52	0.929
+girl with dog	56	52	0.929
+roxanna	56	54	0.964
+siv	56	54	0.964
+gel	56	52	0.929
+zoë	56	55	0.982
+bruja	56	50	0.893
+small girl	56	53	0.946
+pelin	56	53	0.946
+luchs	56	53	0.946
+power walker	56	50	0.893
+huckle	56	53	0.946
+female patron	56	53	0.946
+essie	56	53	0.946
+the mermaid	56	49	0.893
+uta	56	46	0.839
+coffee shop waitress	56	54	0.964
+girl at the bar	56	53	0.946
+denny miller	56	54	0.964
+dilek	56	54	0.964
+kalyani	56	53	0.946
+mother of the bride	56	54	0.964
+celestina	56	54	0.964
+yoruichi shihoin	56	54	0.964
+goneril	56	54	0.964
+hisako	56	54	0.964
+bebot	56	54	0.964
+victorine	56	55	0.982
+the farmer's daughter	56	54	0.964
+prima	56	49	0.875
+carol davis	57	56	0.982
+estrellita	57	56	0.982
+female passenger	57	53	0.930
+hexe	57	53	0.930
+snoot	57	53	0.930
+the hostess	57	53	0.930
+woman in line	57	53	0.930
+kenzie	57	47	0.842
+danseres	57	56	0.982
+risa	57	54	0.947
+katarzyna	57	56	0.982
+ice cream girl	57	54	0.947
+bambina	57	54	0.947
+the girls	57	55	0.982
+weronika	57	56	0.982
+woman on beach	57	54	0.947
+barbra	57	55	0.965
+buran	57	55	0.965
+contributing correspondent	57	55	0.965
+paris hilton	57	50	0.877
+loran	57	50	0.877
+kaveri	57	45	0.807
+presenter: best actor in a supporting role	57	46	0.807
+backing singer	57	50	0.895
+fee	57	51	0.895
+cavewoman	57	49	0.860
+ludi	57	52	0.912
+janaki	57	51	0.912
+voisine	57	55	0.965
+surfer girl	57	55	0.965
+seka	57	55	0.965
+massage girl	57	55	0.965
+marah	57	55	0.965
+elen	57	55	0.965
+waninoko	57	56	0.982
+atlanta	57	54	0.947
+tracy-ann oberman	57	56	0.982
+sue ellen	57	56	0.982
+thuli	57	56	0.982
+mocchi	57	56	0.982
+kayoko	57	56	0.982
+l'habilleuse	57	56	0.982
+kelly o'rourke	57	56	0.982
+fashionista	57	46	0.825
+mrs. castillo	57	56	0.982
+blind girl	57	54	0.947
+icey	57	56	0.982
+aisa	57	56	0.982
+harue	57	56	0.982
+mrs. raven	57	56	0.982
+mrs. ryan	57	56	0.982
+loredana	57	56	0.982
+girl in dream	57	56	0.982
+farm girl	57	56	0.982
+stephie	57	56	0.982
+ciel	57	54	0.947
+reyna	58	56	0.966
+grade girl	58	57	0.983
+yue	58	54	0.948
+little fish	58	55	0.948
+dadi	58	49	0.845
+chanteuse	58	57	0.983
+barbi	58	53	0.914
+frankie stone	58	53	0.914
+sola	58	53	0.914
+emy	58	55	0.948
+dr. velez	58	57	0.983
+emerald	58	55	0.948
+maho	58	54	0.931
+bearded lady	58	49	0.862
+doggy	58	50	0.862
+elda	58	55	0.948
+antigone	58	55	0.948
+delivery girl	58	54	0.931
+bright eyes	58	51	0.879
+muchacha	58	54	0.931
+geisha girl	58	57	0.983
+ring card girl	58	54	0.948
+insp. frazer	58	57	0.983
+misuzu	58	56	0.966
+girl on train	58	56	0.966
+pierrette	58	57	0.983
+stana	58	57	0.983
+nurse mary	58	57	0.983
+ligia	58	56	0.966
+léone	58	57	0.983
+darling	58	47	0.810
+vittoria	58	57	0.983
+dr. caspary	58	56	0.966
+nichole	58	57	0.983
+mrs. finch	58	57	0.983
+miina	58	57	0.983
+la réceptionniste	58	57	0.983
+mayka	58	57	0.983
+female vocalist	58	56	0.966
+maryann	58	56	0.966
+arkana	59	54	0.915
+sekretær	59	54	0.915
+woman on the street	59	56	0.949
+woman in store	59	57	0.966
+temptress	59	54	0.915
+paige turner	59	57	0.966
+jaya	59	50	0.847
+aunt hilda	59	56	0.949
+vanka	59	51	0.864
+baby girl	59	51	0.864
+matylda	59	56	0.949
+club singer	59	47	0.814
+tsune	59	55	0.932
+contessa	59	55	0.932
+kanga	59	55	0.932
+starla	59	55	0.932
+a girl	59	55	0.932
+mary jo	59	57	0.966
+nai	59	50	0.847
+biddy	59	56	0.949
+christel	59	57	0.966
+sj	59	58	0.983
+albertine	59	57	0.966
+gang girl	59	57	0.983
+milf	59	58	0.983
+mel bennett	59	58	0.983
+onyx club dancer	59	57	0.983
+rosarito uribe	59	57	0.983
+salina	59	58	0.983
+agony aunt	59	58	0.983
+michael's mother	59	56	0.966
+marilou	59	56	0.966
+frau schröder	59	58	0.983
+ewelina	59	57	0.966
+darna	59	57	0.966
+divya	59	57	0.966
+mikela	59	57	0.966
+marimba	59	57	0.966
+little girl's mother	59	57	0.966
+grand-mère	60	59	0.983
+bankangestellte	60	59	0.983
+bet	60	57	0.950
+baby shower guest	60	56	0.950
+sibel	60	56	0.950
+miss marple	60	57	0.967
+lady with dog	60	57	0.950
+nonna	60	58	0.967
+beauty pageant contestant	60	59	0.983
+aunt sarah	60	56	0.950
+neelam	60	58	0.967
+convenience store manager	60	50	0.833
+barbro	60	59	0.983
+geena	60	57	0.950
+geetha	60	59	0.983
+suzanna	60	58	0.967
+jasna	60	59	0.983
+mexican girl	60	57	0.950
+segretaria	60	58	0.967
+bille	60	55	0.917
+rhapsody	60	57	0.950
+dafi	60	58	0.967
+la soeur	60	58	0.967
+hina	60	58	0.967
+zulma	60	59	0.983
+sae	60	59	0.983
+mazie	60	56	0.933
+nettie	60	59	0.983
+nefertiti	60	59	0.983
+staci	60	58	0.967
+shanta	60	58	0.967
+rich lady	60	58	0.967
+gaëlle	60	58	0.967
+ronnie cooke	60	59	0.983
+female bartender	60	58	0.967
+ragazza	61	56	0.918
+joann	61	55	0.918
+ernestina	61	60	0.984
+harpy	61	60	0.984
+asya	61	60	0.984
+märta	61	60	0.984
+nanako	61	60	0.984
+shippo	61	60	0.984
+natsuko	61	59	0.967
+crissy	61	59	0.967
+neighbor woman	61	57	0.934
+mrs. wong	61	59	0.967
+anny	61	58	0.951
+amie	61	53	0.869
+lifestyle expert	61	49	0.820
+marysia	61	59	0.967
+devojka	61	59	0.967
+feminist	62	58	0.935
+cristina carmona	62	60	0.984
+winona	62	59	0.952
+libertad	62	57	0.919
+girl in street	62	60	0.968
+indu	62	60	0.968
+edina	62	60	0.968
+circe	62	57	0.919
+young jane	62	59	0.952
+fan girl	62	60	0.984
+freja	62	53	0.855
+ising	62	61	0.984
+jill smith	62	61	0.984
+käthe	62	61	0.984
+marraine	62	61	0.984
+mary lee	62	61	0.984
+moune	62	61	0.984
+mrs. nolan	62	61	0.984
+alessia	62	61	0.984
+brothel girl	62	57	0.935
+paige collins	62	61	0.984
+cameriera	62	60	0.968
+queen of hearts	62	54	0.871
+osteoarchaeologist	62	59	0.952
+alberta	62	59	0.952
+hipster girl	62	52	0.839
+dionne	62	59	0.952
+chantel	62	55	0.887
+tuesday	62	55	0.887
+princess leia	62	55	0.887
+baka	62	50	0.806
+jenifer	62	60	0.968
+miss	62	60	0.968
+sharona	62	60	0.968
+cherise	62	60	0.968
+joelle	62	60	0.968
+mylène	63	62	0.984
+lime	63	58	0.921
+tiff	63	57	0.921
+ayten	63	62	0.984
+sarah jones	63	58	0.937
+kiyo	63	53	0.841
+female voice	63	58	0.937
+pil	63	59	0.937
+sweetie	63	52	0.825
+beauty contestant	63	62	0.984
+medical contributor	63	53	0.857
+eurydice	63	55	0.873
+old crone	63	57	0.905
+trophy girl	63	62	0.984
+tomiko	63	62	0.984
+aisling	63	62	0.984
+cubbi gummi	63	62	0.984
+jazmin	63	62	0.984
+damsel in distress	63	59	0.937
+tetka	63	62	0.984
+selina kyle	63	62	0.984
+rosaria	63	62	0.984
+mrs. richards	63	62	0.984
+cate	63	56	0.905
+allyson	63	57	0.905
+raisa	63	60	0.968
+ronja	63	61	0.968
+frannie	63	61	0.968
+shizuko	63	61	0.968
+gerry davis	63	60	0.952
+carmi	63	61	0.968
+carmella	63	61	0.968
+biker girl	63	61	0.968
+makeup expert	64	63	0.984
+clio	64	60	0.938
+jodie morton	64	63	0.984
+edda	64	63	0.984
+beattie	64	57	0.891
+disco girl	64	60	0.938
+tanisha	64	60	0.938
+mrs. lane	64	63	0.984
+galya	64	61	0.969
+tally	64	53	0.828
+agnese	64	63	0.984
+samara	64	58	0.906
+foster mother	64	59	0.922
+mrs. banks	64	63	0.984
+lara croft	64	62	0.969
+lap dancer	64	62	0.969
+jeune fille	64	62	0.969
+trista	64	62	0.969
+female newscaster	64	62	0.969
+corista	64	52	0.813
+tisha	64	59	0.922
+dorotea	64	61	0.953
+mele	64	62	0.969
+miss smith	64	60	0.938
+kiku	64	59	0.922
+idol	64	60	0.938
+yola	64	63	0.984
+uranus	64	59	0.922
+ine	65	64	0.985
+gräfin	65	64	0.985
+liane	65	64	0.985
+mary o'connor	65	64	0.985
+mirjam	65	64	0.985
+malle	65	62	0.954
+new girl	65	58	0.892
+nurse nancy	65	64	0.985
+shayla	65	62	0.954
+rhiannon	65	59	0.908
+elspeth	65	64	0.985
+dafni	65	64	0.985
+bori	65	64	0.985
+catherine peyret	65	64	0.985
+arisa	65	64	0.985
+aksal	65	64	0.985
+melania	65	64	0.985
+trixi	65	64	0.985
+osen	65	64	0.985
+hula hoop girl	65	61	0.938
+paixão	65	62	0.954
+pénélope	65	64	0.985
+la pharmacienne	65	63	0.969
+genkai	65	63	0.969
+aunt sally	65	63	0.969
+aunt helen	65	63	0.969
+moegi	65	53	0.815
+maj	65	63	0.969
+sana	65	63	0.969
+vendeuse	65	63	0.969
+michela	65	63	0.969
+omitsu	65	64	0.985
+raimunda	65	64	0.985
+skyler white	65	64	0.985
+nao	65	56	0.862
+colon	65	54	0.831
+lua	66	60	0.909
+lidija	66	65	0.985
+kumiko	66	65	0.985
+sam mcgee	66	63	0.955
+armanda	66	65	0.985
+hannah miller	66	65	0.985
+gracia	66	65	0.985
+daina	66	65	0.985
+southern belle	66	65	0.985
+eliane	66	65	0.985
+candy striper	66	65	0.985
+aunt lucy	66	65	0.985
+hermia	66	65	0.985
+japanese woman	66	65	0.985
+old maid	66	63	0.955
+alexandria	66	60	0.909
+heli	66	59	0.894
+raine	66	54	0.833
+magenta	66	59	0.909
+benedetta	66	64	0.970
+joan of arc	66	62	0.939
+keira	66	62	0.939
+leïla	66	64	0.970
+nick's mom	66	64	0.970
+female teacher	66	64	0.970
+bikini babe	66	63	0.970
+dental assistant	66	60	0.924
+madoka	66	62	0.939
+gold digger	66	52	0.803
+tyra	67	63	0.940
+filó	67	63	0.940
+setsuko	67	66	0.985
+tinay	67	66	0.985
+toinette	67	66	0.985
+an	67	56	0.851
+segment presenter	67	55	0.836
+zsa zsa	67	66	0.985
+financial correspondent	67	65	0.985
+farmer's daughter	67	65	0.970
+flower lady	67	65	0.970
+bonita	67	65	0.970
+yôko	67	66	0.985
+mimi labonq	67	66	0.985
+pille	67	57	0.851
+princess pea	67	66	0.985
+uschi sobotta	67	65	0.970
+tart	67	64	0.955
+grima	67	65	0.970
+nicoletta	67	64	0.955
+lavender	67	60	0.896
+the hooker	67	64	0.955
+tamika	67	60	0.896
+two-tone	67	64	0.955
+brita	67	66	0.985
+samia	67	66	0.985
+frédérique	67	66	0.985
+la reine	67	66	0.985
+merle jones	67	66	0.985
+randy wright	67	66	0.985
+mása	67	66	0.985
+olympe	67	66	0.985
+lata	67	65	0.970
+woman on bench	67	58	0.866
+izzi	67	65	0.970
+cecéu	67	66	0.985
+mère	67	64	0.970
+dr. haller	68	65	0.956
+strudel	68	66	0.971
+are	68	62	0.912
+young kate	68	65	0.956
+girl's mother	68	66	0.971
+elevator girl	68	59	0.882
+cath	68	66	0.971
+anju	68	66	0.971
+eren	68	59	0.868
+leen	68	57	0.838
+high priestess	68	62	0.926
+running girl	68	63	0.926
+girl on bike	68	63	0.926
+tali	68	61	0.897
+woman driver	68	63	0.926
+harpist	68	55	0.809
+kendra's friend	68	61	0.912
+annabella	68	65	0.971
+zaida	68	66	0.971
+mrs. clarke	68	67	0.985
+toshiko	68	67	0.985
+hag	68	58	0.853
+seductress	68	66	0.985
+mary phillips	68	67	0.985
+loes	68	67	0.985
+lady customer	68	67	0.985
+ivonne	68	67	0.985
+irén	68	67	0.985
+cheer bear	68	67	0.985
+queen anne	68	67	0.985
+arianne	68	67	0.985
+sydney fox	68	67	0.985
+school's manager	68	58	0.868
+la danseuse	68	64	0.941
+schauspielerin	69	66	0.957
+tammi	69	66	0.971
+lyuba	69	66	0.957
+female inmate	69	66	0.971
+vendedora	69	67	0.971
+rebecka	69	67	0.971
+nadira	69	67	0.971
+rocio	69	67	0.971
+melody jones	69	67	0.971
+caitlyn	69	62	0.899
+gwyneth	69	66	0.957
+l'hôtesse	69	67	0.971
+secrétaire	69	59	0.855
+female nurse	69	67	0.971
+billy's mom	69	67	0.971
+lingerie model	69	66	0.957
+dorinda	69	68	0.986
+hula dancer	69	60	0.870
+drusilla	69	68	0.986
+female police officer	69	68	0.986
+marie-france	69	68	0.986
+marlène	69	68	0.986
+middle aged woman	69	68	0.986
+mrs. douglas	69	68	0.986
+mrs. singh	69	68	0.986
+reika	69	68	0.986
+neighbor lady	69	64	0.928
+sasha brown	69	68	0.986
+zofe	69	68	0.986
+lovely	69	59	0.855
+amy szalinski	69	67	0.986
+taylor jones	69	66	0.957
+isabell	69	65	0.942
+lyndsey	69	65	0.942
+kavita	69	65	0.942
+dorothy gale	69	68	0.986
+yelena	69	68	0.986
+becas	69	62	0.899
+coffee shop girl	70	61	0.871
+goddess	70	69	0.986
+eduarda	70	68	0.986
+young mary	70	68	0.986
+abigail adams	70	69	0.986
+lucilla	70	69	0.986
+girl at pool	70	69	0.986
+hermana	70	62	0.900
+girl on phone	70	66	0.943
+kamla	70	67	0.957
+mascha	70	67	0.957
+kriminalkommissarin julia marschall	70	68	0.971
+wood sprouts county troop	70	68	0.971
+mary todd lincoln	70	68	0.971
+mrs. bates	70	68	0.971
+spanish girl	70	68	0.971
+kiara	70	66	0.957
+kalina	70	62	0.886
+american girl	70	69	0.986
+dee thomas	70	69	0.986
+pucca	71	70	0.986
+toula	71	70	0.986
+pageant girl	71	70	0.986
+anouk	71	67	0.944
+ashlee	71	68	0.958
+mrs. simmons	71	70	0.986
+mitsu	71	66	0.930
+satu	71	67	0.944
+gretta	71	68	0.958
+mei ling	71	70	0.986
+frau müller	71	70	0.986
+addy	71	59	0.831
+church woman	71	70	0.986
+nataly	71	70	0.986
+melodia	71	70	0.986
+glory	71	66	0.930
+dependienta	71	69	0.972
+shakira	71	69	0.972
+azusa	71	68	0.958
+chardonnay	71	68	0.958
+dragana	71	68	0.958
+diwata	71	64	0.901
+wench	71	70	0.986
+karoline	71	69	0.972
+jackie taylor	71	69	0.972
+ballet teacher	71	59	0.845
+tinkerbell	71	67	0.944
+grace bailey	72	71	0.986
+sis	72	70	0.972
+younger sister	72	65	0.903
+adina	72	70	0.972
+heike	72	71	0.986
+benita	72	70	0.972
+olya	72	70	0.972
+hildy	72	70	0.972
+kyla	72	62	0.861
+la cuisinière	72	71	0.986
+mokuba kaiba	72	71	0.986
+tea lady	72	71	0.986
+chanda	72	61	0.847
+verpleegkundige	72	61	0.847
+casta	72	69	0.958
+stacy jones	72	71	0.986
+alia	72	65	0.917
+susan walker	72	69	0.958
+bosley	72	64	0.889
+cavegirl	72	69	0.958
+cosette	72	70	0.972
+the empress	72	71	0.986
+esmerelda	72	70	0.972
+sweetheart	72	59	0.833
+anais	72	68	0.958
+asami	72	64	0.889
+nandini	72	70	0.986
+tiger lily	72	71	0.986
+line dancer	73	63	0.863
+mikoto	73	71	0.973
+ivanka	73	71	0.973
+nicole martin	73	71	0.973
+upa	73	68	0.932
+aditi	73	71	0.973
+abril	73	71	0.973
+fantasia	73	68	0.932
+singing girl	73	70	0.973
+lausanne	73	69	0.945
+sjuksköterska	73	71	0.973
+alex wilson	73	64	0.877
+ayano	73	71	0.973
+raina	73	68	0.932
+jada	73	67	0.918
+other woman	73	69	0.959
+devi	73	67	0.918
+blind woman	73	70	0.959
+joke	73	61	0.836
+sina	73	60	0.836
+gali	73	60	0.822
+marceline	73	70	0.959
+lut	73	70	0.959
+muskaan	73	72	0.986
+aleksandra	73	72	0.986
+the old woman	73	70	0.959
+rania	73	72	0.986
+gab	74	70	0.946
+jaburu tribe	74	71	0.959
+kes	74	70	0.946
+aliki	74	71	0.959
+babou	74	71	0.959
+dita	74	70	0.959
+marly	74	71	0.959
+harumi	74	70	0.946
+anett	74	73	0.986
+anchor woman	74	73	0.986
+neném	74	67	0.905
+julianne	74	67	0.905
+lalit	74	66	0.892
+lady jaye	74	71	0.959
+sapna	74	73	0.986
+rani kapoor	74	73	0.986
+ling woo	74	73	0.986
+la baronne	74	73	0.986
+faye valentine	74	73	0.986
+shriek	74	70	0.946
+hedda	74	71	0.959
+makeup girl	74	70	0.959
+cafe girl	74	67	0.919
+female fan	74	72	0.973
+mamman	74	72	0.973
+selin	74	72	0.973
+servant girl	74	72	0.973
+anika	74	71	0.973
+dorina	74	72	0.973
+leslie bennett	74	72	0.973
+asli	74	72	0.973
+betti	74	69	0.932
+mrs. porter	75	74	0.987
+bitsy	75	68	0.920
+cally	75	69	0.920
+moya	75	69	0.920
+usha	75	74	0.987
+prue	75	74	0.987
+paprika	75	73	0.973
+novinarka	75	74	0.987
+lady in red	75	68	0.920
+bulbasaur	75	73	0.973
+regine	75	73	0.973
+ex-wife	75	73	0.973
+pioneer woman	75	74	0.987
+altagracia	75	74	0.987
+caillou	75	74	0.987
+hella	75	74	0.987
+catholic school girl	75	73	0.973
+giada	75	74	0.987
+playmate	75	68	0.907
+gidget	75	73	0.973
+ayesha	75	72	0.960
+bridie	75	72	0.960
+foo	75	63	0.840
+chatterbox	75	72	0.960
+morag	75	72	0.960
+kinsey	75	66	0.880
+desk nurse	75	72	0.960
+relationship expert	75	62	0.827
+hiromi	75	63	0.853
+tika	75	70	0.933
+shirin	75	72	0.960
+maron	76	63	0.829
+lady of the night	76	71	0.934
+binnie	76	61	0.803
+young goku	76	75	0.987
+the nun	76	71	0.934
+timmy turner	76	75	0.987
+emmi	76	66	0.868
+dilma	76	75	0.987
+becka	76	75	0.987
+tulip	76	68	0.895
+cammy	76	67	0.895
+angeline	76	74	0.974
+jocelyne	76	74	0.974
+shiori	76	74	0.974
+video girl	76	74	0.974
+ziegfeld girl	76	74	0.974
+babet	76	64	0.842
+moll	76	64	0.842
+kia	76	64	0.855
+vida	76	65	0.868
+shiho	76	75	0.987
+mrs. bridges	76	75	0.987
+max black	76	74	0.974
+modell	76	73	0.961
+misaki	76	68	0.908
+mandi	76	69	0.908
+virgin mary	77	71	0.935
+bernarda	77	76	0.987
+fernande	77	76	0.987
+iben	77	76	0.987
+luleå	77	76	0.987
+rocky blue	77	76	0.987
+ericka	77	72	0.948
+peasant girl	77	73	0.948
+teresita	77	76	0.987
+damsel	77	68	0.883
+shira	77	74	0.961
+tonia	77	74	0.961
+woman in white	77	74	0.961
+aunty	77	72	0.935
+segment "next question"	77	75	0.974
+jytte	77	75	0.974
+queen elizabeth ii	77	69	0.896
+marce	77	73	0.948
+jokey smurf	77	73	0.948
+the housekeeper	77	71	0.922
+mrs. marshall	77	76	0.987
+young mom	77	74	0.974
+july	77	65	0.857
+female model	77	74	0.974
+vered	77	75	0.974
+zahra	78	72	0.923
+conchi	78	64	0.821
+margret	78	75	0.962
+leonie löwenherz	78	64	0.833
+sales person	78	65	0.833
+tiana	78	72	0.923
+attractive girl	78	76	0.974
+satsuki	78	77	0.987
+vogue	78	76	0.974
+ashleigh	78	76	0.974
+olympia	78	73	0.936
+hot tub girl	78	77	0.987
+beatrix	78	75	0.962
+woman shopper	78	74	0.949
+pernille	78	77	0.987
+german woman	78	77	0.987
+inma	78	77	0.987
+kica	78	77	0.987
+mrs. armitage	78	77	0.987
+nurse betty	78	77	0.987
+ceci	78	76	0.974
+mexican woman	79	77	0.975
+zodiac	79	68	0.861
+gym girl	79	73	0.924
+officer jenny	79	77	0.975
+goldilocks	79	67	0.848
+rezeptionistin	79	78	0.987
+borborema	79	78	0.987
+farmor	79	78	0.987
+mahogany	79	78	0.987
+yasur tribe	79	76	0.975
+virtudes	79	78	0.987
+chikorita	79	77	0.975
+woman in window	79	78	0.987
+the mistress	79	76	0.975
+bessy	79	76	0.975
+dolly dealer	79	76	0.975
+woman in bed	79	78	0.987
+nightshade	79	72	0.911
+pregnant lady	79	77	0.975
+imelda	79	76	0.962
+the grandmother	79	72	0.911
+radhika	79	76	0.962
+halima	79	76	0.962
+karima	79	75	0.949
+brie	79	76	0.962
+champa	79	75	0.949
+olivera	79	74	0.937
+jara	79	74	0.937
+dama	79	74	0.937
+neha	80	76	0.950
+kikay	80	78	0.975
+ej	80	65	0.813
+or nurse	80	72	0.900
+tamiko	80	77	0.963
+ceylan	80	77	0.963
+jubilee	80	72	0.900
+jule	80	66	0.825
+briana	80	75	0.950
+factory girl	80	75	0.950
+cabaret dancer	80	74	0.925
+hen	80	70	0.875
+magic voice	80	70	0.875
+jemma	80	78	0.975
+kanako	80	78	0.975
+avril	80	72	0.900
+heloise	80	78	0.975
+maryanne	80	77	0.963
+yulya	80	78	0.987
+roopa	80	78	0.975
+sunny lee	80	79	0.988
+nursing sister	80	78	0.987
+harriett	80	79	0.988
+javiera	80	79	0.988
+amy rose	80	79	0.988
+mrs. james	80	79	0.988
+lissette	80	79	0.988
+lucy van pelt	80	79	0.988
+zana	80	72	0.912
+brigit	80	79	0.988
+mrs. potter	81	78	0.963
+nerea	81	78	0.963
+mrs. hamilton	81	80	0.988
+russian woman	81	80	0.988
+althea	81	80	0.988
+youth background	81	79	0.975
+drunk woman	81	79	0.975
+nela	81	78	0.975
+indira	81	79	0.975
+sister maria	81	79	0.975
+magd	81	80	0.988
+chiquita	81	78	0.963
+older sister	81	75	0.926
+bärbel	81	80	0.988
+anabel	81	79	0.975
+noelia	81	80	0.988
+jyoti	81	72	0.889
+hermine	81	78	0.963
+yuriko	81	80	0.988
+mystique	81	76	0.938
+rhea	81	76	0.938
+online host	81	72	0.889
+sizzle	81	78	0.963
+jayne	81	77	0.951
+tatyana	81	80	0.988
+financial editor	81	76	0.938
+nado	81	77	0.951
+mambo	81	66	0.815
+mille	81	76	0.938
+savitri	82	81	0.988
+mezzo-soprano	82	81	0.988
+ornela	82	81	0.988
+dona	82	78	0.963
+audition girl	82	79	0.963
+meg mackenzie	82	73	0.890
+rich woman	82	77	0.939
+miyako	82	72	0.878
+evil-lyn	82	79	0.963
+kimiko	82	79	0.963
+kaja	82	75	0.915
+lies	82	81	0.988
+chiana	82	80	0.976
+patience	82	74	0.902
+alex mack	82	80	0.976
+lore	83	74	0.904
+billi	83	80	0.964
+girl in cafe	83	80	0.976
+oya	83	80	0.976
+female prisoner	83	79	0.964
+une fille	83	81	0.976
+sales girl	83	81	0.976
+nyssa	83	81	0.976
+nonne	83	81	0.976
+sparkle	83	75	0.904
+mamen	83	82	0.988
+mrs. chen	83	81	0.976
+jack's mother	83	82	0.988
+kaylee	83	79	0.964
+actriz	83	81	0.976
+mrs. bailey	83	82	0.988
+doctor's wife	83	81	0.976
+marianita	83	82	0.988
+sorceress	83	79	0.952
+fox news anchor	83	71	0.855
+lolly	83	71	0.855
+nurse jill	83	82	0.988
+oyuki	83	82	0.988
+lorie	83	80	0.964
+beauty expert	83	74	0.892
+eliana	83	80	0.964
+maryam	83	75	0.916
+reese williams	83	82	0.988
+golddigger	83	77	0.928
+mana	83	75	0.904
+francie	83	69	0.831
+sonsoles	83	82	0.988
+go go dancer	83	66	0.807
+asistenta	84	82	0.976
+jacqui	84	78	0.929
+mrs. riley	84	68	0.810
+princess peach	84	80	0.952
+gypsy girl	84	82	0.976
+nola	84	78	0.929
+farida	84	82	0.976
+aoi	84	78	0.929
+vikki	84	77	0.917
+ama	84	70	0.833
+klaudia	84	81	0.964
+woman in red	84	74	0.893
+ece	84	81	0.964
+pizza girl	84	79	0.940
+tonette	84	81	0.964
+female voices	84	83	0.988
+anneli	84	83	0.988
+zuster	84	83	0.988
+mrs. harrison	84	83	0.988
+sophie wong	84	83	0.988
+niece	84	80	0.952
+sunita	84	83	0.988
+malu	84	76	0.905
+lady jane	84	83	0.988
+anne marie	85	82	0.965
+brittney	85	77	0.906
+bardame	85	82	0.965
+navi	85	78	0.918
+lace	85	77	0.906
+madrina	85	82	0.965
+eva braun	85	82	0.965
+nives	85	84	0.988
+kandis	85	74	0.871
+nalva	85	84	0.988
+infermiera	85	84	0.988
+eliska	85	84	0.988
+adrianna	85	84	0.988
+yumiko	85	84	0.988
+velvet	85	75	0.882
+soundbites	85	72	0.859
+bedienung	85	80	0.941
+pinar	85	84	0.988
+kimmie	85	82	0.976
+cathie	85	82	0.976
+nella	85	82	0.965
+cayetana	85	79	0.929
+ludmilla	86	85	0.988
+laverne	86	78	0.907
+young jackie	86	80	0.930
+lotus	86	77	0.895
+padma	86	85	0.988
+bette	86	85	0.988
+mrs. fletcher	86	85	0.988
+mrs. betty slocombe	86	85	0.988
+bossy	86	83	0.965
+mary's mother	86	84	0.977
+vani	86	81	0.942
+chie	86	80	0.930
+mammy	86	83	0.965
+cheri	86	69	0.814
+siu	86	83	0.965
+young nurse	86	83	0.965
+the stenographer	86	83	0.965
+street girl	86	82	0.953
+brigid	86	84	0.977
+susannah	86	84	0.977
+frau weber	86	83	0.977
+poison ivy	87	84	0.966
+the aunt	87	81	0.931
+regional presenter	87	84	0.966
+hetty	87	84	0.977
+vedette	87	85	0.977
+penélope	87	85	0.977
+kamilla	87	86	0.989
+jilly	87	75	0.862
+danai	87	82	0.943
+mieke	87	86	0.989
+usherette	87	86	0.989
+homeless girl	87	81	0.931
+asian girl	87	77	0.885
+maman	87	82	0.954
+ala	87	84	0.966
+suria	88	87	0.989
+trees	88	73	0.841
+vampire girl	88	86	0.977
+drink server	88	86	0.977
+musica	88	86	0.977
+ariana	88	87	0.989
+beverly jackson	88	87	0.989
+directora	88	87	0.989
+ebru	88	87	0.989
+jirina	88	87	0.989
+shabnam	88	87	0.989
+von ryan	88	87	0.989
+nazz	88	87	0.989
+nele	88	84	0.955
+jules callaghan	88	75	0.852
+agent k	88	75	0.852
+female patient	88	83	0.955
+tula	88	79	0.898
+reba	88	81	0.920
+flapper	88	82	0.932
+sinead	88	84	0.966
+nazli	88	85	0.966
+macha	88	85	0.966
+porn actress	88	85	0.977
+nessa	88	83	0.955
+kumi	88	85	0.966
+aunt martha	88	85	0.966
+succubus	88	85	0.966
+geri	89	71	0.809
+pole dancer	89	86	0.966
+yoga girl	89	78	0.888
+lucero	89	79	0.888
+janna	89	85	0.955
+keri	89	85	0.955
+woman on phone	89	86	0.966
+bonnie lockhart	89	88	0.989
+popular girl	89	85	0.955
+my	89	88	0.989
+köchin	89	88	0.989
+kerri	89	79	0.899
+court lady	89	87	0.978
+daria morgendorffer	89	88	0.989
+Åsa	89	88	0.989
+mrs. parsons	89	87	0.978
+wall street analyst	89	88	0.989
+girl in restaurant	89	86	0.978
+caprice	89	81	0.910
+dia	89	80	0.910
+asian woman	89	83	0.944
+francoise	90	80	0.889
+magnolia	90	87	0.967
+rie	90	88	0.978
+girlie	90	88	0.978
+admitting nurse	90	88	0.978
+tine	90	88	0.978
+officer aeryn sun	90	88	0.978
+concubine	90	83	0.922
+yukiko	90	87	0.967
+puja	90	87	0.967
+hulda	90	88	0.989
+national news anchor	90	83	0.922
+jazz singer	90	73	0.822
+woman in pub	90	89	0.989
+resi	90	89	0.989
+katina	90	89	0.989
+queen elizabeth i	90	89	0.989
+la gouvernante	90	89	0.989
+magician's assistant	90	80	0.889
+calliope	90	87	0.967
+lucretia	90	86	0.956
+dale arden	90	89	0.989
+chiaki	90	84	0.933
+sandhya	91	89	0.978
+kayo	91	81	0.890
+dory	91	79	0.879
+orfe	91	87	0.956
+beverley	91	87	0.956
+domingas	91	90	0.989
+sie	91	87	0.956
+boy's mother	91	87	0.956
+bar singer	91	73	0.802
+zimmermädchen	91	90	0.989
+receptioniste	91	90	0.989
+deidre	91	90	0.989
+coralie	91	90	0.989
+katinka	91	90	0.989
+hatice	92	90	0.978
+dena	92	90	0.978
+bad girl	92	86	0.946
+addie	92	77	0.837
+andie	92	81	0.891
+meagan	92	83	0.913
+yui	92	88	0.957
+margara	92	91	0.989
+mireia	92	91	0.989
+hannelore	92	91	0.989
+elyse	92	91	0.989
+shona	92	89	0.967
+anciana	92	91	0.989
+sachi	92	87	0.946
+sheela	92	91	0.989
+amma	92	86	0.935
+italian woman	92	91	0.989
+sila	93	81	0.882
+tweak	93	87	0.946
+bar maid	93	83	0.903
+the prostitute	93	85	0.925
+bente	93	89	0.957
+woman in black	93	87	0.935
+tawny	93	91	0.978
+david's mother	93	88	0.957
+milady	93	91	0.978
+sister agnes	93	91	0.978
+elis	93	79	0.849
+haruko	93	91	0.978
+kagura	93	82	0.882
+woman in cafe	93	88	0.957
+palmon	93	92	0.989
+hannah wilson	93	92	0.989
+sister theresa	93	92	0.989
+vika	93	88	0.957
+alli	93	89	0.968
+reena	93	89	0.968
+princess toadstool	93	92	0.989
+princess diana	94	92	0.979
+john's wife	94	92	0.979
+mrs. edwards	94	91	0.968
+rapunzel	94	91	0.968
+the other woman	94	91	0.968
+miyu	94	93	0.989
+catty	94	93	0.989
+melba	94	93	0.989
+sueli	94	93	0.989
+la boulangère	94	93	0.989
+engracia	94	93	0.989
+jay copeland	94	93	0.989
+max goof	94	80	0.851
+michelle dubois	94	93	0.989
+ute	94	89	0.947
+maritza	94	93	0.989
+galina	94	92	0.979
+widget	94	77	0.819
+novia	94	92	0.979
+ylva	94	93	0.989
+veena	94	93	0.989
+middle-aged woman	94	87	0.936
+mrs. peterson	94	92	0.979
+girl on bus	95	92	0.968
+kana	95	89	0.937
+dienstmädchen	95	94	0.989
+akane	95	94	0.989
+spice girls	95	91	0.958
+mystery woman	95	90	0.958
+rayna	95	86	0.916
+elba	95	93	0.979
+sagrario	95	93	0.979
+eugénie	95	92	0.979
+shop girl	95	92	0.968
+ayumi	95	92	0.968
+aunt mary	95	92	0.968
+joey mcdonald	95	91	0.958
+little red riding hood	95	84	0.884
+the young woman	96	85	0.885
+omi	96	82	0.865
+nini	96	82	0.865
+mam	96	85	0.885
+checkout girl	96	94	0.990
+cat valentine	96	94	0.990
+zandra	96	95	0.990
+wheezie	96	95	0.990
+mrs. moore	96	95	0.990
+mrs. crawford	96	95	0.990
+eulalia	96	95	0.990
+letty	96	94	0.979
+evi	96	94	0.979
+chinese girl	96	93	0.969
+lillie	96	86	0.896
+fluttershy	96	91	0.948
+soo	96	82	0.854
+mrs. benson	96	95	0.990
+mags	97	92	0.948
+cafe waitress	97	92	0.948
+toot	97	88	0.907
+aina	97	94	0.969
+bijou	97	82	0.856
+nanna	97	88	0.918
+matka	97	94	0.969
+deema	97	95	0.979
+debutante	97	95	0.979
+kathrin	97	95	0.979
+food stylist	97	79	0.814
+calley	97	92	0.948
+o.r. nurse	97	93	0.959
+lizbeth	97	96	0.990
+joshi seito	97	96	0.990
+ciara	97	96	0.990
+linn	97	96	0.990
+doña rosa	97	96	0.990
+la standardiste	98	96	0.980
+morgane	98	96	0.980
+emily davis	98	97	0.990
+aurore	98	96	0.980
+fine	98	92	0.939
+elize	98	97	0.990
+jason costello	98	97	0.990
+malou	98	90	0.929
+miss jones	98	97	0.990
+mrs. watson	98	97	0.990
+mamá	98	93	0.959
+liberty savage	98	95	0.980
+supermodel	98	92	0.939
+pascale	98	90	0.918
+school nurse	98	94	0.969
+kimi	98	82	0.837
+zina	98	93	0.949
+charlie wade	98	94	0.969
+haggar	98	94	0.959
+zombie girl	99	86	0.879
+debby	99	82	0.828
+young rita	99	98	0.990
+belen	99	94	0.960
+dressmaker	99	88	0.889
+miss wilson	99	98	0.990
+saffron	99	92	0.929
+black star	99	95	0.960
+ruda	99	80	0.808
+yulia	99	96	0.970
+hannah scott	99	98	0.990
+ingeborg	99	98	0.990
+staff nurse	99	93	0.939
+jane doe	99	93	0.949
+passantin	99	93	0.949
+loló	99	98	0.990
+manda	99	88	0.889
+legal analyst	100	88	0.880
+tillie	100	98	0.980
+rini	100	98	0.980
+junsa	100	95	0.950
+sari	100	87	0.870
+federica	100	97	0.980
+neri	100	85	0.850
+pregnant girl	100	95	0.960
+vangie	100	97	0.970
+rebekah	100	97	0.970
+naya	100	97	0.970
+pageant contestant	100	97	0.970
+ginger grant	100	99	0.990
+eiko	100	97	0.970
+mulher	100	93	0.930
+paca	100	96	0.960
+the duchess	100	96	0.960
+magda färber	100	99	0.990
+titania	100	95	0.950
+suhasini	100	99	0.990
+counter girl	100	93	0.930
+jagoda	100	99	0.990
+hottie	100	94	0.940
+haro	101	96	0.950
+kassiererin	101	97	0.960
+sian	101	100	0.990
+hillary clinton	101	93	0.921
+scarlet witch	101	100	0.990
+cilla	101	100	0.990
+mariam	101	92	0.921
+florrie	101	100	0.990
+machiko	101	99	0.980
+lilet	101	100	0.990
+jaci	101	98	0.970
+hermione	101	98	0.970
+business presenter	101	99	0.980
+ariadne	101	99	0.980
+eva van dongen	101	95	0.941
+felipa	101	99	0.980
+guest anchor	101	89	0.881
+tamar	101	95	0.941
+kveta	101	100	0.990
+ernestine	101	98	0.970
+femme fatale	102	95	0.941
+black woman	102	97	0.951
+dasha	102	98	0.971
+aileen	102	96	0.951
+young sarah	102	96	0.951
+charlie duncan	102	99	0.971
+female guest	102	98	0.961
+red fraggle	102	101	0.990
+luma	102	89	0.873
+zizi	102	91	0.892
+lunch lady	103	97	0.942
+velda	103	101	0.981
+pansy	103	89	0.864
+hippie girl	103	97	0.942
+kaiti	103	102	0.990
+suely	103	100	0.971
+village girl	103	98	0.961
+fat lady	103	99	0.961
+russian girl	103	102	0.990
+schwester	103	99	0.961
+indian girl	103	100	0.971
+muffin	104	94	0.904
+lyn	104	93	0.894
+hedwig	104	102	0.981
+dyna	104	102	0.981
+varvara	104	103	0.990
+la caissière	104	103	0.990
+girl in bed	104	99	0.962
+sorority sister	104	103	0.990
+strawberry shortcake	104	100	0.962
+ramira	104	103	0.990
+pyonkichi	104	103	0.990
+lucette	104	103	0.990
+surgical nurse	104	101	0.971
+mrs. hall	104	103	0.990
+raya	104	100	0.962
+invitada a fiesta	104	101	0.981
+mrs. stone	104	102	0.981
+hiroko	104	101	0.971
+esposa	104	101	0.971
+une danseuse	105	104	0.990
+launch	105	102	0.971
+girl in club	105	104	0.990
+she-ra	105	104	0.990
+bathing beauty	105	104	0.990
+kim carter	105	104	0.990
+farah	105	88	0.848
+mrs. reynolds	105	104	0.990
+chimney	105	100	0.952
+store girl	105	102	0.981
+serveuse	105	102	0.981
+make-up girl	105	100	0.952
+maca	105	99	0.943
+lindy	105	92	0.876
+kidnapped girl	105	96	0.924
+shiny	105	97	0.924
+flossie	106	105	0.991
+queen mother	106	100	0.943
+noemi	106	104	0.981
+theodore seville	106	104	0.981
+wardrobe stylist	106	85	0.811
+liana	106	102	0.962
+fe	106	102	0.962
+doña rita	106	105	0.991
+hallie	106	102	0.962
+mya	106	97	0.925
+theodora	106	105	0.991
+sigrid	106	105	0.991
+zehra	106	105	0.991
+mrs. kelly	106	105	0.991
+applejack	106	100	0.943
+school secretary	106	103	0.972
+yuna	106	103	0.972
+ganga	107	97	0.907
+meter maid	107	85	0.804
+cher	107	86	0.804
+shino	107	105	0.981
+kimberley	107	102	0.953
+guará	107	101	0.944
+presentadora	107	103	0.972
+krissy	107	103	0.963
+the model	107	92	0.860
+helle	107	104	0.972
+jamila	107	104	0.972
+taryn	107	100	0.935
+soccer mom	107	101	0.944
+judit	107	106	0.991
+takako	107	106	0.991
+franca	107	106	0.991
+johanne	108	107	0.991
+luci	108	98	0.907
+lilly truscott	108	107	0.991
+lis	108	97	0.907
+lida	108	107	0.991
+tea	108	95	0.889
+laney	108	99	0.917
+miley stewart	108	107	0.991
+dominika	108	107	0.991
+naná	108	106	0.981
+winifred	109	101	0.936
+aria montgomery	109	108	0.991
+tomasa	109	108	0.991
+janette	109	103	0.954
+clinic nurse	109	106	0.972
+stefanie	109	106	0.972
+kaitlin	109	97	0.899
+babalu	109	105	0.963
+ayame	109	105	0.972
+magdi	109	103	0.945
+nainen	109	108	0.991
+mrs. clark	110	109	0.991
+rarity	110	107	0.973
+sheri	110	106	0.973
+bobbie mitchell	110	109	0.991
+solveig	110	107	0.973
+enterprise computer	110	109	0.991
+leilani	110	106	0.964
+la cliente	110	109	0.991
+lissa	110	107	0.973
+young wife	110	107	0.973
+screaming girl	110	103	0.945
+cissy	110	104	0.945
+spencer hastings	110	109	0.991
+amelie	110	100	0.909
+mrs. simpson	110	109	0.991
+mag	110	93	0.855
+naty	110	109	0.991
+lene	110	107	0.973
+ikuko	111	110	0.991
+psicóloga	111	110	0.991
+arzu	111	110	0.991
+elinor	111	110	0.991
+mirella	111	110	0.991
+little sister	111	98	0.883
+purita	111	110	0.991
+sára	111	109	0.982
+business anchor	111	109	0.982
+teena	111	107	0.964
+buurvrouw	111	109	0.982
+adelaida	111	109	0.982
+mother goose	111	102	0.919
+sister mary	111	106	0.955
+satori	111	91	0.820
+rainbow dash	111	104	0.937
+sona	112	110	0.982
+fiamma	112	111	0.991
+alex russo	112	111	0.991
+agnieszka	112	111	0.991
+mrs. phillips	112	111	0.991
+maeve	112	109	0.973
+stacie	112	109	0.973
+pebbles flintstone	112	111	0.991
+sam lomax	112	110	0.991
+mrs. turner	112	109	0.973
+nona	112	104	0.937
+Émilie	112	109	0.973
+verna	112	108	0.964
+deena	112	107	0.964
+tochter	112	108	0.964
+lilya	112	110	0.982
+alisha	112	106	0.946
+morena	113	111	0.982
+portera	113	111	0.982
+la madre	113	111	0.982
+girl friend	113	106	0.938
+mrs. morris	113	112	0.991
+mesera	113	106	0.938
+marcelle	113	110	0.973
+chinese woman	113	109	0.965
+micheline	113	110	0.973
+koizumi	113	98	0.867
+alyson	113	110	0.973
+journalistin	113	109	0.973
+side table drawer	113	111	0.991
+suzan	113	111	0.982
+prostituée	113	109	0.973
+mrs. gates	113	112	0.991
+coring	113	112	0.991
+lisa turtle	113	112	0.991
+siva	114	94	0.833
+isolde	114	111	0.974
+zaza	114	94	0.825
+woman in elevator	114	113	0.991
+ilana	114	113	0.991
+miranda montgomery	114	109	0.965
+peasant woman	114	113	0.991
+joaquina	114	113	0.991
+iliana	114	113	0.991
+dorothea	114	113	0.991
+norma bates	114	113	0.991
+mati	114	93	0.816
+jeri	115	105	0.913
+nori	115	93	0.817
+the receptionist	115	92	0.800
+lety	115	113	0.983
+giuliana	115	114	0.991
+eureka	115	114	0.991
+amandine	115	113	0.983
+edwina	115	113	0.983
+anke	115	114	0.991
+myla	115	113	0.983
+margaux	115	113	0.983
+stepmother	115	112	0.974
+tessie	116	113	0.974
+natsumi	116	112	0.966
+mitsuko	116	114	0.983
+the sister	116	108	0.940
+vivienne	116	110	0.957
+jane wilson	116	115	0.991
+kelly garrett	116	115	0.991
+ronnie mitchell	116	115	0.991
+priestess	116	109	0.940
+hester	117	104	0.889
+spinster	117	115	0.983
+yaya	117	105	0.897
+polina	117	115	0.983
+dale evans	117	109	0.932
+andréa	117	112	0.957
+latoya	117	116	0.991
+mie	117	116	0.991
+laxmi	117	111	0.949
+marie antoinette	117	114	0.974
+jury forewoman	117	112	0.957
+fox business network	117	106	0.906
+nia	118	107	0.907
+coby	118	100	0.847
+axew	118	116	0.983
+script supervisor	118	101	0.856
+biggi	118	115	0.975
+cnbc correspondent	118	109	0.924
+c.j. parker	118	115	0.975
+jemima	118	115	0.975
+mrs. monroe	118	117	0.992
+rafinha	118	117	0.992
+the countess	118	113	0.958
+tamsin	118	117	0.992
+dead woman	118	103	0.873
+santana lopez	118	116	0.992
+preeti	118	112	0.949
+salome	118	113	0.966
+encarna	119	114	0.958
+davina	119	113	0.958
+streetwalker	119	104	0.882
+viktoria	119	118	0.992
+shahar	119	103	0.866
+fawn	119	102	0.857
+elina	119	117	0.983
+girl student	120	118	0.983
+maid of honor	120	112	0.933
+he ping	120	117	0.975
+ceri	120	118	0.983
+rosie palmer	120	119	0.992
+gauri	120	117	0.975
+kamila	120	119	0.992
+samanta	120	118	0.983
+kuroki	120	102	0.850
+celebrity host	120	108	0.908
+mary magdalene	120	118	0.983
+pretty woman	120	117	0.975
+mayumi	120	118	0.983
+mariela	120	117	0.983
+scrub nurse	120	113	0.942
+inès	120	113	0.942
+mrs. graham	120	119	0.992
+biker chick	120	119	0.992
+tegan	120	115	0.967
+harley quinn	120	110	0.917
+nines	120	119	0.992
+cinnamon	121	112	0.926
+birthday girl	121	111	0.917
+une invitée	121	119	0.983
+queen elizabeth	121	113	0.942
+chastity	121	114	0.950
+sexy woman	121	116	0.959
+imogen	121	119	0.992
+saya	121	116	0.959
+mio	121	102	0.843
+kelli	122	118	0.967
+sanae	122	119	0.975
+hanako	122	111	0.910
+lali	122	101	0.828
+red queen	122	120	0.984
+malvela	122	111	0.910
+zena	123	118	0.959
+ghost girl	123	112	0.911
+mercedes jones	123	121	0.984
+kinga	123	121	0.984
+charwoman	123	121	0.984
+sissi	123	112	0.911
+collette	123	105	0.854
+vero	123	109	0.886
+teté	123	122	0.992
+marie-louise	123	122	0.992
+coed	123	122	0.992
+gypsy woman	123	118	0.959
+mysterious woman	123	118	0.967
+native girl	123	119	0.967
+girl on beach	124	114	0.919
+tante	124	119	0.968
+freya	124	119	0.968
+agent 9	124	120	0.968
+ororo munroe	124	123	0.992
+yayoi	124	123	0.992
+adjudicator	124	99	0.806
+lexie	124	114	0.919
+mrs. roberts	124	123	0.992
+fela	124	118	0.960
+adrian lee	124	121	0.976
+lani	124	112	0.903
+alessandra	125	124	0.992
+icy	125	121	0.976
+chanel	125	120	0.960
+mary beth	125	122	0.976
+the old lady	125	122	0.976
+tove	125	124	0.992
+ana maría	125	124	0.992
+veronique	125	119	0.952
+leigh	125	103	0.824
+ivette	125	124	0.992
+nerissa	125	123	0.984
+mrs. rogers	125	124	0.992
+agustina	125	116	0.928
+clô	126	125	0.992
+eszter	126	125	0.992
+pruden	126	124	0.984
+delia abbott	126	124	0.992
+bachelorette	126	124	0.984
+hija	126	117	0.929
+elif	126	122	0.968
+yasuko	126	125	0.992
+jesuotaku	126	125	0.992
+mrs. henderson	127	125	0.984
+charmaine	127	126	0.992
+bäuerin	127	126	0.992
+yukari	127	125	0.984
+meisje	127	120	0.945
+trilby	127	116	0.913
+samantha jones	127	126	0.992
+marja	128	126	0.984
+fat woman	128	126	0.984
+hannah montana	128	122	0.961
+bar waitress	128	122	0.961
+henny	128	104	0.820
+marijana	128	122	0.953
+tekla	128	126	0.984
+yoshiko	128	124	0.969
+pat evans	128	126	0.984
+crying girl	128	120	0.945
+dolors	128	127	0.992
+woman on bus	128	127	0.992
+doncella	128	127	0.992
+nesreader	128	127	0.992
+persephone	129	125	0.977
+ani	129	110	0.853
+deanna	129	124	0.969
+laetitia	129	123	0.961
+lust	129	110	0.860
+lynda	129	121	0.938
+e.r. nurse	129	121	0.938
+alix	129	118	0.915
+mãe	129	125	0.969
+willa	129	121	0.938
+pevacica	129	127	0.992
+dewey duck	129	128	0.992
+julie barnes	129	128	0.992
+aura	129	128	0.992
+blanquita	129	128	0.992
+deedee	130	114	0.877
+electra	130	129	0.992
+louella	130	129	0.992
+daantje	130	107	0.823
+french woman	130	124	0.954
+ane	130	128	0.985
+jonna	130	122	0.946
+bobby morgan	130	125	0.962
+melek	130	125	0.962
+sienna	130	118	0.908
+burlesque dancer	130	119	0.923
+kristine	131	123	0.939
+lamia	131	127	0.969
+jazmín	131	130	0.992
+ayla	131	128	0.977
+maren	131	127	0.977
+elin	131	120	0.924
+louie duck	131	130	0.992
+fashion model	131	118	0.901
+momoko	131	129	0.985
+criada	131	129	0.992
+sondra	132	130	0.985
+milú	132	131	0.992
+huey duck	132	131	0.992
+mrs. robinson	132	130	0.985
+clémence	132	131	0.992
+vanesa	132	131	0.992
+julka	132	130	0.985
+la jeune femme	132	130	0.985
+pinkie pie	132	126	0.955
+belma	132	130	0.985
+moa	132	127	0.962
+luzia	133	132	0.992
+filo	133	114	0.857
+hassie	133	132	0.992
+elodie	133	130	0.977
+sairaanhoitaja	133	117	0.880
+mireya	134	133	0.993
+anaïs	134	132	0.993
+indian woman	134	132	0.985
+carrie bradshaw	134	133	0.993
+nymph	134	129	0.963
+rosetta	134	133	0.993
+uhura	134	133	0.993
+maría josé	134	132	0.985
+mala	134	129	0.963
+dimitra	135	134	0.993
+vixen	135	127	0.948
+petunia	135	126	0.941
+various muppets	135	119	0.889
+cha-cha	135	129	0.956
+lenore	135	131	0.970
+thalia	135	131	0.970
+kath	136	135	0.993
+rosalind	136	131	0.971
+female guard	136	132	0.971
+blonde woman	136	130	0.963
+allison dubois	136	134	0.993
+woman with baby	136	130	0.956
+beautician	136	113	0.831
+anne shirley	136	134	0.985
+momma	136	116	0.853
+zita	136	134	0.985
+emmie	136	133	0.978
+michiko	136	133	0.978
+diamanda hagan	136	132	0.978
+hoitaja	136	121	0.897
+coca	137	132	0.964
+femme	137	130	0.949
+zuca	137	132	0.964
+candi	137	129	0.942
+sue sylvester	137	135	0.985
+sera	137	130	0.956
+kissing girl	137	121	0.891
+baby trunks	137	126	0.927
+fille	138	118	0.862
+female victim	138	122	0.884
+heroine	138	133	0.964
+alissa	138	134	0.971
+seema	139	131	0.942
+ilsa	139	135	0.971
+sanne	139	133	0.964
+asun	139	126	0.906
+women	139	119	0.863
+esme	139	132	0.957
+roxane	139	136	0.978
+nastya	139	131	0.942
+la journaliste	139	138	0.993
+la chanteuse	139	138	0.993
+clair	139	132	0.950
+isobel	140	133	0.950
+jessy	140	120	0.857
+woman in street	140	137	0.986
+french maid	140	137	0.986
+india	140	123	0.886
+sayuri	140	139	0.993
+prostituierte	140	139	0.993
+margot färber	141	140	0.993
+mrs. walker	141	137	0.972
+alte frau	141	137	0.972
+crying woman	141	139	0.993
+maddalena	141	139	0.986
+sandi	141	130	0.922
+margarete färber	141	140	0.993
+junge frau	141	140	0.993
+girl on street	142	135	0.951
+emine	142	141	0.993
+mrs. collins	142	141	0.993
+sporten	142	137	0.972
+zoya	142	136	0.958
+moni	142	123	0.866
+punk girl	143	134	0.944
+gitte	143	133	0.930
+kristi	143	138	0.965
+noelle	143	137	0.958
+estella	143	140	0.979
+martin prince	144	141	0.986
+milli	144	143	0.993
+the nikkei business report	144	123	0.861
+susy	144	135	0.938
+lorelei	145	144	0.993
+berthe	145	142	0.979
+adèle	145	144	0.993
+spinelli	145	132	0.910
+jimbo jones	145	143	0.986
+daphné	145	144	0.993
+meera	145	142	0.979
+em	145	122	0.841
+roxie	145	142	0.979
+consuela	145	123	0.855
+cecily	145	142	0.986
+laine	146	128	0.877
+alexandria forrester	146	143	0.986
+calamity jane	146	145	0.993
+milka	146	142	0.979
+maria lopez	146	145	0.993
+zdenka	146	145	0.993
+jeanie	147	142	0.973
+ivory	147	122	0.837
+lora	147	143	0.973
+the blonde	147	132	0.905
+mine	147	139	0.946
+mrs. thomas	147	145	0.986
+woman on train	147	145	0.986
+ryoko	147	146	0.993
+lifestyle anchor	147	145	0.993
+dinorá	147	145	0.986
+nice	148	136	0.919
+max frei	148	147	0.993
+selina	148	147	0.993
+mado	148	145	0.980
+big mama	148	141	0.953
+una	148	146	0.986
+violette	148	139	0.939
+beba	148	138	0.939
+red riding hood	149	145	0.973
+fleur	149	137	0.926
+jessi	149	147	0.987
+kaya	149	119	0.805
+mother-in-law	149	143	0.960
+margareth	149	148	0.993
+kyra	149	144	0.966
+oksana	149	146	0.980
+masako	149	147	0.987
+putzfrau	149	147	0.987
+marlena	149	147	0.987
+la jeune fille	150	146	0.973
+debora	150	147	0.980
+chantelle	150	145	0.973
+effie	150	146	0.973
+millicent	150	141	0.947
+twinkle	151	147	0.974
+desdemona	151	143	0.947
+gala	151	148	0.980
+idit linovich	151	150	0.993
+sammi	151	134	0.887
+noa	151	134	0.887
+gertrud	151	150	0.993
+newswoman	151	150	0.993
+anu	151	140	0.927
+lacy	151	123	0.821
+noreen	152	151	0.993
+fantasy girl	152	146	0.967
+farrah	152	141	0.934
+starfire	152	150	0.987
+nicolette	152	150	0.987
+lavínia	152	151	0.993
+arabella	153	151	0.987
+lady macbeth	153	145	0.948
+pimprenelle	153	152	0.993
+rosalba	153	151	0.987
+the little girl	153	142	0.928
+luce	153	126	0.824
+danica	153	148	0.974
+pippa	153	148	0.974
+clémentine	153	151	0.987
+allegra	154	151	0.981
+typist	154	129	0.844
+daniella	154	148	0.968
+mami	154	148	0.968
+doctora	154	152	0.994
+sirvienta	154	153	0.994
+rin	154	133	0.870
+arianna	154	147	0.961
+palma	154	147	0.955
+zia	154	140	0.916
+stine	154	141	0.916
+cíntia	154	134	0.870
+ashley banks	154	152	0.987
+assunta	154	152	0.987
+elza	155	154	0.994
+alisa	155	152	0.981
+raye	155	154	0.994
+ai	155	149	0.961
+suzette	155	150	0.968
+beulah	155	154	0.994
+hanne	155	144	0.929
+sammy rogers	156	155	0.994
+aiko	156	152	0.974
+noriko	156	155	0.994
+verena	156	154	0.994
+gwendolyn	156	152	0.981
+emmanuelle	156	153	0.981
+uma	156	150	0.968
+yuko	156	151	0.968
+kata	156	134	0.859
+queen victoria	156	148	0.955
+topsy	156	141	0.904
+simran	157	152	0.975
+michaela	157	147	0.943
+suzi	157	152	0.968
+hailey	157	143	0.917
+nanda	157	136	0.866
+his wife	158	154	0.975
+black widow	158	152	0.962
+backpack	158	151	0.956
+cristal	158	153	0.975
+su	159	140	0.887
+nominee: best actress in a supporting role	159	158	0.994
+vânia	159	158	0.994
+housemaid	159	157	0.987
+sachiko	159	158	0.994
+phone operator	160	130	0.812
+leda	160	159	0.994
+rhoda	160	152	0.950
+la petite fille	160	156	0.975
+mitsuhiko tsuburaya	160	159	0.994
+pooja	160	151	0.944
+chela	160	154	0.963
+norah	160	153	0.962
+saki	160	148	0.925
+blandine	160	158	0.988
+siri	160	153	0.956
+tomoko	161	160	0.994
+jenni	161	146	0.907
+fatos	161	146	0.907
+janelle	161	151	0.944
+maestra	161	155	0.963
+dahlia	161	157	0.981
+the lady	161	154	0.957
+uniqua	161	160	0.994
+mo harris	161	160	0.994
+kikyo	161	160	0.994
+courtesan	162	157	0.969
+tabby	162	157	0.969
+freundin	162	160	0.988
+traci	162	156	0.969
+milla	162	159	0.988
+dalia	162	160	0.988
+stela	162	161	0.994
+sable	162	155	0.957
+nadya	162	161	0.994
+jane smith	163	162	0.994
+valda	163	160	0.982
+rika	163	159	0.975
+sara de roose	163	162	0.994
+buffy	163	145	0.890
+cindy brady	163	162	0.994
+vickie	163	155	0.951
+guigui	163	161	0.988
+durga	163	154	0.945
+mercy	163	150	0.920
+iva	163	154	0.951
+sena	164	155	0.945
+vivien	164	155	0.945
+onelia	164	163	0.994
+barbara cooper	164	163	0.994
+aria	164	153	0.939
+selene	164	154	0.939
+kimmy	164	159	0.970
+maia	164	138	0.841
+woman with dog	164	159	0.970
+jutta	164	159	0.970
+lyla	165	159	0.964
+coral	165	156	0.952
+casilda	165	164	0.994
+teodora	165	163	0.988
+mommy	165	151	0.921
+jan brady	165	164	0.994
+luli	166	159	0.958
+els	166	160	0.964
+marnie	166	154	0.934
+yumi	166	162	0.976
+maryline	166	165	0.994
+récitante	166	162	0.976
+line	166	162	0.976
+ring girl	166	154	0.934
+runway model	167	146	0.880
+melisa	167	165	0.988
+reina	167	157	0.946
+loreto	167	140	0.838
+etta	167	165	0.988
+mathilda	167	162	0.970
+mrs. white	167	165	0.988
+marleen	168	167	0.994
+acacia	168	165	0.982
+julie martin	168	167	0.994
+enid	168	167	0.994
+sanna	168	161	0.958
+valéria	168	161	0.964
+mariola	168	165	0.988
+hanka	168	164	0.976
+inger	168	166	0.988
+lizette	169	168	0.994
+shana	169	165	0.976
+rona	169	164	0.976
+malin	169	157	0.929
+lavinia	169	167	0.988
+claudette	169	166	0.982
+dr. quinn	170	155	0.912
+mattie	170	141	0.829
+marilyn monroe	170	160	0.941
+chiyo	170	166	0.976
+hitomi	170	163	0.965
+la vieille dame	170	166	0.982
+suki	171	155	0.906
+arlette	171	169	0.988
+jeanine	171	165	0.965
+sayaka	171	164	0.965
+mrs. lee	171	166	0.971
+elektra	171	170	0.994
+mercè	171	169	0.988
+karolina	171	170	0.994
+muffy	171	164	0.959
+vrouw	171	167	0.977
+teela	171	169	0.988
+sarita	171	167	0.977
+girl scout	172	163	0.948
+basia	172	169	0.983
+woman in crowd	172	163	0.948
+tonga	172	141	0.820
+sofi	172	168	0.977
+leela	172	166	0.965
+kundin	172	170	0.988
+hera	173	167	0.971
+majka	173	172	0.994
+cordelia	173	171	0.988
+mariel	173	168	0.971
+rae	173	158	0.913
+mamma	173	162	0.942
+geeta	173	169	0.977
+the actress	173	167	0.965
+franny	173	156	0.908
+jennifer keaton	174	173	0.994
+marli	174	169	0.971
+corrine	174	172	0.989
+alena	174	172	0.989
+emi	175	170	0.971
+eloise	175	170	0.977
+la fille	175	169	0.966
+freda	175	169	0.966
+camarera	175	167	0.960
+night nurse	176	168	0.960
+almudena	176	170	0.966
+female cop	176	169	0.960
+mary williams	176	175	0.994
+the landlady	176	173	0.983
+elaine benes	176	175	0.994
+mayor's wife	176	172	0.983
+uschi	176	175	0.994
+player in 'ha-adumot'	176	154	0.875
+teuntje	176	174	0.989
+precious	177	164	0.927
+mamita	177	175	0.989
+nagymama	177	176	0.994
+terry williams	177	153	0.864
+fizz	177	152	0.859
+anka	177	168	0.949
+sanja	177	176	0.994
+village woman	177	172	0.977
+handmaiden	177	172	0.972
+gertrudis	178	170	0.955
+truffles	178	177	0.994
+modelo	178	156	0.882
+gianna	178	174	0.983
+devil girl	178	177	0.994
+mariko	178	176	0.989
+london regional newsreader	178	176	0.989
+cali	179	164	0.916
+cece	179	175	0.978
+berit	179	176	0.983
+yasmine	179	164	0.916
+female officer	179	178	0.994
+estefanía	179	177	0.989
+shari	179	177	0.989
+maiden	180	177	0.983
+kaoru	180	154	0.861
+gayle	181	164	0.906
+angry woman	181	175	0.967
+hot chick	181	172	0.956
+blonde girl	181	173	0.956
+roza	181	178	0.983
+lynette	181	177	0.978
+attractive woman	181	179	0.989
+gabrielle solis	181	180	0.994
+reporterin	181	176	0.978
+akemi	182	179	0.989
+stormy	182	164	0.901
+viky	182	179	0.984
+amara	182	179	0.984
+pool girl	182	173	0.951
+octavia	183	178	0.973
+anjali	183	175	0.962
+patamon	183	182	0.995
+kareena	183	181	0.989
+pepita	183	182	0.995
+kirsty	183	182	0.995
+sita	183	161	0.885
+meryl	184	175	0.951
+jolene	184	177	0.962
+viv	184	173	0.940
+starlet	184	179	0.973
+mor	185	165	0.897
+leonie	185	177	0.957
+macarena	185	183	0.989
+sheryl	185	180	0.973
+lela	185	183	0.989
+mrs. parker	185	182	0.984
+kathryn	185	172	0.930
+mrs. jenkins	185	184	0.995
+shanti	186	175	0.946
+geisha	186	178	0.957
+meghan	186	170	0.914
+mei	186	173	0.930
+franziska	186	176	0.952
+woman in audience	187	175	0.941
+high school girl	187	182	0.973
+malika	187	183	0.984
+lunch	187	182	0.979
+signe	187	186	0.995
+azucena	187	185	0.989
+janine melnitz	187	186	0.995
+lucienne	187	185	0.989
+jess adams	188	187	0.995
+phil deville	188	187	0.995
+amira	188	182	0.973
+la serveuse	188	183	0.979
+silke	188	187	0.995
+sole	188	178	0.947
+doll	188	164	0.872
+minna	188	184	0.979
+señora	188	183	0.979
+aurelia	188	182	0.973
+clienta	189	185	0.979
+tilda	189	181	0.958
+lucha	189	188	0.995
+granddaughter	189	187	0.995
+maru	189	166	0.878
+victoire	190	187	0.984
+aphrodite	190	172	0.911
+woman at bar	190	183	0.963
+edna garrett	190	188	0.989
+cata	191	185	0.969
+kaori	191	185	0.974
+maria rosa	191	190	0.995
+neli	192	189	0.984
+competition presenter	192	185	0.964
+elle-même	192	187	0.974
+carmen morales	192	189	0.990
+charity	192	179	0.932
+ranma saotome	192	184	0.958
+the princess	193	185	0.959
+catwoman	193	185	0.964
+fairy godmother	193	179	0.927
+agent 00	193	154	0.803
+sissy	193	181	0.938
+mamie	194	191	0.985
+teca	194	187	0.964
+cornelia	194	190	0.979
+bobbi	194	175	0.902
+lenka	194	187	0.969
+lotta	195	192	0.985
+yara	195	190	0.974
+shawna	195	179	0.923
+palmira	195	193	0.990
+gossip	195	168	0.862
+office girl	196	191	0.974
+nani	196	184	0.939
+d.j. tanner	196	194	0.990
+duchess	196	186	0.949
+nada	196	187	0.954
+gossip girl	196	192	0.985
+bebel	196	195	0.995
+lady in waiting	196	195	0.995
+co-ed	197	191	0.970
+rape victim	197	182	0.924
+akiko	197	189	0.959
+ethel mertz	197	196	0.995
+cecile	197	192	0.980
+loli	197	195	0.990
+goten	198	164	0.833
+anette	198	197	0.995
+stina	198	177	0.894
+alex cahill	198	196	0.990
+gia	199	180	0.910
+kajal	199	195	0.980
+telefonista	199	193	0.970
+ex-girlfriend	199	176	0.889
+cida	199	198	0.995
+geneva	199	198	0.995
+the widow	199	167	0.839
+lynette scavo	199	198	0.995
+lulú	199	198	0.995
+chumi	200	199	0.995
+dedé	200	163	0.815
+ginette	200	197	0.985
+britt	200	174	0.870
+cleaning woman	200	194	0.970
+encarnación	200	199	0.995
+kagome higurashi	200	199	0.995
+romina	200	197	0.985
+hospital nurse	200	185	0.925
+mette	201	189	0.940
+polizistin	201	198	0.990
+marcella	201	193	0.960
+orihime inoue	202	201	0.995
+odile	202	198	0.980
+the yellow ranger	202	201	0.995
+young lady	203	186	0.916
+fabiola	203	197	0.970
+dianne	203	198	0.975
+woman in restaurant	204	203	0.995
+lale	204	167	0.819
+sam morgan	204	183	0.897
+profesora	204	202	0.990
+justina	204	202	0.990
+elly	204	196	0.961
+lisette	205	203	0.995
+tati	205	188	0.917
+meena	205	200	0.976
+aira	206	205	0.995
+ran	206	183	0.888
+kali	206	168	0.816
+willow	206	177	0.864
+woman in park	207	200	0.966
+female customer	207	199	0.961
+female dancer	207	199	0.961
+carina	207	200	0.971
+manny santos	207	203	0.981
+roz	207	195	0.947
+switchboard operator	207	177	0.855
+abbey	207	181	0.879
+ludmila	208	206	0.990
+demi	208	196	0.947
+mean girl	208	184	0.889
+sherri	209	199	0.957
+rowena	209	208	0.995
+amiga	209	204	0.976
+headmistress	209	205	0.981
+nisha	209	204	0.981
+clementine	210	193	0.924
+aya	210	208	0.990
+bobby marshall	210	206	0.981
+eirini	210	207	0.990
+birgit	210	207	0.990
+nara	210	185	0.886
+joanie	210	209	0.995
+female	211	188	0.891
+mélanie	211	210	0.995
+lottie	212	206	0.972
+ju	212	208	0.981
+hospital receptionist	212	193	0.915
+kaye	212	204	0.962
+mrs. carter	212	211	0.995
+aimee	213	207	0.977
+lilli	213	207	0.972
+la voisine	213	212	0.995
+kristy	213	202	0.948
+lada	213	197	0.925
+icu nurse	214	200	0.939
+gema	214	211	0.991
+tommy pickles	214	212	0.991
+seamstress	214	206	0.963
+salma	214	204	0.953
+opening voiceover	214	198	0.925
+joey acosta	214	213	0.995
+violante	214	211	0.986
+pancha	215	212	0.986
+mrs. thompson	215	212	0.986
+eri	215	210	0.977
+brunette	216	208	0.963
+wpc	216	215	0.995
+lakshmi	216	208	0.968
+the girlfriend	217	182	0.843
+clemencia	217	216	0.995
+mora	217	196	0.903
+gertie	217	214	0.986
+keisha	218	209	0.959
+joséphine	218	212	0.972
+vocal backing	218	214	0.982
+ayse	218	214	0.982
+chali	218	216	0.991
+zora	218	208	0.954
+lum	218	214	0.982
+guadalupe	218	206	0.945
+yuka	218	213	0.977
+tami	218	207	0.950
+yasmina	218	217	0.995
+nita	219	211	0.963
+deirdre	219	214	0.982
+gisèle	219	216	0.986
+vee	219	211	0.968
+go-go dancer	219	184	0.845
+roos	220	211	0.964
+gudrun	220	212	0.964
+alice johnson	220	219	0.995
+sybil	220	216	0.982
+invitada	220	217	0.991
+masato	220	196	0.891
+girl in car	221	206	0.932
+rani	221	207	0.941
+mrs. harris	221	220	0.995
+mariah	221	201	0.914
+dorota	221	220	0.995
+gaia	222	192	0.865
+miyuki	222	219	0.986
+Ärztin	222	221	0.995
+joi	222	216	0.973
+senhora	222	221	0.995
+míriam	222	221	0.995
+tricia	222	221	0.995
+lilia	222	221	0.995
+else	222	221	0.995
+ana paula	222	221	0.995
+roseanne	223	220	0.987
+mena	223	213	0.960
+lula	223	186	0.834
+chelo	223	182	0.821
+margherita	223	221	0.991
+agata	223	219	0.982
+macy	224	195	0.871
+french girl	224	221	0.987
+delores	224	217	0.969
+georgette	224	217	0.973
+bahar	224	219	0.978
+trinity	225	212	0.947
+zuleika	226	225	0.996
+woman in car	226	214	0.951
+lil	226	211	0.938
+margit	227	226	0.996
+mrs. miller	227	226	0.996
+irène	227	225	0.991
+brandi	227	216	0.952
+cinderella	228	217	0.952
+bag lady	228	219	0.961
+mrs. anderson	228	227	0.996
+cowgirl	229	223	0.974
+céline	230	229	0.996
+pandora	230	215	0.935
+little old lady	231	212	0.922
+nieves	231	223	0.970
+bridgette	231	222	0.965
+talia	231	220	0.952
+teen girl	231	221	0.957
+echo	232	186	0.806
+elderly lady	232	228	0.983
+steffi	232	227	0.978
+kerstin	232	231	0.996
+sexy girl	232	223	0.961
+mary lou	233	232	0.996
+mônica	234	233	0.996
+lesley	234	196	0.838
+autumn	234	221	0.949
+jimena	235	232	0.987
+agathe	235	234	0.996
+medusa	235	224	0.953
+madam	236	221	0.936
+manoli	236	230	0.975
+clover	237	212	0.895
+sierra	237	216	0.911
+hortensia	237	236	0.996
+joaninha	237	236	0.996
+dominatrix	237	232	0.979
+amazon	237	226	0.958
+zuzu	237	229	0.970
+carmel	238	233	0.979
+pipa	238	231	0.971
+caridad	238	237	0.996
+elke	239	235	0.983
+woman on street	240	228	0.954
+alexia	240	235	0.983
+ania	240	239	0.996
+chiaotzu	240	239	0.996
+eden	240	192	0.804
+manicurist	241	230	0.959
+katharina	241	239	0.992
+evie	242	234	0.967
+lesbian	242	227	0.938
+businesswoman	242	235	0.971
+mary ann	243	239	0.984
+custódia	243	242	0.996
+della	243	240	0.988
+lois griffin	243	242	0.996
+prudence	243	235	0.971
+rina	243	236	0.975
+bloom	244	210	0.865
+hoshi	244	215	0.881
+leanne	245	242	0.988
+la femme	245	232	0.947
+genevieve	245	230	0.939
+angèle	245	244	0.996
+ruthie	245	240	0.980
+daisy duck	245	243	0.992
+marianna	246	244	0.992
+frankie baldwin	246	234	0.951
+dottie	246	244	0.992
+scarlet	246	230	0.939
+girl in park	246	216	0.882
+leni	247	244	0.988
+drunk girl	247	219	0.887
+mary jane	247	239	0.968
+kim hughes	247	244	0.988
+larissa	247	245	0.996
+isabela	247	244	0.988
+soninha	247	245	0.992
+pura	247	242	0.980
+suellen	247	246	0.996
+milou	248	208	0.839
+badass girl	248	240	0.972
+glorinha	248	247	0.996
+farmer's wife	249	242	0.972
+rosalinda	249	248	0.996
+béatrice	249	245	0.988
+milagros	250	236	0.944
+renate	250	249	0.996
+gisele	251	249	0.992
+snow white	251	231	0.924
+shinobu	251	228	0.908
+iza	251	248	0.988
+redhead	251	235	0.936
+saskia	252	243	0.968
+sheena	252	245	0.972
+alana	253	246	0.976
+mili	253	248	0.980
+zainab	253	250	0.988
+marika	254	252	0.992
+kaede	254	250	0.984
+britta	254	244	0.961
+salene	254	253	0.996
+suzon	254	253	0.996
+bel	254	248	0.976
+ina	255	245	0.965
+zezé	255	211	0.827
+oma	256	249	0.977
+geraldine	256	250	0.980
+buttercup	256	240	0.938
+etelvina	256	255	0.996
+diner waitress	256	245	0.961
+renée	257	245	0.957
+daria	258	254	0.988
+amélie	258	255	0.988
+fay	258	234	0.907
+tänzerin	258	256	0.992
+samira	259	247	0.954
+mae	259	245	0.950
+bobby hill	259	258	0.996
+savannah	259	244	0.942
+tilly	259	231	0.896
+monja	260	254	0.981
+selena	261	259	0.992
+nati	261	257	0.985
+lilian	262	254	0.969
+viviana	262	252	0.962
+exotic dancer	262	245	0.935
+eugenia	263	260	0.989
+dame	263	253	0.962
+ela	263	257	0.977
+chole	263	262	0.996
+queenie	263	249	0.947
+tenten	263	256	0.977
+sophia petrillo	264	263	0.996
+sango	264	262	0.992
+germaine	264	243	0.920
+maude	264	256	0.973
+velma	265	261	0.989
+police woman	265	260	0.981
+skye	265	231	0.872
+anne-marie	265	264	0.996
+guida	265	258	0.974
+desiree	266	253	0.951
+deli	266	248	0.936
+goth girl	266	258	0.974
+mannequin	266	214	0.805
+shauna	266	256	0.962
+priscila	266	264	0.992
+véronique	267	263	0.989
+thea	268	258	0.963
+jezebel	268	263	0.981
+dinah	268	261	0.974
+wirtin	269	263	0.981
+the waitress	269	245	0.914
+slave girl	269	263	0.981
+lilo	269	261	0.970
+alice horton	269	268	0.996
+kellnerin	269	266	0.993
+malena	270	268	0.993
+viki	270	251	0.933
+shreya	270	265	0.981
+caro	270	255	0.944
+woman at party	270	265	0.981
+annabel	270	262	0.970
+schülerin	270	264	0.981
+carlitos'	271	270	0.996
+asia	271	264	0.974
+bev	272	260	0.960
+jillian	272	265	0.978
+marcie	272	239	0.882
+sandrine	272	267	0.982
+danseuse	272	267	0.985
+yana	272	271	0.996
+celine	272	264	0.971
+maura	272	262	0.963
+rosana	274	273	0.996
+jocelyn	274	225	0.821
+priya	274	262	0.956
+peg	274	266	0.971
+hikari	274	258	0.942
+trisha	275	265	0.964
+clementina	275	273	0.993
+dead girl	275	249	0.909
+mermaid	275	230	0.840
+fatma	275	269	0.978
+mrs. williams	276	275	0.996
+karmen	276	272	0.989
+nikki hunter	276	275	0.996
+cigarette girl	277	270	0.975
+antoinette	277	263	0.953
+georgie jones	277	274	0.989
+lana lang	277	276	0.996
+cleide	277	276	0.996
+elli	278	267	0.964
+la grand-mère	278	270	0.971
+krystal	279	261	0.939
+liv	280	267	0.954
+fani	281	277	0.986
+hana	281	264	0.940
+aggie	281	248	0.883
+scene	281	268	0.957
+girl at bar	282	271	0.965
+maisie	282	279	0.989
+whore	283	277	0.979
+laurel	283	254	0.898
+deb	283	263	0.933
+barb	283	271	0.961
+zara	284	272	0.958
+constanza	285	282	0.989
+videl	285	284	0.996
+myrtle	285	281	0.986
+yin	286	258	0.906
+christie	286	250	0.878
+finlay roberts	287	286	0.997
+abbie	287	270	0.944
+danni	287	265	0.923
+susanna	287	282	0.983
+kyoko	287	285	0.993
+alba	288	273	0.948
+dona maria	288	286	0.993
+junko	288	257	0.892
+nica	289	285	0.986
+the queen	289	267	0.924
+marthe	290	289	0.997
+beautiful girl	290	280	0.969
+isadora	290	288	0.993
+the bride	290	273	0.945
+chambermaid	290	282	0.972
+cute girl	291	279	0.962
+nicki	292	254	0.870
+jewel	293	263	0.898
+robyn	293	283	0.966
+isis	294	279	0.949
+giovanna	294	287	0.980
+midori	294	274	0.932
+leonora	294	293	0.997
+sapphire	295	276	0.939
+roser	295	294	0.997
+kaitlyn	295	286	0.969
+callie	296	269	0.909
+patti	297	289	0.976
+international reporter	297	238	0.805
+jessica fletcher	298	296	0.993
+peaches	298	254	0.852
+seine frau	298	297	0.997
+therese	299	294	0.983
+felicity	299	290	0.970
+louisa	299	289	0.967
+ivone	300	299	0.997
+jéssica	300	299	0.997
+bess	300	287	0.960
+laia	301	300	0.997
+la secrétaire	301	300	0.997
+kasia	301	293	0.973
+laila	302	291	0.967
+verkäuferin	302	301	0.997
+belly dancer	303	292	0.964
+frau	303	292	0.964
+maud	303	302	0.997
+henrietta	304	293	0.964
+emmy	304	299	0.984
+dancing girl	305	284	0.931
+rosy	305	293	0.961
+beach girl	305	300	0.984
+female reporter	305	298	0.980
+radha	305	296	0.970
+mirka	307	303	0.987
+wonder woman	307	302	0.984
+cleopatra	308	295	0.958
+colleen	308	304	0.987
+violetta	308	306	0.994
+babette	308	305	0.990
+aline	308	306	0.994
+magali	309	307	0.994
+nena	309	303	0.984
+mare	309	275	0.890
+delphine	309	305	0.987
+golden girl	310	307	0.990
+paquita	310	309	0.997
+kelsey	311	250	0.804
+mistress	311	290	0.932
+tabitha	312	295	0.949
+candelaria	312	311	0.997
+older woman	313	306	0.978
+ann marie	314	313	0.997
+arlene	314	308	0.984
+alla	315	312	0.994
+krista	315	314	0.997
+teri	315	310	0.987
+katarina	315	313	0.994
+saska	316	307	0.972
+saleslady	316	314	0.994
+mrs. wilson	316	315	0.997
+katsumi	316	289	0.915
+janie	317	309	0.975
+jacinta	317	315	0.994
+minnie mouse	317	314	0.991
+hillary	318	299	0.940
+eunice	319	314	0.984
+amina	319	316	0.991
+kim kardashian	319	318	0.997
+mädchen	320	316	0.991
+yoko	320	302	0.947
+lorraine presenter	323	319	0.988
+milica	323	322	0.997
+liliana	323	317	0.985
+presentatrice	324	323	0.997
+bessie	324	322	0.994
+bettina	324	316	0.978
+auntie	324	307	0.951
+wobbuffet	325	316	0.972
+kati	325	324	0.997
+amanda dillon	326	324	0.994
+conchita	326	325	0.997
+maddy	326	291	0.896
+adrienne	326	320	0.985
+salesgirl	327	325	0.994
+brianna	327	312	0.954
+janis	327	284	0.872
+stenographer	327	273	0.838
+jola	328	327	0.997
+april scott	328	327	0.997
+Ángela	329	326	0.994
+dara	329	291	0.888
+faye	330	312	0.948
+portia	330	301	0.912
+harmony	331	295	0.891
+her	331	286	0.864
+ma	331	290	0.876
+sailor jupiter	332	331	0.997
+mireille	332	329	0.991
+yasmin	332	326	0.982
+leena	332	323	0.973
+woman in bar	333	321	0.967
+rita repulsa	334	332	0.994
+rosi	335	333	0.994
+jodie	335	319	0.952
+kira	335	316	0.946
+call girl	336	325	0.970
+jenn	337	318	0.947
+beautiful woman	337	326	0.970
+nadja	338	335	0.991
+destiny	338	312	0.926
+steph	339	296	0.876
+zoé	339	334	0.985
+paulette	339	331	0.976
+geneviève	340	335	0.988
+madonna	340	321	0.944
+jelena	341	338	0.991
+she	341	302	0.889
+delilah	341	327	0.962
+lilith	342	325	0.953
+mameng	342	274	0.801
+tita	342	332	0.971
+beryl	343	338	0.985
+josefina	343	342	0.997
+josefa	343	342	0.997
+candela	343	338	0.985
+trina	343	332	0.971
+luana	343	340	0.991
+carlotta	344	338	0.983
+veronika	345	338	0.983
+anchorwoman	345	330	0.959
+verpleegster	345	335	0.974
+nachbarin	345	341	0.991
+free range	346	345	0.997
+college girl	347	329	0.948
+gerda	347	340	0.983
+small fry	348	346	0.994
+florencia	349	346	0.991
+harem girl	350	346	0.989
+jennie	350	343	0.983
+gita	350	347	0.991
+ulla	350	348	0.994
+cleaning lady	351	333	0.952
+griselda	352	351	0.997
+forrester model	352	330	0.940
+ebony	353	320	0.909
+moeder	353	343	0.972
+lindsey	354	303	0.859
+tia	355	338	0.952
+milhouse van houten	355	354	0.997
+mary taylor	355	354	0.997
+bibi	356	312	0.879
+hilary	356	317	0.890
+lise	356	353	0.992
+betty williams	357	356	0.997
+tori	357	333	0.933
+milly	357	350	0.980
+georgina	357	347	0.975
+babysitter	358	315	0.880
+dotty	358	351	0.983
+soraya	358	353	0.986
+beata	358	355	0.992
+vi	359	353	0.986
+flower girl	359	342	0.953
+maribel	360	352	0.978
+luz	360	350	0.975
+countess	360	353	0.981
+myrna	362	361	0.997
+morgana	362	356	0.986
+minnie	362	349	0.967
+bruna	363	353	0.975
+koko	363	308	0.851
+ximena	363	359	0.992
+rochelle	365	352	0.967
+chrissy	366	344	0.940
+homeless woman	367	351	0.959
+leona	367	362	0.989
+keiko	368	363	0.986
+hattie	368	361	0.981
+esperanza	368	359	0.978
+kelly kelly	368	367	0.997
+henriette	369	368	0.997
+augusta	370	369	0.997
+alyssa	370	352	0.951
+nell	370	364	0.986
+masseuse	371	337	0.911
+girl in bar	371	362	0.978
+salve	371	368	0.992
+ophelia	372	347	0.933
+angelique	372	368	0.989
+eliza	372	349	0.938
+kristin	373	360	0.968
+kendra	374	360	0.965
+carolyn	375	363	0.971
+emilie	375	357	0.952
+frieda	376	372	0.992
+agnès	376	373	0.992
+carmelita	376	375	0.997
+odette	377	376	0.997
+marija	377	376	0.997
+rubi	378	372	0.984
+dream girl	378	356	0.944
+janey	380	373	0.982
+stéphanie	380	377	0.992
+nan	381	361	0.948
+soprano	381	365	0.958
+hannah van den bossche	381	380	0.997
+haruka	382	317	0.830
+zelda	382	371	0.971
+allie	384	347	0.904
+babs	385	376	0.977
+giulia	385	383	0.995
+gran	385	372	0.966
+reiko	386	325	0.842
+alda	386	380	0.984
+michi	386	339	0.881
+bethany	386	368	0.956
+barbie	388	363	0.938
+amaya	388	376	0.969
+edie	388	375	0.966
+botan	389	386	0.992
+aida	389	366	0.941
+chiara	389	386	0.992
+la concierge	390	389	0.997
+cécile	391	388	0.995
+claudine	392	389	0.995
+er nurse	392	327	0.837
+widow	395	377	0.957
+hayley	396	387	0.980
+kirsten	396	393	0.995
+yoli	396	394	0.995
+mavis	397	372	0.940
+ilona	397	393	0.992
+lizzy	397	383	0.965
+leticia	398	396	0.997
+britney	398	380	0.957
+siren	399	365	0.915
+business woman	400	384	0.960
+frankie osborne	400	399	0.998
+ivonete	401	398	0.993
+adalgisa	402	401	0.998
+viviane	403	400	0.993
+caitlin	403	373	0.926
+debra	403	390	0.970
+leyla	404	401	0.995
+blossom	404	381	0.946
+the daughter	405	393	0.970
+scarlett	405	383	0.948
+andreia	405	404	0.998
+konobarica	409	408	0.998
+trini	409	383	0.939
+jasmin	409	377	0.924
+lidia	410	408	0.995
+enriqueta	411	410	0.998
+susi	411	390	0.951
+poppy	411	352	0.859
+inge	411	400	0.973
+mrs. smith	412	409	0.993
+club girl	412	383	0.932
+cara	414	394	0.954
+mrs. brown	415	413	0.995
+head nurse	416	402	0.966
+lorna	416	410	0.986
+hortense	418	417	0.998
+jurema	418	417	0.998
+rachael	418	401	0.959
+loretta	419	409	0.979
+irena	419	418	0.998
+madge	419	414	0.988
+sailor mars	420	419	0.998
+agatha	420	404	0.964
+bree	421	411	0.976
+mrs. johnson	421	414	0.986
+sakura	421	383	0.912
+flor	422	403	0.957
+isaura	424	423	0.998
+asha	424	416	0.981
+athena	424	410	0.967
+margie	424	417	0.983
+young mother	424	408	0.962
+female student	425	422	0.993
+branca	425	422	0.993
+bernice	426	407	0.958
+kathleen	426	401	0.944
+Äiti	427	424	0.995
+mrs. jones	427	424	0.993
+mai	428	387	0.904
+klara	428	427	0.998
+yuki	430	369	0.860
+candace	433	420	0.970
+venus	433	412	0.954
+darla	434	433	0.998
+katerina	435	433	0.998
+helene	438	434	0.993
+saloon girl	439	433	0.986
+cocktail waitress	439	429	0.977
+juju	439	374	0.854
+marsha	439	427	0.973
+aisha	439	428	0.977
+kasumi	439	436	0.993
+charo	440	432	0.982
+kylie	440	416	0.945
+anastasia	440	424	0.966
+vanda	440	439	0.998
+constance	441	416	0.946
+gracie	441	431	0.977
+hour co-anchor	441	372	0.846
+ally	442	398	0.903
+maddie	442	415	0.939
+inga	443	434	0.982
+milda	443	431	0.973
+bambi	443	374	0.847
+sorority girl	444	430	0.971
+meredith	444	381	0.858
+abuela	444	426	0.962
+nellie	445	435	0.978
+ema	445	433	0.975
+lolita	445	429	0.966
+mujer	446	423	0.948
+puri	447	441	0.987
+asunción	447	443	0.991
+gabriella	447	435	0.975
+lucrecia	448	447	0.998
+chloé	448	446	0.996
+gretel	449	413	0.920
+filomena	449	446	0.993
+fina	450	449	0.998
+zeynep	450	447	0.996
+jeanette	453	452	0.998
+elle	453	428	0.947
+candice	454	443	0.978
+manon	456	451	0.989
+corina	456	455	0.998
+charlene	457	432	0.945
+katja	458	449	0.980
+haley	458	402	0.880
+nika	459	437	0.952
+laure	459	454	0.989
+pia	460	440	0.959
+tânia	460	459	0.998
+anja	460	456	0.991
+romana	461	459	0.996
+clarice	461	451	0.978
+mother superior	462	452	0.981
+commercial spokeswoman	462	461	0.998
+sailor moon	463	462	0.998
+vecina	465	460	0.991
+corinne	465	459	0.987
+cléo	466	464	0.996
+tessa	466	458	0.985
+lucille	466	457	0.981
+alexa	471	444	0.945
+pili	473	469	0.992
+eco	475	464	0.977
+ballerina	476	435	0.916
+angelika	477	473	0.994
+marjorie	478	466	0.975
+abigail deveraux	478	468	0.979
+bernadette	478	465	0.973
+perla	478	469	0.981
+kerry	480	416	0.869
+lupita	480	476	0.992
+mirta	480	479	0.998
+ines	481	474	0.988
+rosemary	481	474	0.988
+estelle cantorel	481	479	0.998
+soledad	481	473	0.983
+belén	481	480	0.998
+wilma	482	471	0.977
+giselle	483	482	0.998
+simona	484	480	0.994
+substitute news anchor	485	416	0.858
+the nurse	485	449	0.926
+ava	485	458	0.944
+magdalena	486	470	0.967
+son gokû	486	473	0.973
+tonya	488	478	0.980
+ula	489	484	0.990
+lacey	491	416	0.847
+prostituta	491	480	0.980
+glenda	494	481	0.976
+chrissie	495	490	0.992
+lia	495	493	0.996
+salomé	495	490	0.992
+teenage girl	495	476	0.962
+madame	495	424	0.857
+marguerite	497	494	0.996
+annabelle	498	474	0.954
+bikini girl	500	495	0.992
+olive	500	469	0.938
+olívia	500	499	0.998
+marcy	500	471	0.944
+estelle	501	497	0.994
+ginny	502	493	0.982
+infirmière	502	500	0.996
+kristen	503	485	0.966
+zoey	504	493	0.978
+girl at party	504	482	0.958
+inez	505	501	0.994
+dafne	506	505	0.998
+marga	509	503	0.990
+ivana	510	476	0.933
+vivi	511	499	0.978
+sekretärin	511	505	0.990
+nuria	511	510	0.998
+summer	512	471	0.920
+margo	515	500	0.973
+gertrude	515	486	0.946
+nelly	518	486	0.940
+sabina	519	509	0.983
+fairy	522	451	0.866
+baric	522	520	0.996
+sydney dimera	522	497	0.954
+christy	523	489	0.935
+juana	523	520	0.996
+colette	526	524	0.996
+little mo	527	517	0.981
+mira	529	512	0.970
+lassie	530	499	0.943
+bertha	531	527	0.994
+alejandra	531	528	0.994
+xana	532	529	0.994
+alina	532	521	0.981
+doreen	533	528	0.992
+hazel	533	489	0.919
+bar girl	536	499	0.931
+svetlana	536	534	0.996
+lita	539	534	0.991
+astrid	539	524	0.972
+elsie	541	527	0.974
+blanche	542	531	0.982
+terri	543	520	0.959
+fatima	544	524	0.963
+elderly woman	545	535	0.983
+marisol	545	537	0.985
+abi	546	527	0.965
+melinda	548	536	0.980
+charlie bartlett	549	547	0.996
+lillian	550	536	0.976
+aunt	550	526	0.956
+pregnant woman	552	528	0.958
+pretty girl	552	540	0.980
+berenice	554	550	0.995
+gilda	555	528	0.953
+fifi	555	468	0.845
+midwife	558	542	0.971
+cake decorator	561	476	0.850
+kayla	563	542	0.963
+telephone operator	563	522	0.929
+mila	564	551	0.977
+nyheterna	567	534	0.944
+thelma	568	566	0.998
+opal	570	567	0.995
+lynne	570	568	0.996
+marla	571	552	0.968
+clarissa	571	558	0.979
+carola	571	570	0.998
+virginie	572	571	0.998
+jeannie	573	566	0.988
+brandy	574	535	0.932
+niña	574	554	0.965
+delia	575	569	0.991
+rosalie	575	566	0.984
+katy	577	553	0.960
+kristina	577	564	0.977
+patsy	578	513	0.888
+sherry	578	550	0.952
+katrina	578	558	0.967
+marcia	580	555	0.957
+marissa	581	553	0.954
+kara	581	516	0.890
+groupie	583	505	0.868
+katya	585	569	0.973
+josephine	588	541	0.920
+socorro	589	586	0.997
+chica	589	572	0.973
+françoise	590	585	0.993
+maxine	592	573	0.968
+shelley	592	540	0.914
+reportera	593	585	0.988
+kika	594	590	0.993
+camilla	595	561	0.945
+flo	596	529	0.889
+milena	596	594	0.997
+l'infirmière	597	595	0.997
+madeline	597	573	0.960
+missy	598	582	0.973
+georgia	598	564	0.945
+belle black	598	596	0.997
+melina	604	603	0.998
+yvette	605	603	0.997
+penelope	605	575	0.950
+bobby simpson	605	599	0.990
+myra	605	595	0.983
+bailarina	606	589	0.972
+lizzie	607	583	0.960
+susanne	608	606	0.997
+paige	608	574	0.946
+lea	609	580	0.952
+conan edogawa	609	607	0.998
+madre superiora	609	607	0.998
+amparo	610	604	0.992
+saleswoman	611	608	0.995
+elise	613	591	0.964
+emilia	614	603	0.982
+letícia	614	612	0.997
+mari	614	595	0.971
+fox business	615	538	0.876
+marge simpson	615	613	0.997
+masha	616	605	0.982
+charlie fischer	616	614	0.997
+muriel	616	588	0.955
+marge	618	604	0.979
+cora	619	599	0.968
+consuelo	619	615	0.995
+begoña	623	622	0.998
+marcela	623	621	0.998
+clarisse	624	623	0.998
+anya	624	606	0.973
+flavia	626	624	0.997
+belle	626	613	0.979
+matilda	627	611	0.976
+frances	627	580	0.925
+luciana	630	627	0.997
+suzie	631	604	0.957
+gabrielle	631	615	0.976
+cuca	631	624	0.989
+adele	632	628	0.995
+bart simpson	633	631	0.997
+krankenschwester	635	632	0.995
+misty	635	609	0.959
+carole	636	614	0.967
+blanca	637	621	0.976
+phoebe	639	628	0.983
+frida	640	599	0.937
+tracey	642	587	0.914
+diva	643	627	0.977
+rafaela	643	642	0.998
+paulina	644	643	0.998
+celina	644	639	0.994
+melody	644	618	0.961
+francine	644	630	0.980
+amália	649	648	0.998
+darlene	651	642	0.988
+roxanne	652	628	0.965
+mildred	652	572	0.879
+catalina	654	648	0.992
+isa	655	598	0.915
+lourdes	656	654	0.997
+mathilde	656	653	0.995
+fly girl	662	661	0.998
+queen	666	575	0.865
+tertuliana	668	667	0.999
+gisela	669	665	0.996
+honey	672	635	0.945
+roberta	672	643	0.957
+tanja	675	673	0.999
+whitney	677	626	0.925
+felicia	678	655	0.968
+martine	684	652	0.953
+ofelia	685	680	0.993
+brittany	685	630	0.921
+pepa	685	640	0.936
+juliet	685	653	0.955
+ash ketchum	685	659	0.962
+suzana	685	684	0.999
+maja	686	685	0.999
+concha	689	685	0.994
+sonya	692	685	0.991
+vera duckworth	693	692	0.999
+the maid	695	676	0.973
+trixie	697	676	0.971
+trudy	701	692	0.987
+libby	702	640	0.913
+mindy	705	677	0.962
+inés	706	705	0.999
+deborah	707	688	0.973
+tasha	710	663	0.934
+lindsay	710	639	0.900
+beverly	712	679	0.955
+graça	712	711	0.999
+phyllis	713	697	0.979
+school girl	714	676	0.947
+eileen	714	701	0.982
+rosário	715	711	0.994
+lynn	716	658	0.919
+hot girl	718	688	0.958
+viola	721	644	0.893
+katia	721	716	0.993
+solange	724	690	0.953
+eleanor	724	696	0.963
+ethel	725	710	0.979
+angelica	726	721	0.994
+musashi	726	705	0.972
+nana	727	676	0.930
+lucie	727	722	0.994
+blonde	728	693	0.952
+showgirl	729	720	0.989
+becca	735	706	0.961
+mina	737	704	0.955
+paola	743	734	0.989
+satoshi	746	724	0.971
+son goku	749	744	0.993
+dina	752	736	0.979
+gaby	752	658	0.875
+juanita	755	739	0.979
+madre	755	734	0.974
+lucinda	757	746	0.987
+bénédicte	760	759	0.999
+clare	762	749	0.983
+marisa	762	759	0.997
+townswoman	764	758	0.992
+ada	766	746	0.974
+sadie	769	745	0.969
+bridget	769	747	0.971
+schoolgirl	770	752	0.978
+granny	773	633	0.819
+clotilde	773	772	0.999
+estela	776	775	0.999
+sonja	777	773	0.996
+valeria	779	774	0.995
+rhonda	781	760	0.973
+tania	782	766	0.981
+edna	782	765	0.980
+madison	783	664	0.848
+selma	783	777	0.994
+carly	785	753	0.961
+hope	786	751	0.955
+josie	787	733	0.933
+renee	791	759	0.960
+vilma	792	789	0.996
+ivy	792	760	0.960
+faith	794	755	0.952
+la mère	794	782	0.986
+enfermera	794	778	0.980
+joanne	796	783	0.985
+paloma	796	782	0.984
+amalia	798	778	0.975
+ursula	799	787	0.986
+rocío	800	798	0.998
+mutter	803	792	0.988
+katherine	804	790	0.983
+liza	805	775	0.964
+estrella	808	802	0.994
+esmeralda	808	803	0.995
+theresa	809	788	0.974
+adriana	810	793	0.979
+leah	814	767	0.942
+gretchen	814	797	0.979
+jacqueline	818	816	0.998
+carmo	819	815	0.995
+nami	823	822	0.999
+kimberly	823	802	0.974
+sam mccall	825	823	0.998
+helen helmink	825	824	0.999
+monika	826	819	0.993
+trish	829	805	0.971
+joanna	832	807	0.970
+jana	835	823	0.987
+housekeeper	836	787	0.943
+heidi	837	800	0.956
+karina	844	840	0.996
+jenna	844	801	0.950
+lori	846	796	0.941
+shelly	847	752	0.888
+sally spectra	847	797	0.941
+florence	848	815	0.961
+leila	851	833	0.979
+angelina	860	844	0.981
+julieta	862	858	0.997
+maureen	862	856	0.994
+madeleine	863	855	0.992
+elisabeth	863	858	0.995
+erin	864	801	0.928
+verónica	877	874	0.998
+daphne	878	855	0.974
+dr. helen thompson	880	879	0.999
+betsy	882	856	0.972
+justine	885	869	0.982
+edith	887	869	0.980
+harriet	887	872	0.983
+chantal	890	874	0.983
+filipa	891	890	0.999
+lois	893	791	0.887
+lorraine	901	878	0.976
+vivian	901	866	0.961
+mabel	901	820	0.911
+yolanda	901	885	0.983
+irma	902	893	0.991
+chi-chi	902	893	0.990
+weather girl	908	904	0.997
+ida	910	891	0.979
+courtney	911	821	0.902
+gladys	913	886	0.970
+hanna	915	884	0.966
+rebeca	916	910	0.993
+renata	917	915	0.998
+sabine	921	915	0.993
+anna dierckx	922	911	0.988
+bridget forrester	923	922	0.999
+witch	925	823	0.890
+sylvie	925	909	0.984
+meg	929	893	0.962
+belinda	932	915	0.983
+dolly	935	905	0.968
+margot	938	932	0.994
+karla	939	900	0.958
+kiki	941	812	0.863
+the wife	941	912	0.970
+ramona	944	923	0.979
+johanna	945	941	0.996
+gemma	945	925	0.979
+lorena	947	941	0.994
+carlota	947	944	0.998
+marilyn	949	921	0.972
+irina	949	910	0.960
+bea	949	936	0.986
+marlene	949	942	0.994
+brooke	954	890	0.933
+lana	954	922	0.966
+violet	963	928	0.965
+sheridan crane	964	963	0.999
+bridesmaid	967	922	0.954
+abigail	967	936	0.969
+nadine	969	945	0.976
+pamela	973	953	0.979
+millie	975	957	0.982
+beatrice	978	957	0.979
+camille	980	862	0.881
+nathalie	981	980	0.999
+gigi	981	799	0.815
+fiona	984	955	0.971
+cassie	987	942	0.955
+meteorologist	988	880	0.891
+polly	989	941	0.951
+margarita	991	988	0.998
+layla	993	976	0.983
+erika	1001	976	0.975
+vicki	1002	996	0.994
+chorus girl	1007	1001	0.995
+gail	1008	976	0.968
+serena	1009	984	0.975
+the witch	1009	980	0.972
+tess	1011	986	0.975
+the mother	1013	960	0.949
+hope logan	1014	1010	0.997
+odete	1022	1021	0.999
+juliette	1023	1017	0.994
+rosita	1026	1018	0.993
+tammy	1028	970	0.945
+liliane	1028	1025	0.997
+nanny	1030	975	0.947
+elaine	1030	1024	0.995
+martina	1032	1012	0.982
+gabriela	1036	991	0.958
+erica	1037	997	0.962
+the woman	1037	943	0.909
+evelyn	1037	990	0.955
+ester	1039	1034	0.995
+amelia	1040	1011	0.972
+adelaide	1040	1032	0.993
+patty	1042	969	0.931
+princess	1044	987	0.945
+alison	1047	1009	0.964
+matron	1047	1039	0.992
+greta	1050	999	0.951
+leonor	1051	1048	0.998
+dulce	1053	1051	0.998
+flight attendant	1059	940	0.889
+alexandra	1059	1038	0.980
+lilly	1068	1024	0.960
+brigitte	1068	1059	0.993
+bride	1073	1015	0.947
+joyce	1078	1013	0.940
+juliana	1081	1077	0.997
+tatiana	1090	1087	0.997
+celia	1092	1075	0.985
+jasmine	1095	1042	0.953
+deirdre barlow	1095	1094	0.999
+annette	1096	1078	0.984
+cassandra	1097	1054	0.961
+sophia	1100	1035	0.942
+bonnie	1101	1082	0.984
+cecilia	1105	1101	0.996
+mama	1109	1004	0.906
+chelsea	1110	1038	0.935
+susie	1112	1079	0.970
+policewoman	1113	1088	0.978
+bella	1115	1059	0.950
+joy	1115	1055	0.947
+victoria newman	1117	1114	0.997
+abby	1124	1045	0.930
+christina	1128	1081	0.959
+lara	1130	1058	0.937
+azafata	1131	1124	0.994
+francesca	1134	1112	0.981
+april	1138	1080	0.950
+lili	1140	1129	0.991
+jen	1144	1072	0.937
+lucía	1148	1144	0.997
+ellie	1148	1090	0.950
+madalena	1151	1150	0.999
+beauty	1153	1127	0.977
+carrie	1155	1112	0.964
+june	1156	1106	0.957
+isabella	1158	1141	0.985
+valerie	1161	1116	0.961
+barmaid	1162	1128	0.972
+lupe	1164	1079	0.927
+housewife	1166	1152	0.989
+jade	1171	1100	0.940
+crystal	1174	1109	0.945
+camila	1177	1169	0.993
+lucia	1189	1180	0.992
+rosario	1191	1054	0.885
+fanny	1192	1173	0.984
+winnie	1195	1164	0.975
+karin	1200	1127	0.940
+petra	1206	1190	0.987
+miranda	1207	1104	0.915
+stewardess	1218	1206	0.991
+mum	1240	1146	0.924
+helga	1244	1239	0.997
+lulu	1245	1105	0.888
+ella	1248	1170	0.938
+valentina	1252	1243	0.994
+antonia	1254	1191	0.951
+roxy	1257	1218	0.970
+agnes	1264	1232	0.975
+ann	1268	1238	0.977
+pilar	1271	1266	0.997
+jeanne	1272	1269	0.998
+allison	1281	1201	0.938
+luna	1284	1243	0.969
+violeta	1286	1284	0.998
+carmela	1288	1285	0.998
+judith	1289	1280	0.994
+pikachu	1298	1284	0.989
+monique	1300	1269	0.977
+stacy	1306	1227	0.940
+suzanne	1312	1304	0.995
+pam	1313	1289	0.982
+dr. marlena evans	1317	1316	0.999
+tara	1318	1268	0.962
+cathy	1322	1299	0.983
+sabrina	1326	1289	0.973
+dorothy	1327	1289	0.972
+virginia	1331	1320	0.992
+gwen	1334	1303	0.978
+lila	1335	1329	0.996
+danielle	1353	1294	0.957
+marianne	1354	1344	0.993
+mara	1358	1319	0.971
+celeste	1362	1327	0.975
+hilda	1364	1355	0.993
+yvonne	1369	1355	0.990
+alma	1370	1339	0.978
+may	1371	1324	0.966
+janine	1380	1351	0.979
+hélène	1388	1387	0.999
+lina	1389	1386	0.998
+mona	1403	1359	0.969
+wanda	1404	1366	0.974
+aurora	1410	1404	0.996
+cheryl	1415	1370	0.969
+janice	1426	1293	0.907
+young girl	1430	1349	0.944
+landlady	1439	1427	0.992
+lady	1453	1393	0.959
+tamara	1461	1440	0.986
+suzy	1467	1455	0.993
+naomi	1470	1439	0.980
+audrey	1473	1412	0.959
+kitty	1479	1429	0.966
+miriam	1491	1476	0.991
+dana	1494	1394	0.933
+natasha	1495	1438	0.963
+connie	1498	1409	0.941
+nadia	1502	1471	0.980
+dot	1514	1495	0.988
+sílvia	1514	1513	0.999
+lydia	1521	1511	0.993
+norma	1523	1501	0.986
+isabelle	1528	1517	0.993
+dawn	1536	1488	0.969
+daniela	1548	1542	0.997
+kat	1548	1482	0.957
+bárbara	1557	1556	0.999
+tracy	1559	1387	0.890
+susana	1561	1552	0.994
+penny	1579	1513	0.959
+candy	1583	1484	0.938
+júlia	1585	1580	0.997
+sister	1612	1483	0.921
+manuela	1613	1606	0.996
+catarina	1616	1614	0.999
+nun	1626	1576	0.969
+silvia	1627	1535	0.944
+becky	1629	1567	0.962
+old lady	1630	1555	0.955
+grandmother	1632	1550	0.950
+sue	1634	1565	0.958
+cynthia	1638	1596	0.974
+patricia	1650	1593	0.965
+ingrid	1652	1643	0.995
+berta	1655	1650	0.997
+young woman	1658	1584	0.956
+sofía	1659	1655	0.998
+grandma	1682	1553	0.924
+fernanda	1712	1708	0.998
+stripper	1720	1536	0.893
+doris	1721	1686	0.980
+joan	1729	1528	0.884
+rosie	1744	1672	0.959
+holly	1747	1630	0.934
+catherine	1762	1734	0.984
+stacey	1768	1639	0.928
+nikki	1781	1694	0.951
+judy	1787	1736	0.972
+hooker	1791	1688	0.942
+carolina	1814	1781	0.982
+magda	1831	1826	0.997
+flora	1834	1826	0.996
+shirley	1853	1797	0.970
+veronica	1864	1790	0.960
+natalia	1875	1868	0.997
+mandy	1880	1804	0.960
+secretaria	1894	1891	0.998
+ruby	1897	1746	0.920
+mimi	1909	1870	0.980
+maya	1909	1846	0.968
+angie	1914	1792	0.936
+eve	1920	1839	0.958
+old woman	1939	1862	0.960
+diane	1941	1922	0.990
+jessie	1957	1698	0.868
+luisa	1988	1981	0.996
+megan	2001	1909	0.954
+raquel	2006	2000	0.998
+the girl	2045	1875	0.917
+esther	2048	2020	0.987
+alicia	2050	2013	0.982
+margaret	2051	2009	0.980
+party girl	2053	1980	0.964
+janet	2055	1994	0.971
+elisa	2063	2055	0.996
+olivia	2067	1980	0.958
+elsa	2072	2066	0.998
+daisy	2073	1997	0.964
+jill	2079	1984	0.954
+cheerleader	2081	1935	0.930
+dolores	2085	2076	0.996
+donna	2087	2003	0.960
+iris	2098	2030	0.968
+fátima	2103	2102	1.000
+amber	2109	2032	0.964
+brenda	2113	2039	0.965
+dora	2118	2102	0.992
+sylvia	2129	2097	0.985
+mercedes	2138	2109	0.987
+hannah	2143	2043	0.954
+christine	2144	2084	0.972
+stephanie	2155	2063	0.958
+regina	2162	2142	0.991
+lena	2167	2149	0.992
+melanie	2173	2130	0.980
+tanya	2177	2134	0.980
+sheila	2193	2165	0.988
+nora	2194	2175	0.991
+tiffany	2213	2157	0.975
+girlfriend	2240	2051	0.916
+caroline	2240	2206	0.985
+zoe	2260	2173	0.962
+matilde	2268	2265	0.999
+lauren	2274	2184	0.960
+chloe	2283	2190	0.959
+ellen	2297	2262	0.985
+mia	2303	2235	0.971
+claudia	2304	2290	0.994
+liz	2316	2239	0.967
+maría	2318	2314	0.999
+beatriz	2338	2335	0.999
+debbie	2363	2300	0.973
+colaboradora	2380	2379	1.000
+bianca	2394	2375	0.992
+melissa	2412	2321	0.963
+denise	2415	2371	0.982
+natalie	2448	2359	0.964
+rebecca	2453	2368	0.965
+victoria	2460	2385	0.970
+lily	2481	2374	0.957
+daughter	2507	2261	0.902
+wendy	2535	2473	0.976
+ashley	2542	2132	0.839
+katie	2544	2392	0.941
+elvira	2561	2555	0.998
+grace	2582	2470	0.957
+elizabeth	2623	2507	0.956
+jackie	2631	2143	0.815
+stella	2638	2591	0.982
+heather	2646	2566	0.970
+pauline	2654	2644	0.996
+simone	2660	2439	0.917
+anita	2664	2649	0.995
+prostitute	2697	2567	0.952
+vicky	2701	2554	0.946
+martha	2712	2689	0.992
+marion	2714	2637	0.972
+elena	2728	2711	0.994
+anne	2742	2655	0.969
+molly	2766	2662	0.963
+cristina	2809	2803	0.998
+maggie	2819	2723	0.966
+peggy	2850	2835	0.995
+beth	2892	2785	0.963
+sharon	2912	2865	0.984
+charlotte	2916	2647	0.908
+kathy	2951	2931	0.993
+monica	2956	2890	0.978
+samantha	2994	2851	0.952
+barbara	3009	2968	0.987
+vera	3066	3025	0.987
+ruth	3071	3040	0.990
+irene	3112	3093	0.994
+nicole	3141	3059	0.974
+nancy	3172	3077	0.970
+little girl	3200	2991	0.935
+kim	3215	2693	0.838
+marina	3224	3216	0.998
+helena	3229	3222	0.998
+cindy	3231	3133	0.970
+gina	3275	3212	0.981
+actress	3315	3246	0.979
+annie	3336	3252	0.975
+louise	3430	3353	0.978
+gloria	3430	3385	0.987
+vanessa	3444	3370	0.979
+sonia	3456	3399	0.984
+carla	3472	3440	0.991
+rose	3519	3359	0.955
+wife	3541	3308	0.934
+lola	3560	3492	0.981
+olga	3582	3571	0.997
+diana	3603	3576	0.993
+maid	3629	3568	0.983
+joana	3654	3652	0.999
+emily	3723	3538	0.951
+jennifer	3725	3603	0.968
+betty	3726	3658	0.982
+amanda	3744	3607	0.963
+helen	3777	3746	0.992
+claire	3786	3645	0.963
+sally	3921	3795	0.968
+michelle	3966	3822	0.964
+paula	3996	3970	0.993
+angela	4018	3928	0.978
+sophie	4039	3891	0.963
+isabel	4095	4082	0.997
+sofia	4103	4085	0.996
+carol	4120	4013	0.974
+karen	4159	4009	0.964
+kate	4208	4054	0.963
+mariana	4219	4210	0.998
+carmen	4224	4128	0.977
+amy	4306	4131	0.960
+tina	4323	4229	0.978
+kelly	4364	3640	0.834
+lexicographer	4402	3731	0.848
+julia	4618	4468	0.968
+nina	4618	4588	0.994
+rachel	4655	4458	0.958
+marie	4711	4666	0.990
+mom	4740	4329	0.914
+jessica	4773	4585	0.961
+clara	4794	4770	0.995
+teresa	4825	4809	0.997
+susan	4841	4754	0.982
+emma	4890	4740	0.970
+ana	4895	4857	0.992
+marta	5026	5009	0.997
+sandra	5027	4963	0.987
+lucy	5089	4918	0.966
+jenny	5141	4976	0.968
+eva	5167	5127	0.992
+linda	5545	5434	0.980
+sara	5718	5548	0.970
+julie	5953	5785	0.972
+receptionist	6140	5402	0.880
+jane	6189	6009	0.971
+secretary	6488	5682	0.876
+rosa	6745	6719	0.996
+rita	6945	6898	0.993
+alice	6958	6723	0.966
+mary	7251	6958	0.960
+co-hostess	7858	7844	0.998
+anna	8214	7977	0.971
+lisa	8357	8162	0.977
+sarah	8624	8212	0.952
+maria	9965	9871	0.991
+laura	10008	9931	0.992
+mother	10761	9983	0.928
+waitress	11529	11094	0.962
+woman	11789	11176	0.948
+girl	12392	11565	0.933
+nurse	22099	20787	0.941
+model	31193	30282	0.971
+hostess	74842	74768	0.999

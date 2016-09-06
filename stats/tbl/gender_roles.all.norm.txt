@@ -1,0 +1,51 @@
+	female		male
+host	0.0180	host	0.0323
+hostess	0.0109	narrator	0.0066
+presenter	0.0058	announcer	0.0051
+newsreader	0.0050	presenter	0.0045
+model	0.0044	guest	0.0040
+guest	0.0043	various	0.0030
+contestant	0.0042	newsreader	0.0028
+reporter	0.0038	various characters	0.0028
+nurse	0.0030	contestant	0.0027
+dancer	0.0028	reporter	0.0027
+panelist	0.0026	panelist	0.0023
+various	0.0021	judge	0.0022
+judge	0.0021	additional voices	0.0020
+narrator	0.0020	co-host	0.0019
+co-host	0.0018	doctor	0.0016
+various characters	0.0018	policeman	0.0014
+girl	0.0017	performer	0.0013
+singer	0.0017	man	0.0012
+woman	0.0016	bartender	0.0012
+waitress	0.0016	various roles	0.0011
+correspondent	0.0016	singer	0.0011
+mother	0.0015	correspondent	0.0011
+laura	0.0014	dancer	0.0011
+maria	0.0014	waiter	0.0010
+additional voices	0.0014	police officer	0.0010
+performer	0.0012	cop	0.0009
+sarah	0.0012	soldier	0.0009
+lisa	0.0012	david	0.0009
+anna	0.0012	student	0.0009
+co-hostess	0.0011	guard	0.0009
+student	0.0011	detective	0.0008
+mary	0.0010	paul	0.0008
+rita	0.0010	tom	0.0008
+alice	0.0010	sports newsreader	0.0008
+rosa	0.0010	john	0.0008
+jane	0.0009	jack	0.0008
+various roles	0.0009	commentator	0.0008
+julie	0.0008	townsman	0.0007
+secretary	0.0008	mike	0.0007
+sara	0.0008	max	0.0007
+linda	0.0008	extra	0.0007
+receptionist	0.0008	frank	0.0007
+extra	0.0008	boy	0.0007
+eva	0.0007	mark	0.0007
+marta	0.0007	tony	0.0007
+jenny	0.0007	george	0.0007
+sandra	0.0007	sam	0.0007
+lucy	0.0007	musician	0.0007
+ana	0.0007	interviewee	0.0007
+teresa	0.0007	joe	0.0007
