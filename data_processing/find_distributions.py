@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
+from __future__ import print_function
 from collections import Counter
 import operator
 import sys
@@ -20,7 +21,7 @@ for year, year_records in itertools.groupby(iter_rows(sys.stdin), operator.itemg
                 seen.add(key)
                 counts = Counter(g for _, _, _, g, _, _, _, _ in records)
                 total = sum(counts.values())
-                dist = {g: c / total for g, c in counts.items()}
+                dist = {g: c / float(total) for g, c in counts.items()}
                 print('{}\t{}\t{}\t{}\t{}\t{:.5f}\t{:.5f}'.format(
                         year, role, medium, country, 
                         total, dist.get('F', 0), dist.get('M', 0)))

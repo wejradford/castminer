@@ -23,4 +23,4 @@ companies.txt: $(DATA)/production-companies.list.gz
 	cat companies.log
 
 clean:
-	rm -rf m.txt f.txt all.txt parts.csv parts.sqlite
+	rm -rf m.txt f.txt all.txt parts.csv parts.sqlite all.txt.sorted companies.txt
