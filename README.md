@@ -3,6 +3,7 @@
 This is the code release for the work in [Tracking onscreen gender and role bias over time](http://www.webscience-journal.net/webscience/article/view/23) in the [Journal of Web Science](http://www.webscience-journal.net/webscience), currently in pre-print.
 
 The code is split into two parts:
+
 1. **Data processing** Preprocess an IMDb plain text data release into an `sqlite` database.
 2. **Analysis** Run extraction and plotting scripts.
 
@@ -20,7 +21,7 @@ It also assumes that you have the following system packages installed (using (ho
 Depending on your setup, you may or may not need the steps below:
 ```bash
 cd /path/to/checked-out-code
-virtualenv ve
+virtualenv --system-site-packages ve
 source ve/bin/activate
 pip install --upgrade pip
 # Sometimes numpy and scipy are happier installed in separate steps...
