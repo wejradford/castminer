@@ -1,4 +1,6 @@
 .*swp
+*.pyc
 ve
 data_processing/*.log
+data_processing/log.err
 data_processing/*.txt
